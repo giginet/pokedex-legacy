@@ -25,12 +25,14 @@ class Scraper(object):
                 name = list(name)[0].text
                 return (no, name, url)
             return None
-        infos = filter(lambda p: p, [get_urls(tr) for tr in trs])
-        for info in infos:
+        self.infos = filter(lambda p: p, [get_urls(tr) for tr in trs])
+
+    def fetch(self, output_dir, interval=1.0):
+        for info in self.infos:
             pokemon = self._parse_pokemon(info)
             print "%d %s parsed" % (pokemon.number, pokemon.name)
-            time.sleep(1.0)
-            pokemon.save_json('dex')
+            time.sleep(interval)
+            pokemon.save_json(output_dir)
 
     def _parse_pokemon(self, info):
         no, name, url = info
@@ -50,6 +52,12 @@ class Scraper(object):
         except:
             pokemon.species = ''
 
+        try:
+            image_url = tables[0].cssselect('tr')[index][1].cssselect('img')[0].attrib['src']
+            pokemon.image_url = image_url
+        except:
+            pokemon.image_url = ''
+
         # types
         try:
             index += 1
@@ -60,7 +68,7 @@ class Scraper(object):
 
         # egg group
         try:
-            index += len(pokemon.types)
+            index += 2
             egg_groups = tables[0].cssselect('tr')[index][1].text_content().split('/')
             pokemon.egg_groups = map(lambda egg_group: egg_group.strip(), egg_groups)
         except:

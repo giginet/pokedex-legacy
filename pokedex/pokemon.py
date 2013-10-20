@@ -1,5 +1,6 @@
 import json
 import os
+import codecs
 
 class Pokemon(object):
 
@@ -30,15 +31,16 @@ class Pokemon(object):
             'friendship' : self.friendship,
             'exp' : self.exp,
             'abilities' : self.abilities,
-            'parameters' : self.parameters
+            'parameters' : self.parameters,
+            'image_url' : self.image_url
         }
 
     def to_json(self):
         return json.dumps(self.to_dict())
 
     def save_json(self, dirpath):
+        # Ref http://d.hatena.ne.jp/tatz_tsuchiya/20120227/1330325015
         json_string = self.to_json()
-        cwd = os.getcwd()
-        f = open(os.path.join(cwd, dirpath, "dex%d.json" % self.number), 'w')
-        f.write(json_string)
+        f = codecs.open(os.path.join(dirpath, "dex%d.json" % self.number), 'w', 'utf-8')
+        json.dump(json_string, f, indent=2, sort_keys=True, ensure_ascii=False)
         f.close()
