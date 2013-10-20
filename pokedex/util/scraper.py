@@ -31,8 +31,8 @@ class Scraper(object):
         for info in self.infos:
             pokemon = self._parse_pokemon(info)
             print "%d %s parsed" % (pokemon.number, pokemon.name)
-            time.sleep(interval)
             pokemon.save_json(output_dir)
+            time.sleep(interval)
 
     def _parse_pokemon(self, info):
         no, name, url = info

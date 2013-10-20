@@ -35,12 +35,9 @@ class Pokemon(object):
             'image_url' : self.image_url
         }
 
-    def to_json(self):
-        return json.dumps(self.to_dict())
-
     def save_json(self, dirpath):
         # Ref http://d.hatena.ne.jp/tatz_tsuchiya/20120227/1330325015
-        json_string = self.to_json()
+        data = self.to_dict()
         f = codecs.open(os.path.join(dirpath, "dex%d.json" % self.number), 'w', 'utf-8')
-        json.dump(json_string, f, indent=2, sort_keys=True, ensure_ascii=False)
+        json.dump(data, f, indent=2, sort_keys=True, ensure_ascii=False)
         f.close()
