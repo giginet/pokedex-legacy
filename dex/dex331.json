@@ -1,1 +1,30 @@
-{"abilities": ["\u3059\u306a\u304c\u304f\u308c", "\u3061\u3087\u3059\u3044"], "weight": 50.0, "number": 331, "height": 50.0, "species": "\u30b5\u30dc\u30c6\u30f3\u30dd\u30b1\u30e2\u30f3", "types": ["\u304f\u3055"], "egg_groups": [], "name": "\u30b5\u30dc\u30cd\u30a2", "parameters": {"defense": 40, "hp": 50, "attack": 85, "critical": 85, "total": 335, "speed": 35, "block": 40}, "exp": 35, "friendship": 0}
+{
+  "abilities": [
+    "すながくれ", 
+    "ちょすい"
+  ], 
+  "egg_groups": [
+    "しょくぶつ", 
+    "ひとがた"
+  ], 
+  "exp": 5120, 
+  "friendship": 35, 
+  "height": 0.4, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/331-m.png", 
+  "name": "サボネア", 
+  "number": 331, 
+  "parameters": {
+    "attack": 85, 
+    "block": 40, 
+    "critical": 85, 
+    "defense": 40, 
+    "hp": 50, 
+    "speed": 35, 
+    "total": 335
+  }, 
+  "species": "サボテンポケモン", 
+  "types": [
+    "くさ"
+  ], 
+  "weight": 51.3
+}

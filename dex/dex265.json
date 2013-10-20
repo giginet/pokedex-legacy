@@ -1,1 +1,29 @@
-{"abilities": ["\u308a\u3093\u3077\u3093", "\u306b\u3052\u3042\u3057"], "weight": 50.0, "number": 265, "height": 50.0, "species": "\u3044\u3082\u3080\u3057\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057"], "egg_groups": [], "name": "\u30b1\u30e0\u30c3\u30bd", "parameters": {"defense": 30, "hp": 45, "attack": 45, "critical": 20, "total": 195, "speed": 20, "block": 35}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "りんぷん", 
+    "にげあし"
+  ], 
+  "egg_groups": [
+    "むし"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 0.3, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/265-m.png", 
+  "name": "ケムッソ", 
+  "number": 265, 
+  "parameters": {
+    "attack": 45, 
+    "block": 35, 
+    "critical": 20, 
+    "defense": 30, 
+    "hp": 45, 
+    "speed": 20, 
+    "total": 195
+  }, 
+  "species": "いもむしポケモン", 
+  "types": [
+    "むし"
+  ], 
+  "weight": 3.6
+}

@@ -1,1 +1,31 @@
-{"abilities": ["\u3069\u304f\u306e\u30c8\u30b2", "\u3080\u3057\u306e\u3057\u3089\u305b", "\u306f\u3084\u3042\u3057"], "weight": 58.5, "number": 544, "height": 1.2, "species": "\u307e\u3086\u30e0\u30ab\u30c7\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057", "\u3069\u304f"], "egg_groups": ["\u3080\u3057"], "name": "\u30db\u30a4\u30fc\u30ac", "parameters": {"defense": 79, "hp": 40, "attack": 55, "critical": 40, "total": 360, "speed": 47, "block": 99}, "exp": 3840, "friendship": 70}
+{
+  "abilities": [
+    "どくのトゲ", 
+    "むしのしらせ", 
+    "はやあし"
+  ], 
+  "egg_groups": [
+    "むし"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 1.2, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/544.png", 
+  "name": "ホイーガ", 
+  "number": 544, 
+  "parameters": {
+    "attack": 55, 
+    "block": 99, 
+    "critical": 40, 
+    "defense": 79, 
+    "hp": 40, 
+    "speed": 47, 
+    "total": 360
+  }, 
+  "species": "まゆムカデポケモン", 
+  "types": [
+    "むし", 
+    "どく"
+  ], 
+  "weight": 58.5
+}

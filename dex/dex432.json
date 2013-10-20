@@ -1,1 +1,30 @@
-{"abilities": ["\u3042\u3064\u3044\u3057\u307c\u3046", "\u30de\u30a4\u30da\u30fc\u30b9", "\u307e\u3051\u3093\u304d"], "weight": 75.0, "number": 432, "height": 25.0, "species": "\u3068\u3089\u306d\u3053\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30d6\u30cb\u30e3\u30c3\u30c8", "parameters": {"defense": 59, "hp": 71, "attack": 82, "critical": 64, "total": 452, "speed": 112, "block": 64}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "あついしぼう", 
+    "マイペース", 
+    "まけんき"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/432-m.png", 
+  "name": "ブニャット", 
+  "number": 432, 
+  "parameters": {
+    "attack": 82, 
+    "block": 64, 
+    "critical": 64, 
+    "defense": 59, 
+    "hp": 71, 
+    "speed": 112, 
+    "total": 452
+  }, 
+  "species": "とらねこポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 43.8
+}

@@ -1,1 +1,31 @@
-{"abilities": ["\u3088\u3046\u308a\u3087\u304f\u305d", "\u305d\u3046\u3057\u3087\u304f", "\u3066\u3093\u306e\u3081\u3050\u307f"], "weight": 92.5, "number": 586, "height": 1.9, "species": "\u304d\u305b\u3064\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb", "\u304f\u3055"], "egg_groups": ["\u308a\u304f\u3058\u3087\u3046"], "name": "\u30e1\u30d6\u30ad\u30b8\u30ab", "parameters": {"defense": 70, "hp": 80, "attack": 100, "critical": 60, "total": 475, "speed": 95, "block": 70}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "ようりょくそ", 
+    "そうしょく", 
+    "てんのめぐみ"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.9, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/586.png", 
+  "name": "メブキジカ", 
+  "number": 586, 
+  "parameters": {
+    "attack": 100, 
+    "block": 70, 
+    "critical": 60, 
+    "defense": 70, 
+    "hp": 80, 
+    "speed": 95, 
+    "total": 475
+  }, 
+  "species": "きせつポケモン", 
+  "types": [
+    "ノーマル", 
+    "くさ"
+  ], 
+  "weight": 92.5
+}

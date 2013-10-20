@@ -1,1 +1,29 @@
-{"abilities": ["\u304c\u3093\u3058\u3087\u3046", "\u3059\u306a\u304c\u304f\u308c"], "weight": 50.0, "number": 232, "height": 50.0, "species": "\u3088\u308d\u3044\u30dd\u30b1\u30e2\u30f3", "types": ["\u3058\u3081\u3093"], "egg_groups": [], "name": "\u30c9\u30f3\u30d5\u30a1\u30f3", "parameters": {"defense": 60, "hp": 90, "attack": 120, "critical": 60, "total": 500, "speed": 50, "block": 120}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "がんじょう", 
+    "すながくれ"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.1, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/232-m.png", 
+  "name": "ドンファン", 
+  "number": 232, 
+  "parameters": {
+    "attack": 120, 
+    "block": 120, 
+    "critical": 60, 
+    "defense": 60, 
+    "hp": 90, 
+    "speed": 50, 
+    "total": 500
+  }, 
+  "species": "よろいポケモン", 
+  "types": [
+    "じめん"
+  ], 
+  "weight": 120.0
+}

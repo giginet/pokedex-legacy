@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 50.0, "number": 200, "height": 50.0, "species": "\u3088\u306a\u304d\u30dd\u30b1\u30e2\u30f3", "types": ["\u30b4\u30fc\u30b9\u30c8"], "egg_groups": [], "name": "\u30e0\u30a6\u30de", "parameters": {"defense": 85, "hp": 60, "attack": 60, "critical": 85, "total": 435, "speed": 85, "block": 60}, "exp": 35, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "ふていけい"
+  ], 
+  "exp": 6400, 
+  "friendship": 35, 
+  "height": 0.7, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/200-m.png", 
+  "name": "ムウマ", 
+  "number": 200, 
+  "parameters": {
+    "attack": 60, 
+    "block": 60, 
+    "critical": 85, 
+    "defense": 85, 
+    "hp": 60, 
+    "speed": 85, 
+    "total": 435
+  }, 
+  "species": "よなきポケモン", 
+  "types": [
+    "ゴースト"
+  ], 
+  "weight": 1.0
+}

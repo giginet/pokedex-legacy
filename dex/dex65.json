@@ -1,1 +1,30 @@
-{"abilities": ["\u30b7\u30f3\u30af\u30ed", "\u305b\u3044\u3057\u3093\u308a\u3087\u304f", "\u30de\u30b8\u30c3\u30af\u30ac\u30fc\u30c9"], "weight": 25.0, "number": 65, "height": 75.0, "species": "\u306d\u3093\u308a\u304d\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc"], "egg_groups": [], "name": "\u30d5\u30fc\u30c7\u30a3\u30f3", "parameters": {"defense": 85, "hp": 55, "attack": 50, "critical": 135, "total": 490, "speed": 120, "block": 45}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "シンクロ", 
+    "せいしんりょく", 
+    "マジックガード"
+  ], 
+  "egg_groups": [
+    "ひとがた"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/065-m.png", 
+  "name": "フーディン", 
+  "number": 65, 
+  "parameters": {
+    "attack": 50, 
+    "block": 45, 
+    "critical": 135, 
+    "defense": 85, 
+    "hp": 55, 
+    "speed": 120, 
+    "total": 490
+  }, 
+  "species": "ねんりきポケモン", 
+  "types": [
+    "エスパー"
+  ], 
+  "weight": 48.0
+}

@@ -1,1 +1,31 @@
-{"abilities": ["\u3044\u3057\u3042\u305f\u307e", "\u304c\u3093\u3058\u3087\u3046", "\u3059\u306a\u304c\u304f\u308c"], "weight": 300.0, "number": 76, "height": 1.4, "species": "\u30e1\u30ac\u30c8\u30f3\u30dd\u30b1\u30e2\u30f3", "types": ["\u3044\u308f", "\u3058\u3081\u3093"], "egg_groups": ["\u3053\u3046\u3076\u3064"], "name": "\u30b4\u30ed\u30fc\u30cb\u30e3", "parameters": {"defense": 65, "hp": 80, "attack": 110, "critical": 55, "total": 485, "speed": 45, "block": 130}, "exp": 3840, "friendship": 70}
+{
+  "abilities": [
+    "いしあたま", 
+    "がんじょう", 
+    "すながくれ"
+  ], 
+  "egg_groups": [
+    "こうぶつ"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 1.4, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/076-m.png", 
+  "name": "ゴローニャ", 
+  "number": 76, 
+  "parameters": {
+    "attack": 110, 
+    "block": 130, 
+    "critical": 55, 
+    "defense": 65, 
+    "hp": 80, 
+    "speed": 45, 
+    "total": 485
+  }, 
+  "species": "メガトンポケモン", 
+  "types": [
+    "いわ", 
+    "じめん"
+  ], 
+  "weight": 300.0
+}

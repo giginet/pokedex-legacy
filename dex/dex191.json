@@ -1,1 +1,30 @@
-{"abilities": ["\u3088\u3046\u308a\u3087\u304f\u305d", "\u30b5\u30f3\u30d1\u30ef\u30fc", "\u306f\u3084\u304a\u304d"], "weight": 50.0, "number": 191, "height": 50.0, "species": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3", "types": ["\u304f\u3055"], "egg_groups": [], "name": "\u30d2\u30de\u30ca\u30c3\u30c4", "parameters": {"defense": 30, "hp": 30, "attack": 30, "critical": 30, "total": 180, "speed": 30, "block": 30}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "ようりょくそ", 
+    "サンパワー", 
+    "はやおき"
+  ], 
+  "egg_groups": [
+    "しょくぶつ"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.3, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/191-m.png", 
+  "name": "ヒマナッツ", 
+  "number": 191, 
+  "parameters": {
+    "attack": 30, 
+    "block": 30, 
+    "critical": 30, 
+    "defense": 30, 
+    "hp": 30, 
+    "speed": 30, 
+    "total": 180
+  }, 
+  "species": "たねポケモン", 
+  "types": [
+    "くさ"
+  ], 
+  "weight": 1.8
+}

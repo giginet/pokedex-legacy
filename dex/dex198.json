@@ -1,1 +1,31 @@
-{"abilities": ["\u3075\u307f\u3093", "\u304d\u3087\u3046\u3046\u3093", "\u3044\u305f\u305a\u3089\u3054\u3053\u308d"], "weight": 2.1, "number": 198, "height": 0.5, "species": "\u304f\u3089\u3084\u307f\u30dd\u30b1\u30e2\u30f3", "types": ["\u3042\u304f", "\u3072\u3053\u3046"], "egg_groups": ["\u3072\u3053\u3046"], "name": "\u30e4\u30df\u30ab\u30e9\u30b9", "parameters": {"defense": 42, "hp": 60, "attack": 85, "critical": 85, "total": 405, "speed": 91, "block": 42}, "exp": 5120, "friendship": 35}
+{
+  "abilities": [
+    "ふみん", 
+    "きょううん", 
+    "いたずらごころ"
+  ], 
+  "egg_groups": [
+    "ひこう"
+  ], 
+  "exp": 5120, 
+  "friendship": 35, 
+  "height": 0.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/198-m.png", 
+  "name": "ヤミカラス", 
+  "number": 198, 
+  "parameters": {
+    "attack": 85, 
+    "block": 42, 
+    "critical": 85, 
+    "defense": 42, 
+    "hp": 60, 
+    "speed": 91, 
+    "total": 405
+  }, 
+  "species": "くらやみポケモン", 
+  "types": [
+    "あく", 
+    "ひこう"
+  ], 
+  "weight": 2.1
+}

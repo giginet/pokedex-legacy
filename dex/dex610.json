@@ -1,1 +1,31 @@
-{"abilities": ["\u3068\u3046\u305d\u3046\u3057\u3093", "\u304b\u305f\u3084\u3076\u308a", "\u304d\u3093\u3061\u3087\u3046\u304b\u3093"], "weight": 50.0, "number": 610, "height": 50.0, "species": "\u30ad\u30d0\u30dd\u30b1\u30e2\u30f3", "types": ["\u30c9\u30e9\u30b4\u30f3"], "egg_groups": [], "name": "\u30ad\u30d0\u30b4", "parameters": {"defense": 40, "hp": 46, "attack": 87, "critical": 30, "total": 320, "speed": 57, "block": 60}, "exp": 35, "friendship": 0}
+{
+  "abilities": [
+    "とうそうしん", 
+    "かたやぶり", 
+    "きんちょうかん"
+  ], 
+  "egg_groups": [
+    "かいじゅう", 
+    "ドラゴン"
+  ], 
+  "exp": 10240, 
+  "friendship": 35, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/610.png", 
+  "name": "キバゴ", 
+  "number": 610, 
+  "parameters": {
+    "attack": 87, 
+    "block": 60, 
+    "critical": 30, 
+    "defense": 40, 
+    "hp": 46, 
+    "speed": 57, 
+    "total": 320
+  }, 
+  "species": "キバポケモン", 
+  "types": [
+    "ドラゴン"
+  ], 
+  "weight": 18.0
+}

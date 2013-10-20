@@ -1,1 +1,30 @@
-{"abilities": ["\u304c\u3093\u3058\u3087\u3046", "\u3044\u3057\u3042\u305f\u307e", "\u3073\u3073\u308a"], "weight": 50.0, "number": 438, "height": 50.0, "species": "\u307c\u3093\u3055\u3044\u30dd\u30b1\u30e2\u30f3", "types": ["\u3044\u308f"], "egg_groups": [], "name": "\u30a6\u30bd\u30cf\u30c1", "parameters": {"defense": 45, "hp": 50, "attack": 80, "critical": 10, "total": 290, "speed": 10, "block": 95}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "がんじょう", 
+    "いしあたま", 
+    "びびり"
+  ], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/438-m.png", 
+  "name": "ウソハチ", 
+  "number": 438, 
+  "parameters": {
+    "attack": 80, 
+    "block": 95, 
+    "critical": 10, 
+    "defense": 45, 
+    "hp": 50, 
+    "speed": 10, 
+    "total": 290
+  }, 
+  "species": "ぼんさいポケモン", 
+  "types": [
+    "いわ"
+  ], 
+  "weight": 15.0
+}

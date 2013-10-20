@@ -1,1 +1,29 @@
-{"abilities": ["\u307b\u306e\u304a\u306e\u304b\u3089\u3060", "\u3084\u308b\u304d"], "weight": 25.0, "number": 240, "height": 75.0, "species": "\u3072\u3060\u306d\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a"], "egg_groups": [], "name": "\u30d6\u30d3\u30a3", "parameters": {"defense": 55, "hp": 45, "attack": 75, "critical": 70, "total": 365, "speed": 83, "block": 37}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "ほのおのからだ", 
+    "やるき"
+  ], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 6400, 
+  "friendship": 70, 
+  "height": 0.7, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/240-m.png", 
+  "name": "ブビィ", 
+  "number": 240, 
+  "parameters": {
+    "attack": 75, 
+    "block": 37, 
+    "critical": 70, 
+    "defense": 55, 
+    "hp": 45, 
+    "speed": 83, 
+    "total": 365
+  }, 
+  "species": "ひだねポケモン", 
+  "types": [
+    "ほのお"
+  ], 
+  "weight": 21.4
+}

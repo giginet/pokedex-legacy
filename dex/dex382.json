@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 0, "number": 382, "height": 0, "species": "\u304b\u3044\u3066\u3044\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30ab\u30a4\u30aa\u30fc\u30ac", "parameters": {"defense": 140, "hp": 100, "attack": 100, "critical": 150, "total": 670, "speed": 90, "block": 90}, "exp": 0, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 30720, 
+  "friendship": 0, 
+  "height": 4.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/382.png", 
+  "name": "カイオーガ", 
+  "number": 382, 
+  "parameters": {
+    "attack": 100, 
+    "block": 90, 
+    "critical": 150, 
+    "defense": 140, 
+    "hp": 100, 
+    "speed": 90, 
+    "total": 670
+  }, 
+  "species": "かいていポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 352.0
+}

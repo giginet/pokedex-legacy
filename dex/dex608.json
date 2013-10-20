@@ -1,1 +1,31 @@
-{"abilities": ["\u3082\u3089\u3044\u3073", "\u307b\u306e\u304a\u306e\u304b\u3089\u3060", "\u304b\u3052\u3075\u307f"], "weight": 13.0, "number": 608, "height": 0.6, "species": "\u30e9\u30f3\u30d7\u30dd\u30b1\u30e2\u30f3", "types": ["\u30b4\u30fc\u30b9\u30c8", "\u307b\u306e\u304a"], "egg_groups": ["\u3075\u3066\u3044\u3051\u3044"], "name": "\u30e9\u30f3\u30d7\u30e9\u30fc", "parameters": {"defense": 60, "hp": 60, "attack": 40, "critical": 95, "total": 370, "speed": 55, "block": 60}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "もらいび", 
+    "ほのおのからだ", 
+    "かげふみ"
+  ], 
+  "egg_groups": [
+    "ふていけい"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/608.png", 
+  "name": "ランプラー", 
+  "number": 608, 
+  "parameters": {
+    "attack": 40, 
+    "block": 60, 
+    "critical": 95, 
+    "defense": 60, 
+    "hp": 60, 
+    "speed": 55, 
+    "total": 370
+  }, 
+  "species": "ランプポケモン", 
+  "types": [
+    "ゴースト", 
+    "ほのお"
+  ], 
+  "weight": 13.0
+}

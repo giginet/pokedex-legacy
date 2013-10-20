@@ -1,1 +1,30 @@
-{"abilities": ["\u307c\u3046\u304a\u3093", "\u30d5\u30a3\u30eb\u30bf\u30fc", "\u30c6\u30af\u30cb\u30b7\u30e3\u30f3"], "weight": 50.0, "number": 439, "height": 50.0, "species": "\u30de\u30a4\u30e0\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc"], "egg_groups": [], "name": "\u30de\u30cd\u30cd", "parameters": {"defense": 90, "hp": 20, "attack": 25, "critical": 70, "total": 310, "speed": 60, "block": 45}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "ぼうおん", 
+    "フィルター", 
+    "テクニシャン"
+  ], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 6400, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/439-m.png", 
+  "name": "マネネ", 
+  "number": 439, 
+  "parameters": {
+    "attack": 25, 
+    "block": 45, 
+    "critical": 70, 
+    "defense": 90, 
+    "hp": 20, 
+    "speed": 60, 
+    "total": 310
+  }, 
+  "species": "マイムポケモン", 
+  "types": [
+    "エスパー"
+  ], 
+  "weight": 13.0
+}

@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 50.0, "number": 352, "height": 50.0, "species": "\u3044\u308d\u3078\u3093\u3052\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30ab\u30af\u30ec\u30aa\u30f3", "parameters": {"defense": 120, "hp": 60, "attack": 90, "critical": 60, "total": 440, "speed": 40, "block": 70}, "exp": 70, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/352-m.png", 
+  "name": "カクレオン", 
+  "number": 352, 
+  "parameters": {
+    "attack": 90, 
+    "block": 70, 
+    "critical": 60, 
+    "defense": 120, 
+    "hp": 60, 
+    "speed": 40, 
+    "total": 440
+  }, 
+  "species": "いろへんげポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 22.0
+}

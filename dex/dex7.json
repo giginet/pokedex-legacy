@@ -1,1 +1,30 @@
-{"abilities": ["\u3052\u304d\u308a\u3085\u3046", "\u3042\u3081\u3046\u3051\u3056\u3089"], "weight": 12.5, "number": 7, "height": 87.5, "species": "\u304b\u3081\u306e\u3053\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30bc\u30cb\u30ac\u30e1", "parameters": {"defense": 64, "hp": 44, "attack": 48, "critical": 50, "total": 314, "speed": 43, "block": 65}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "げきりゅう", 
+    "あめうけざら"
+  ], 
+  "egg_groups": [
+    "かいじゅう", 
+    "すいちゅう１"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/007-m.png", 
+  "name": "ゼニガメ", 
+  "number": 7, 
+  "parameters": {
+    "attack": 48, 
+    "block": 65, 
+    "critical": 50, 
+    "defense": 64, 
+    "hp": 44, 
+    "speed": 43, 
+    "total": 314
+  }, 
+  "species": "かめのこポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 9.0
+}

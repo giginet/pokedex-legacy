@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 0, "number": 201, "height": 0, "species": "\u30b7\u30f3\u30dc\u30eb\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc"], "egg_groups": [], "name": "\u30a2\u30f3\u30ce\u30fc\u30f3", "parameters": {"defense": 48, "hp": 48, "attack": 72, "critical": 72, "total": 336, "speed": 48, "block": 48}, "exp": 70, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 10240, 
+  "friendship": 70, 
+  "height": 0.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/201.png", 
+  "name": "アンノーン", 
+  "number": 201, 
+  "parameters": {
+    "attack": 72, 
+    "block": 48, 
+    "critical": 72, 
+    "defense": 48, 
+    "hp": 48, 
+    "speed": 48, 
+    "total": 336
+  }, 
+  "species": "シンボルポケモン", 
+  "types": [
+    "エスパー"
+  ], 
+  "weight": 5.0
+}

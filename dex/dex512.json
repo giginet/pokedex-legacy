@@ -1,1 +1,29 @@
-{"abilities": ["\u304f\u3044\u3057\u3093\u307c\u3046", "\u3057\u3093\u308a\u3087\u304f"], "weight": 12.5, "number": 512, "height": 87.5, "species": "\u3068\u3052\u3056\u308b\u30dd\u30b1\u30e2\u30f3", "types": ["\u304f\u3055"], "egg_groups": [], "name": "\u30e4\u30ca\u30c3\u30ad\u30fc", "parameters": {"defense": 63, "hp": 75, "attack": 98, "critical": 98, "total": 498, "speed": 101, "block": 63}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "くいしんぼう", 
+    "しんりょく"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.1, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/512.png", 
+  "name": "ヤナッキー", 
+  "number": 512, 
+  "parameters": {
+    "attack": 98, 
+    "block": 63, 
+    "critical": 98, 
+    "defense": 63, 
+    "hp": 75, 
+    "speed": 101, 
+    "total": 498
+  }, 
+  "species": "とげざるポケモン", 
+  "types": [
+    "くさ"
+  ], 
+  "weight": 30.5
+}

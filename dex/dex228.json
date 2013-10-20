@@ -1,1 +1,31 @@
-{"abilities": ["\u306f\u3084\u304a\u304d", "\u3082\u3089\u3044\u3073", "\u304d\u3093\u3061\u3087\u3046\u304b\u3093"], "weight": 10.8, "number": 228, "height": 0.6, "species": "\u30c0\u30fc\u30af\u30dd\u30b1\u30e2\u30f3", "types": ["\u3042\u304f", "\u307b\u306e\u304a"], "egg_groups": ["\u308a\u304f\u3058\u3087\u3046"], "name": "\u30c7\u30eb\u30d3\u30eb", "parameters": {"defense": 50, "hp": 45, "attack": 60, "critical": 80, "total": 330, "speed": 65, "block": 30}, "exp": 5120, "friendship": 35}
+{
+  "abilities": [
+    "はやおき", 
+    "もらいび", 
+    "きんちょうかん"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 35, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/228-m.png", 
+  "name": "デルビル", 
+  "number": 228, 
+  "parameters": {
+    "attack": 60, 
+    "block": 30, 
+    "critical": 80, 
+    "defense": 50, 
+    "hp": 45, 
+    "speed": 65, 
+    "total": 330
+  }, 
+  "species": "ダークポケモン", 
+  "types": [
+    "あく", 
+    "ほのお"
+  ], 
+  "weight": 10.8
+}

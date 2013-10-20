@@ -1,1 +1,30 @@
-{"abilities": ["\u3082\u3046\u304b", "\u3066\u3064\u306e\u3053\u3076\u3057"], "weight": 12.5, "number": 390, "height": 87.5, "species": "\u3053\u3056\u308b\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a"], "egg_groups": [], "name": "\u30d2\u30b3\u30b6\u30eb", "parameters": {"defense": 44, "hp": 44, "attack": 58, "critical": 58, "total": 309, "speed": 61, "block": 44}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "もうか", 
+    "てつのこぶし"
+  ], 
+  "egg_groups": [
+    "りくじょう", 
+    "ひとがた"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/390-m.png", 
+  "name": "ヒコザル", 
+  "number": 390, 
+  "parameters": {
+    "attack": 58, 
+    "block": 44, 
+    "critical": 58, 
+    "defense": 44, 
+    "hp": 44, 
+    "speed": 61, 
+    "total": 309
+  }, 
+  "species": "こざるポケモン", 
+  "types": [
+    "ほのお"
+  ], 
+  "weight": 6.2
+}

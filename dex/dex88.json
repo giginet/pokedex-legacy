@@ -1,1 +1,30 @@
-{"abilities": ["\u3042\u304f\u3057\u3085\u3046", "\u306d\u3093\u3061\u3083\u304f", "\u3069\u304f\u3057\u3085"], "weight": 50.0, "number": 88, "height": 50.0, "species": "\u30d8\u30c9\u30ed\u30dd\u30b1\u30e2\u30f3", "types": ["\u3069\u304f"], "egg_groups": [], "name": "\u30d9\u30c8\u30d9\u30bf\u30fc", "parameters": {"defense": 50, "hp": 80, "attack": 80, "critical": 40, "total": 325, "speed": 25, "block": 50}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "あくしゅう", 
+    "ねんちゃく", 
+    "どくしゅ"
+  ], 
+  "egg_groups": [
+    "ふていけい"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.9, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/088-m.png", 
+  "name": "ベトベター", 
+  "number": 88, 
+  "parameters": {
+    "attack": 80, 
+    "block": 50, 
+    "critical": 40, 
+    "defense": 50, 
+    "hp": 80, 
+    "speed": 25, 
+    "total": 325
+  }, 
+  "species": "ヘドロポケモン", 
+  "types": [
+    "どく"
+  ], 
+  "weight": 30.0
+}

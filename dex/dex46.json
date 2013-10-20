@@ -1,1 +1,32 @@
-{"abilities": ["\u307b\u3046\u3057", "\u304b\u3093\u305d\u3046\u306f\u3060", "\u3057\u3081\u308a\u3051"], "weight": 5.4, "number": 46, "height": 0.3, "species": "\u304d\u306e\u3053\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057", "\u304f\u3055"], "egg_groups": ["\u3080\u3057", "\u3057\u3087\u304f\u3076\u3064"], "name": "\u30d1\u30e9\u30b9", "parameters": {"defense": 55, "hp": 35, "attack": 70, "critical": 45, "total": 285, "speed": 25, "block": 55}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "ほうし", 
+    "かんそうはだ", 
+    "しめりけ"
+  ], 
+  "egg_groups": [
+    "むし", 
+    "しょくぶつ"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.3, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/046-m.png", 
+  "name": "パラス", 
+  "number": 46, 
+  "parameters": {
+    "attack": 70, 
+    "block": 55, 
+    "critical": 45, 
+    "defense": 55, 
+    "hp": 35, 
+    "speed": 25, 
+    "total": 285
+  }, 
+  "species": "きのこポケモン", 
+  "types": [
+    "むし", 
+    "くさ"
+  ], 
+  "weight": 5.4
+}

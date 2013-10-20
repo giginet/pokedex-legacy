@@ -1,1 +1,30 @@
-{"abilities": ["\u3052\u304d\u308a\u3085\u3046", "\u307e\u3051\u3093\u304d"], "weight": 12.5, "number": 394, "height": 87.5, "species": "\u30da\u30f3\u30ae\u30f3\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30dd\u30c3\u30bf\u30a4\u30b7", "parameters": {"defense": 76, "hp": 64, "attack": 66, "critical": 81, "total": 405, "speed": 50, "block": 68}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "げきりゅう", 
+    "まけんき"
+  ], 
+  "egg_groups": [
+    "すいちゅう１", 
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.8, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/394-m.png", 
+  "name": "ポッタイシ", 
+  "number": 394, 
+  "parameters": {
+    "attack": 66, 
+    "block": 68, 
+    "critical": 81, 
+    "defense": 76, 
+    "hp": 64, 
+    "speed": 50, 
+    "total": 405
+  }, 
+  "species": "ペンギンポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 23.0
+}

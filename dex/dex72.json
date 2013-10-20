@@ -1,1 +1,31 @@
-{"abilities": ["\u30af\u30ea\u30a2\u30dc\u30c7\u30a3", "\u30d8\u30c9\u30ed\u3048\u304d", "\u3042\u3081\u3046\u3051\u3056\u3089"], "weight": 45.5, "number": 72, "height": 0.9, "species": "\u304f\u3089\u3052\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a", "\u3069\u304f"], "egg_groups": ["\u3059\u3044\u3061\u3085\u3046\uff13"], "name": "\u30e1\u30ce\u30af\u30e9\u30b2", "parameters": {"defense": 100, "hp": 40, "attack": 40, "critical": 50, "total": 335, "speed": 70, "block": 35}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "クリアボディ", 
+    "ヘドロえき", 
+    "あめうけざら"
+  ], 
+  "egg_groups": [
+    "すいちゅう３"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.9, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/072-m.png", 
+  "name": "メノクラゲ", 
+  "number": 72, 
+  "parameters": {
+    "attack": 40, 
+    "block": 35, 
+    "critical": 50, 
+    "defense": 100, 
+    "hp": 40, 
+    "speed": 70, 
+    "total": 335
+  }, 
+  "species": "くらげポケモン", 
+  "types": [
+    "みず", 
+    "どく"
+  ], 
+  "weight": 45.5
+}

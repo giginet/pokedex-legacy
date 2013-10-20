@@ -1,1 +1,30 @@
-{"abilities": ["\u30b7\u30f3\u30af\u30ed", "\u30c8\u30ec\u30fc\u30b9", "\u30c6\u30ec\u30d1\u30b7\u30fc"], "weight": 50.0, "number": 281, "height": 50.0, "species": "\u304b\u3093\u3058\u3087\u3046\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc"], "egg_groups": [], "name": "\u30ad\u30eb\u30ea\u30a2", "parameters": {"defense": 55, "hp": 38, "attack": 35, "critical": 65, "total": 278, "speed": 50, "block": 35}, "exp": 35, "friendship": 0}
+{
+  "abilities": [
+    "シンクロ", 
+    "トレース", 
+    "テレパシー"
+  ], 
+  "egg_groups": [
+    "ふていけい"
+  ], 
+  "exp": 5120, 
+  "friendship": 35, 
+  "height": 0.8, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/281-m.png", 
+  "name": "キルリア", 
+  "number": 281, 
+  "parameters": {
+    "attack": 35, 
+    "block": 35, 
+    "critical": 65, 
+    "defense": 55, 
+    "hp": 38, 
+    "speed": 50, 
+    "total": 278
+  }, 
+  "species": "かんじょうポケモン", 
+  "types": [
+    "エスパー"
+  ], 
+  "weight": 20.2
+}

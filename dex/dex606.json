@@ -1,1 +1,30 @@
-{"abilities": ["\u30c6\u30ec\u30d1\u30b7\u30fc", "\u30b7\u30f3\u30af\u30ed", "\u30a2\u30ca\u30e9\u30a4\u30ba"], "weight": 50.0, "number": 606, "height": 50.0, "species": "\u30d6\u30ec\u30a4\u30f3\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc"], "egg_groups": [], "name": "\u30aa\u30fc\u30d9\u30e0", "parameters": {"defense": 95, "hp": 75, "attack": 75, "critical": 125, "total": 485, "speed": 40, "block": 75}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "テレパシー", 
+    "シンクロ", 
+    "アナライズ"
+  ], 
+  "egg_groups": [
+    "ひとがた"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/606.png", 
+  "name": "オーベム", 
+  "number": 606, 
+  "parameters": {
+    "attack": 75, 
+    "block": 75, 
+    "critical": 125, 
+    "defense": 95, 
+    "hp": 75, 
+    "speed": 40, 
+    "total": 485
+  }, 
+  "species": "ブレインポケモン", 
+  "types": [
+    "エスパー"
+  ], 
+  "weight": 34.5
+}

@@ -1,1 +1,30 @@
-{"abilities": ["\u304d\u3051\u3093\u3088\u3061", "\u307c\u3046\u3058\u3093"], "weight": 6.5, "number": 413, "height": 0.5, "species": "\u307f\u306e\u3080\u3057\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057", "\u304f\u3055"], "egg_groups": ["\u3080\u3057"], "name": "\u30df\u30ce\u30de\u30c0\u30e0", "parameters": {"defense": 105, "hp": 60, "attack": 59, "critical": 79, "total": 424, "speed": 36, "block": 85}, "exp": 3840, "friendship": 70}
+{
+  "abilities": [
+    "きけんよち", 
+    "ぼうじん"
+  ], 
+  "egg_groups": [
+    "むし"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 0.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/413.png", 
+  "name": "ミノマダム", 
+  "number": 413, 
+  "parameters": {
+    "attack": 59, 
+    "block": 85, 
+    "critical": 79, 
+    "defense": 105, 
+    "hp": 60, 
+    "speed": 36, 
+    "total": 424
+  }, 
+  "species": "みのむしポケモン", 
+  "types": [
+    "むし", 
+    "くさ"
+  ], 
+  "weight": 6.5
+}

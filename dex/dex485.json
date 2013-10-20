@@ -1,1 +1,30 @@
-{"abilities": ["\u3082\u3089\u3044\u3073", "\u307b\u306e\u304a\u306e\u304b\u3089\u3060"], "weight": 430.0, "number": 485, "height": 1.7, "species": "\u304b\u3053\u3046\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a", "\u306f\u304c\u306d"], "egg_groups": ["\u307f\u306f\u3063\u3051\u3093"], "name": "\u30d2\u30fc\u30c9\u30e9\u30f3", "parameters": {"defense": 106, "hp": 91, "attack": 90, "critical": 130, "total": 600, "speed": 77, "block": 106}, "exp": 2560, "friendship": 100}
+{
+  "abilities": [
+    "もらいび", 
+    "ほのおのからだ"
+  ], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 2560, 
+  "friendship": 100, 
+  "height": 1.7, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/485-m.png", 
+  "name": "ヒードラン", 
+  "number": 485, 
+  "parameters": {
+    "attack": 90, 
+    "block": 106, 
+    "critical": 130, 
+    "defense": 106, 
+    "hp": 91, 
+    "speed": 77, 
+    "total": 600
+  }, 
+  "species": "かこうポケモン", 
+  "types": [
+    "ほのお", 
+    "はがね"
+  ], 
+  "weight": 430.0
+}

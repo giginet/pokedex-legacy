@@ -1,1 +1,32 @@
-{"abilities": ["\u304c\u3093\u3058\u3087\u3046", "\u30b7\u30a7\u30eb\u30a2\u30fc\u30de\u30fc", "\u304f\u3060\u3051\u308b\u3088\u308d\u3044"], "weight": 200.0, "number": 558, "height": 1.4, "species": "\u3044\u308f\u3084\u3069\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057", "\u3044\u308f"], "egg_groups": ["\u3080\u3057", "\u3053\u3046\u3076\u3064"], "name": "\u30a4\u30ef\u30d1\u30ec\u30b9", "parameters": {"defense": 75, "hp": 70, "attack": 95, "critical": 65, "total": 475, "speed": 45, "block": 125}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "がんじょう", 
+    "シェルアーマー", 
+    "くだけるよろい"
+  ], 
+  "egg_groups": [
+    "むし", 
+    "こうぶつ"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.4, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/558.png", 
+  "name": "イワパレス", 
+  "number": 558, 
+  "parameters": {
+    "attack": 95, 
+    "block": 125, 
+    "critical": 65, 
+    "defense": 75, 
+    "hp": 70, 
+    "speed": 45, 
+    "total": 475
+  }, 
+  "species": "いわやどポケモン", 
+  "types": [
+    "むし", 
+    "いわ"
+  ], 
+  "weight": 200.0
+}

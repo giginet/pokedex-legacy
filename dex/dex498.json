@@ -1,1 +1,29 @@
-{"abilities": ["\u3082\u3046\u304b", "\u3042\u3064\u3044\u3057\u307c\u3046"], "weight": 12.5, "number": 498, "height": 87.5, "species": "\u3072\u3076\u305f\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a"], "egg_groups": [], "name": "\u30dd\u30ab\u30d6", "parameters": {"defense": 45, "hp": 65, "attack": 63, "critical": 45, "total": 308, "speed": 45, "block": 45}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "もうか", 
+    "あついしぼう"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/498.png", 
+  "name": "ポカブ", 
+  "number": 498, 
+  "parameters": {
+    "attack": 63, 
+    "block": 45, 
+    "critical": 45, 
+    "defense": 45, 
+    "hp": 65, 
+    "speed": 45, 
+    "total": 308
+  }, 
+  "species": "ひぶたポケモン", 
+  "types": [
+    "ほのお"
+  ], 
+  "weight": 9.9
+}

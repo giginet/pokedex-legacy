@@ -1,1 +1,30 @@
-{"abilities": ["\u3061\u3087\u3059\u3044", "\u3057\u3081\u308a\u3051", "\u3059\u3044\u3059\u3044"], "weight": 50.0, "number": 60, "height": 50.0, "species": "\u304a\u305f\u307e\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30cb\u30e7\u30ed\u30e2", "parameters": {"defense": 40, "hp": 40, "attack": 50, "critical": 40, "total": 300, "speed": 90, "block": 40}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "ちょすい", 
+    "しめりけ", 
+    "すいすい"
+  ], 
+  "egg_groups": [
+    "すいちゅう１"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/060-m.png", 
+  "name": "ニョロモ", 
+  "number": 60, 
+  "parameters": {
+    "attack": 50, 
+    "block": 40, 
+    "critical": 40, 
+    "defense": 40, 
+    "hp": 40, 
+    "speed": 90, 
+    "total": 300
+  }, 
+  "species": "おたまポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 12.4
+}

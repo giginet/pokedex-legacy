@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 0, "number": 724, "height": 0, "species": "\u3042\u3056\u3080\u304d\u30dd\u30b1\u30e2\u30f3", "types": ["\u306f\u304c\u306d", "\u30d5\u30a7\u30a2\u30ea\u30fc"], "egg_groups": [""], "name": "\u30e1\u30ac\u30af\u30c1\u30fc\u30c8", "parameters": {"defense": 0, "hp": 0, "attack": 0, "critical": 0, "total": 0, "speed": 0, "block": 0}, "exp": 0, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    ""
+  ], 
+  "exp": 0, 
+  "friendship": 0, 
+  "height": 0, 
+  "image_url": "", 
+  "name": "メガクチート", 
+  "number": 724, 
+  "parameters": {
+    "attack": 0, 
+    "block": 0, 
+    "critical": 0, 
+    "defense": 0, 
+    "hp": 0, 
+    "speed": 0, 
+    "total": 0
+  }, 
+  "species": "あざむきポケモン", 
+  "types": [
+    "はがね", 
+    "フェアリー"
+  ], 
+  "weight": 0
+}

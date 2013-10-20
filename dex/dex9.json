@@ -1,1 +1,30 @@
-{"abilities": ["\u3052\u304d\u308a\u3085\u3046", "\u3042\u3081\u3046\u3051\u3056\u3089"], "weight": 12.5, "number": 9, "height": 87.5, "species": "\u3053\u3046\u3089\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30ab\u30e1\u30c3\u30af\u30b9", "parameters": {"defense": 105, "hp": 79, "attack": 83, "critical": 85, "total": 530, "speed": 78, "block": 100}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "げきりゅう", 
+    "あめうけざら"
+  ], 
+  "egg_groups": [
+    "かいじゅう", 
+    "すいちゅう１"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/009-m.png", 
+  "name": "カメックス", 
+  "number": 9, 
+  "parameters": {
+    "attack": 83, 
+    "block": 100, 
+    "critical": 85, 
+    "defense": 105, 
+    "hp": 79, 
+    "speed": 78, 
+    "total": 530
+  }, 
+  "species": "こうらポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 85.5
+}

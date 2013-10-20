@@ -1,1 +1,31 @@
-{"abilities": ["\u3069\u304f\u306e\u30c8\u30b2", "\u3059\u3044\u3059\u3044", "\u3044\u304b\u304f"], "weight": 3.9, "number": 211, "height": 0.5, "species": "\u3075\u3046\u305b\u3093\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a", "\u3069\u304f"], "egg_groups": ["\u3059\u3044\u3061\u3085\u3046\uff12"], "name": "\u30cf\u30ea\u30fc\u30bb\u30f3", "parameters": {"defense": 55, "hp": 65, "attack": 95, "critical": 55, "total": 430, "speed": 85, "block": 75}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "どくのトゲ", 
+    "すいすい", 
+    "いかく"
+  ], 
+  "egg_groups": [
+    "すいちゅう２"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/211-m.png", 
+  "name": "ハリーセン", 
+  "number": 211, 
+  "parameters": {
+    "attack": 95, 
+    "block": 75, 
+    "critical": 55, 
+    "defense": 55, 
+    "hp": 65, 
+    "speed": 85, 
+    "total": 430
+  }, 
+  "species": "ふうせんポケモン", 
+  "types": [
+    "みず", 
+    "どく"
+  ], 
+  "weight": 3.9
+}

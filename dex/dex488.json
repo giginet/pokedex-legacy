@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 0, "number": 488, "height": 0, "species": "\u307f\u304b\u3065\u304d\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc"], "egg_groups": [], "name": "\u30af\u30ec\u30bb\u30ea\u30a2", "parameters": {"defense": 130, "hp": 120, "attack": 70, "critical": 75, "total": 600, "speed": 85, "block": 120}, "exp": 100, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 30720, 
+  "friendship": 100, 
+  "height": 1.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/488.png", 
+  "name": "クレセリア", 
+  "number": 488, 
+  "parameters": {
+    "attack": 70, 
+    "block": 120, 
+    "critical": 75, 
+    "defense": 130, 
+    "hp": 120, 
+    "speed": 85, 
+    "total": 600
+  }, 
+  "species": "みかづきポケモン", 
+  "types": [
+    "エスパー"
+  ], 
+  "weight": 85.6
+}

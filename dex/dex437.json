@@ -1,1 +1,31 @@
-{"abilities": ["\u3075\u3086\u3046", "\u305f\u3044\u306d\u3064", "\u30d8\u30f4\u30a3\u30e1\u30bf\u30eb"], "weight": 187.0, "number": 437, "height": 1.3, "species": "\u3069\u3046\u305f\u304f\u30dd\u30b1\u30e2\u30f3", "types": ["\u306f\u304c\u306d", "\u30a8\u30b9\u30d1\u30fc"], "egg_groups": ["\u3053\u3046\u3076\u3064"], "name": "\u30c9\u30fc\u30bf\u30af\u30f3", "parameters": {"defense": 116, "hp": 67, "attack": 89, "critical": 79, "total": 500, "speed": 33, "block": 116}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "ふゆう", 
+    "たいねつ", 
+    "ヘヴィメタル"
+  ], 
+  "egg_groups": [
+    "こうぶつ"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.3, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/437.png", 
+  "name": "ドータクン", 
+  "number": 437, 
+  "parameters": {
+    "attack": 89, 
+    "block": 116, 
+    "critical": 79, 
+    "defense": 116, 
+    "hp": 67, 
+    "speed": 33, 
+    "total": 500
+  }, 
+  "species": "どうたくポケモン", 
+  "types": [
+    "はがね", 
+    "エスパー"
+  ], 
+  "weight": 187.0
+}

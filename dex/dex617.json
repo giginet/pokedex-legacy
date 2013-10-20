@@ -1,1 +1,30 @@
-{"abilities": ["\u3046\u308b\u304a\u3044\u30dc\u30c7\u30a3", "\u306d\u3093\u3061\u3083\u304f", "\u304b\u308b\u308f\u3056"], "weight": 50.0, "number": 617, "height": 50.0, "species": "\u304b\u3089\u306c\u3051\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057"], "egg_groups": [], "name": "\u30a2\u30ae\u30eb\u30c0\u30fc", "parameters": {"defense": 60, "hp": 80, "attack": 70, "critical": 100, "total": 495, "speed": 145, "block": 40}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "うるおいボディ", 
+    "ねんちゃく", 
+    "かるわざ"
+  ], 
+  "egg_groups": [
+    "むし"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 0.8, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/617.png", 
+  "name": "アギルダー", 
+  "number": 617, 
+  "parameters": {
+    "attack": 70, 
+    "block": 40, 
+    "critical": 100, 
+    "defense": 60, 
+    "hp": 80, 
+    "speed": 145, 
+    "total": 495
+  }, 
+  "species": "からぬけポケモン", 
+  "types": [
+    "むし"
+  ], 
+  "weight": 25.3
+}

@@ -1,1 +1,29 @@
-{"abilities": ["\u30e1\u30ed\u30e1\u30ed\u30dc\u30c7\u30a3", "\u30d5\u30ec\u30f3\u30c9\u30ac\u30fc\u30c9"], "weight": 75.0, "number": 174, "height": 25.0, "species": "\u3075\u3046\u305b\u3093\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30d7\u30d7\u30ea\u30f3", "parameters": {"defense": 20, "hp": 90, "attack": 30, "critical": 40, "total": 210, "speed": 15, "block": 15}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "メロメロボディ", 
+    "フレンドガード"
+  ], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 2560, 
+  "friendship": 70, 
+  "height": 0.3, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/174-m.png", 
+  "name": "ププリン", 
+  "number": 174, 
+  "parameters": {
+    "attack": 30, 
+    "block": 15, 
+    "critical": 40, 
+    "defense": 20, 
+    "hp": 90, 
+    "speed": 15, 
+    "total": 210
+  }, 
+  "species": "ふうせんポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 1.0
+}

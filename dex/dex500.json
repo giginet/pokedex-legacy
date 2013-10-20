@@ -1,1 +1,30 @@
-{"abilities": ["\u3082\u3046\u304b", "\u3059\u3066\u307f"], "weight": 150.0, "number": 500, "height": 1.6, "species": "\u304a\u304a\u3072\u3076\u305f\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a", "\u304b\u304f\u3068\u3046"], "egg_groups": ["\u308a\u304f\u3058\u3087\u3046"], "name": "\u30a8\u30f3\u30d6\u30aa\u30fc", "parameters": {"defense": 65, "hp": 110, "attack": 123, "critical": 100, "total": 528, "speed": 65, "block": 65}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "もうか", 
+    "すてみ"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/500.png", 
+  "name": "エンブオー", 
+  "number": 500, 
+  "parameters": {
+    "attack": 123, 
+    "block": 65, 
+    "critical": 100, 
+    "defense": 65, 
+    "hp": 110, 
+    "speed": 65, 
+    "total": 528
+  }, 
+  "species": "おおひぶたポケモン", 
+  "types": [
+    "ほのお", 
+    "かくとう"
+  ], 
+  "weight": 150.0
+}

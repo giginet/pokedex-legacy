@@ -1,1 +1,29 @@
-{"abilities": ["\u30e1\u30ed\u30e1\u30ed\u30dc\u30c7\u30a3", "\u304a\u307f\u3068\u304a\u3057"], "weight": 75.0, "number": 40, "height": 25.0, "species": "\u3075\u3046\u305b\u3093\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30d7\u30af\u30ea\u30f3", "parameters": {"defense": 50, "hp": 140, "attack": 70, "critical": 75, "total": 425, "speed": 45, "block": 45}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "メロメロボディ", 
+    "おみとおし"
+  ], 
+  "egg_groups": [
+    "ようせい"
+  ], 
+  "exp": 2560, 
+  "friendship": 70, 
+  "height": 1.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/040-m.png", 
+  "name": "プクリン", 
+  "number": 40, 
+  "parameters": {
+    "attack": 70, 
+    "block": 45, 
+    "critical": 75, 
+    "defense": 50, 
+    "hp": 140, 
+    "speed": 45, 
+    "total": 425
+  }, 
+  "species": "ふうせんポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 12.0
+}

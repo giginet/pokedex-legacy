@@ -1,1 +1,32 @@
-{"abilities": ["\u3072\u3089\u3044\u3057\u3093", "\u3044\u3057\u3042\u305f\u307e", "\u3059\u3066\u307f"], "weight": 115.0, "number": 111, "height": 1.0, "species": "\u3068\u3052\u3068\u3052\u30dd\u30b1\u30e2\u30f3", "types": ["\u3058\u3081\u3093", "\u3044\u308f"], "egg_groups": ["\u304b\u3044\u3058\u3085\u3046", "\u308a\u304f\u3058\u3087\u3046"], "name": "\u30b5\u30a4\u30db\u30fc\u30f3", "parameters": {"defense": 30, "hp": 80, "attack": 85, "critical": 30, "total": 345, "speed": 25, "block": 95}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "ひらいしん", 
+    "いしあたま", 
+    "すてみ"
+  ], 
+  "egg_groups": [
+    "かいじゅう", 
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/111-m.png", 
+  "name": "サイホーン", 
+  "number": 111, 
+  "parameters": {
+    "attack": 85, 
+    "block": 95, 
+    "critical": 30, 
+    "defense": 30, 
+    "hp": 80, 
+    "speed": 25, 
+    "total": 345
+  }, 
+  "species": "とげとげポケモン", 
+  "types": [
+    "じめん", 
+    "いわ"
+  ], 
+  "weight": 115.0
+}

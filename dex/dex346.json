@@ -1,1 +1,30 @@
-{"abilities": ["\u304d\u3085\u3046\u3070\u3093", "\u3088\u3073\u307f\u305a"], "weight": 60.4, "number": 346, "height": 1.5, "species": "\u3044\u308f\u3064\u307c\u30dd\u30b1\u30e2\u30f3", "types": ["\u3044\u308f", "\u304f\u3055"], "egg_groups": ["\u3059\u3044\u3061\u3085\u3046\uff13"], "name": "\u30e6\u30ec\u30a4\u30c9\u30eb", "parameters": {"defense": 107, "hp": 86, "attack": 81, "critical": 81, "total": 495, "speed": 43, "block": 97}, "exp": 7680, "friendship": 70}
+{
+  "abilities": [
+    "きゅうばん", 
+    "よびみず"
+  ], 
+  "egg_groups": [
+    "すいちゅう３"
+  ], 
+  "exp": 7680, 
+  "friendship": 70, 
+  "height": 1.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/346-m.png", 
+  "name": "ユレイドル", 
+  "number": 346, 
+  "parameters": {
+    "attack": 81, 
+    "block": 97, 
+    "critical": 81, 
+    "defense": 107, 
+    "hp": 86, 
+    "speed": 43, 
+    "total": 495
+  }, 
+  "species": "いわつぼポケモン", 
+  "types": [
+    "いわ", 
+    "くさ"
+  ], 
+  "weight": 60.4
+}

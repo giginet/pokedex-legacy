@@ -1,1 +1,31 @@
-{"abilities": ["\u3059\u308b\u3069\u3044\u3081", "\u3061\u304b\u3089\u305a\u304f", "\u307e\u3051\u3093\u304d"], "weight": 41.0, "number": 628, "height": 1.5, "species": "\u3086\u3046\u3082\u3046\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb", "\u3072\u3053\u3046"], "egg_groups": ["\u3072\u3053\u3046"], "name": "\u30a6\u30a9\u30fc\u30b0\u30eb", "parameters": {"defense": 75, "hp": 100, "attack": 123, "critical": 57, "total": 510, "speed": 80, "block": 75}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "するどいめ", 
+    "ちからずく", 
+    "まけんき"
+  ], 
+  "egg_groups": [
+    "ひこう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/628.png", 
+  "name": "ウォーグル", 
+  "number": 628, 
+  "parameters": {
+    "attack": 123, 
+    "block": 75, 
+    "critical": 57, 
+    "defense": 75, 
+    "hp": 100, 
+    "speed": 80, 
+    "total": 510
+  }, 
+  "species": "ゆうもうポケモン", 
+  "types": [
+    "ノーマル", 
+    "ひこう"
+  ], 
+  "weight": 41.0
+}

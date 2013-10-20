@@ -1,1 +1,30 @@
-{"abilities": ["\u306b\u3052\u3042\u3057", "\u3082\u3089\u3044\u3073", "\u307b\u306e\u304a\u306e\u304b\u3089\u3060"], "weight": 50.0, "number": 77, "height": 50.0, "species": "\u3072\u306e\u3046\u307e\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a"], "egg_groups": [], "name": "\u30dd\u30cb\u30fc\u30bf", "parameters": {"defense": 65, "hp": 50, "attack": 85, "critical": 65, "total": 410, "speed": 90, "block": 55}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "にげあし", 
+    "もらいび", 
+    "ほのおのからだ"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/077-m.png", 
+  "name": "ポニータ", 
+  "number": 77, 
+  "parameters": {
+    "attack": 85, 
+    "block": 55, 
+    "critical": 65, 
+    "defense": 65, 
+    "hp": 50, 
+    "speed": 90, 
+    "total": 410
+  }, 
+  "species": "ひのうまポケモン", 
+  "types": [
+    "ほのお"
+  ], 
+  "weight": 30.0
+}

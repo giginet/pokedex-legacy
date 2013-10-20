@@ -1,1 +1,31 @@
-{"abilities": ["\u30b7\u30f3\u30af\u30ed", "\u306f\u3084\u304a\u304d", "\u30de\u30b8\u30c3\u30af\u30df\u30e9\u30fc"], "weight": 15.0, "number": 178, "height": 1.5, "species": "\u305b\u3044\u308c\u3044\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc", "\u3072\u3053\u3046"], "egg_groups": ["\u3072\u3053\u3046"], "name": "\u30cd\u30a4\u30c6\u30a3\u30aa", "parameters": {"defense": 70, "hp": 65, "attack": 75, "critical": 95, "total": 470, "speed": 95, "block": 70}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "シンクロ", 
+    "はやおき", 
+    "マジックミラー"
+  ], 
+  "egg_groups": [
+    "ひこう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/178-m.png", 
+  "name": "ネイティオ", 
+  "number": 178, 
+  "parameters": {
+    "attack": 75, 
+    "block": 70, 
+    "critical": 95, 
+    "defense": 70, 
+    "hp": 65, 
+    "speed": 95, 
+    "total": 470
+  }, 
+  "species": "せいれいポケモン", 
+  "types": [
+    "エスパー", 
+    "ひこう"
+  ], 
+  "weight": 15.0
+}

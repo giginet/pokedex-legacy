@@ -1,1 +1,30 @@
-{"abilities": ["\u3057\u3093\u308a\u3087\u304f", "\u30ea\u30fc\u30d5\u30ac\u30fc\u30c9"], "weight": 12.5, "number": 154, "height": 87.5, "species": "\u30cf\u30fc\u30d6\u30dd\u30b1\u30e2\u30f3", "types": ["\u304f\u3055"], "egg_groups": [], "name": "\u30e1\u30ac\u30cb\u30a6\u30e0", "parameters": {"defense": 100, "hp": 80, "attack": 82, "critical": 83, "total": 525, "speed": 80, "block": 100}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "しんりょく", 
+    "リーフガード"
+  ], 
+  "egg_groups": [
+    "かいじゅう", 
+    "しょくぶつ"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.8, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/154-m.png", 
+  "name": "メガニウム", 
+  "number": 154, 
+  "parameters": {
+    "attack": 82, 
+    "block": 100, 
+    "critical": 83, 
+    "defense": 100, 
+    "hp": 80, 
+    "speed": 80, 
+    "total": 525
+  }, 
+  "species": "ハーブポケモン", 
+  "types": [
+    "くさ"
+  ], 
+  "weight": 100.5
+}

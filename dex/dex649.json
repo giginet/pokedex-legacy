@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 82.5, "number": 649, "height": 1.5, "species": "\u3053\u305b\u3044\u3060\u3044\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057", "\u306f\u304c\u306d"], "egg_groups": ["\u307f\u306f\u3063\u3051\u3093"], "name": "\u30b2\u30ce\u30bb\u30af\u30c8", "parameters": {"defense": 95, "hp": 71, "attack": 120, "critical": 120, "total": 600, "speed": 99, "block": 95}, "exp": 30720, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 30720, 
+  "friendship": 0, 
+  "height": 1.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/649.png", 
+  "name": "ゲノセクト", 
+  "number": 649, 
+  "parameters": {
+    "attack": 120, 
+    "block": 95, 
+    "critical": 120, 
+    "defense": 95, 
+    "hp": 71, 
+    "speed": 99, 
+    "total": 600
+  }, 
+  "species": "こせいだいポケモン", 
+  "types": [
+    "むし", 
+    "はがね"
+  ], 
+  "weight": 82.5
+}

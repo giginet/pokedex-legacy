@@ -1,1 +1,30 @@
-{"abilities": ["\u3061\u3087\u3059\u3044", "\u3088\u3046\u308a\u3087\u304f\u305d", "\u3088\u3073\u307f\u305a"], "weight": 50.0, "number": 556, "height": 50.0, "species": "\u30b5\u30dc\u30c6\u30f3\u30dd\u30b1\u30e2\u30f3", "types": ["\u304f\u3055"], "egg_groups": [], "name": "\u30de\u30e9\u30ab\u30c3\u30c1", "parameters": {"defense": 67, "hp": 75, "attack": 86, "critical": 106, "total": 461, "speed": 60, "block": 67}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "ちょすい", 
+    "ようりょくそ", 
+    "よびみず"
+  ], 
+  "egg_groups": [
+    "しょくぶつ"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/556.png", 
+  "name": "マラカッチ", 
+  "number": 556, 
+  "parameters": {
+    "attack": 86, 
+    "block": 67, 
+    "critical": 106, 
+    "defense": 67, 
+    "hp": 75, 
+    "speed": 60, 
+    "total": 461
+  }, 
+  "species": "サボテンポケモン", 
+  "types": [
+    "くさ"
+  ], 
+  "weight": 28.0
+}

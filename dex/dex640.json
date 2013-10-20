@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 200.0, "number": 640, "height": 2.0, "species": "\u305d\u3046\u3052\u3093\u30dd\u30b1\u30e2\u30f3", "types": ["\u304f\u3055", "\u304b\u304f\u3068\u3046"], "egg_groups": ["\u307f\u306f\u3063\u3051\u3093"], "name": "\u30d3\u30ea\u30b8\u30aa\u30f3", "parameters": {"defense": 129, "hp": 91, "attack": 90, "critical": 90, "total": 580, "speed": 108, "block": 72}, "exp": 20480, "friendship": 35}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 20480, 
+  "friendship": 35, 
+  "height": 2.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/640.png", 
+  "name": "ビリジオン", 
+  "number": 640, 
+  "parameters": {
+    "attack": 90, 
+    "block": 72, 
+    "critical": 90, 
+    "defense": 129, 
+    "hp": 91, 
+    "speed": 108, 
+    "total": 580
+  }, 
+  "species": "そうげんポケモン", 
+  "types": [
+    "くさ", 
+    "かくとう"
+  ], 
+  "weight": 200.0
+}

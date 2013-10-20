@@ -1,1 +1,30 @@
-{"abilities": ["\u3059\u3044\u3059\u3044", "\u3046\u308b\u304a\u3044\u30dc\u30c7\u30a3", "\u3061\u3087\u3059\u3044"], "weight": 50.0, "number": 535, "height": 50.0, "species": "\u304a\u305f\u307e\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30aa\u30bf\u30de\u30ed", "parameters": {"defense": 40, "hp": 50, "attack": 50, "critical": 50, "total": 294, "speed": 64, "block": 40}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "すいすい", 
+    "うるおいボディ", 
+    "ちょすい"
+  ], 
+  "egg_groups": [
+    "すいちゅう１"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/535.png", 
+  "name": "オタマロ", 
+  "number": 535, 
+  "parameters": {
+    "attack": 50, 
+    "block": 40, 
+    "critical": 50, 
+    "defense": 40, 
+    "hp": 50, 
+    "speed": 64, 
+    "total": 294
+  }, 
+  "species": "おたまポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 4.5
+}

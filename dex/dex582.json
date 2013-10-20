@@ -1,1 +1,29 @@
-{"abilities": ["\u30a2\u30a4\u30b9\u30dc\u30c7\u30a3", "\u304f\u3060\u3051\u308b\u3088\u308d\u3044"], "weight": 50.0, "number": 582, "height": 50.0, "species": "\u3057\u3093\u305b\u3064\u30dd\u30b1\u30e2\u30f3", "types": ["\u3053\u304a\u308a"], "egg_groups": [], "name": "\u30d0\u30cb\u30d7\u30c3\u30c1", "parameters": {"defense": 60, "hp": 36, "attack": 50, "critical": 65, "total": 305, "speed": 44, "block": 50}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "アイスボディ", 
+    "くだけるよろい"
+  ], 
+  "egg_groups": [
+    "こうぶつ"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.4, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/582.png", 
+  "name": "バニプッチ", 
+  "number": 582, 
+  "parameters": {
+    "attack": 50, 
+    "block": 50, 
+    "critical": 65, 
+    "defense": 60, 
+    "hp": 36, 
+    "speed": 44, 
+    "total": 305
+  }, 
+  "species": "しんせつポケモン", 
+  "types": [
+    "こおり"
+  ], 
+  "weight": 5.7
+}

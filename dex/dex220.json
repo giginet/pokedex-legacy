@@ -1,1 +1,31 @@
-{"abilities": ["\u3069\u3093\u304b\u3093", "\u3086\u304d\u304c\u304f\u308c", "\u3042\u3064\u3044\u3057\u307c\u3046"], "weight": 6.5, "number": 220, "height": 0.4, "species": "\u3044\u306e\u3076\u305f\u30dd\u30b1\u30e2\u30f3", "types": ["\u3053\u304a\u308a", "\u3058\u3081\u3093"], "egg_groups": ["\u308a\u304f\u3058\u3087\u3046"], "name": "\u30a6\u30ea\u30e0\u30fc", "parameters": {"defense": 30, "hp": 50, "attack": 50, "critical": 30, "total": 250, "speed": 50, "block": 40}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "どんかん", 
+    "ゆきがくれ", 
+    "あついしぼう"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.4, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/220-m.png", 
+  "name": "ウリムー", 
+  "number": 220, 
+  "parameters": {
+    "attack": 50, 
+    "block": 40, 
+    "critical": 30, 
+    "defense": 30, 
+    "hp": 50, 
+    "speed": 50, 
+    "total": 250
+  }, 
+  "species": "いのぶたポケモン", 
+  "types": [
+    "こおり", 
+    "じめん"
+  ], 
+  "weight": 6.5
+}

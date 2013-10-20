@@ -1,1 +1,31 @@
-{"abilities": ["\u3082\u3046\u304b", "\u3066\u3064\u306e\u3053\u3076\u3057"], "weight": 22.0, "number": 391, "height": 0.9, "species": "\u3084\u3093\u3061\u3083\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a", "\u304b\u304f\u3068\u3046"], "egg_groups": ["\u308a\u304f\u3058\u3087\u3046", "\u3072\u3068\u304c\u305f"], "name": "\u30e2\u30a6\u30ab\u30b6\u30eb", "parameters": {"defense": 52, "hp": 64, "attack": 78, "critical": 78, "total": 405, "speed": 81, "block": 52}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "もうか", 
+    "てつのこぶし"
+  ], 
+  "egg_groups": [
+    "りくじょう", 
+    "ひとがた"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.9, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/391-m.png", 
+  "name": "モウカザル", 
+  "number": 391, 
+  "parameters": {
+    "attack": 78, 
+    "block": 52, 
+    "critical": 78, 
+    "defense": 52, 
+    "hp": 64, 
+    "speed": 81, 
+    "total": 405
+  }, 
+  "species": "やんちゃポケモン", 
+  "types": [
+    "ほのお", 
+    "かくとう"
+  ], 
+  "weight": 22.0
+}

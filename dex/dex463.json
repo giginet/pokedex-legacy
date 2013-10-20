@@ -1,1 +1,30 @@
-{"abilities": ["\u30de\u30a4\u30da\u30fc\u30b9", "\u3069\u3093\u304b\u3093", "\u30ce\u30fc\u3066\u3093\u304d"], "weight": 50.0, "number": 463, "height": 50.0, "species": "\u306a\u3081\u307e\u308f\u3057\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30d9\u30ed\u30d9\u30eb\u30c8", "parameters": {"defense": 95, "hp": 110, "attack": 85, "critical": 80, "total": 515, "speed": 50, "block": 95}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "マイペース", 
+    "どんかん", 
+    "ノーてんき"
+  ], 
+  "egg_groups": [
+    "かいじゅう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.7, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/463-m.png", 
+  "name": "ベロベルト", 
+  "number": 463, 
+  "parameters": {
+    "attack": 85, 
+    "block": 95, 
+    "critical": 80, 
+    "defense": 95, 
+    "hp": 110, 
+    "speed": 50, 
+    "total": 515
+  }, 
+  "species": "なめまわしポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 140.0
+}

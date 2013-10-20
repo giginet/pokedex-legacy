@@ -1,1 +1,29 @@
-{"abilities": ["\u3052\u304d\u308a\u3085\u3046", "\u30b7\u30a7\u30eb\u30a2\u30fc\u30de\u30fc"], "weight": 12.5, "number": 501, "height": 87.5, "species": "\u30e9\u30c3\u30b3\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30df\u30b8\u30e5\u30de\u30eb", "parameters": {"defense": 45, "hp": 55, "attack": 55, "critical": 63, "total": 308, "speed": 45, "block": 45}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "げきりゅう", 
+    "シェルアーマー"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/501.png", 
+  "name": "ミジュマル", 
+  "number": 501, 
+  "parameters": {
+    "attack": 55, 
+    "block": 45, 
+    "critical": 63, 
+    "defense": 45, 
+    "hp": 55, 
+    "speed": 45, 
+    "total": 308
+  }, 
+  "species": "ラッコポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 5.9
+}

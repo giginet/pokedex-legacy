@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 40.5, "number": 94, "height": 1.5, "species": "\u30b7\u30e3\u30c9\u30fc\u30dd\u30b1\u30e2\u30f3", "types": ["\u30b4\u30fc\u30b9\u30c8", "\u3069\u304f"], "egg_groups": ["\u3075\u3066\u3044\u3051\u3044"], "name": "\u30b2\u30f3\u30ac\u30fc", "parameters": {"defense": 75, "hp": 60, "attack": 65, "critical": 130, "total": 500, "speed": 110, "block": 60}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "ふていけい"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/094-m.png", 
+  "name": "ゲンガー", 
+  "number": 94, 
+  "parameters": {
+    "attack": 65, 
+    "block": 60, 
+    "critical": 130, 
+    "defense": 75, 
+    "hp": 60, 
+    "speed": 110, 
+    "total": 500
+  }, 
+  "species": "シャドーポケモン", 
+  "types": [
+    "ゴースト", 
+    "どく"
+  ], 
+  "weight": 40.5
+}

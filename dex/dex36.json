@@ -1,1 +1,30 @@
-{"abilities": ["\u30e1\u30ed\u30e1\u30ed\u30dc\u30c7\u30a3", "\u30de\u30b8\u30c3\u30af\u30ac\u30fc\u30c9", "\u3066\u3093\u306d\u3093"], "weight": 75.0, "number": 36, "height": 25.0, "species": "\u3088\u3046\u305b\u3044\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30d4\u30af\u30b7\u30fc", "parameters": {"defense": 90, "hp": 95, "attack": 70, "critical": 85, "total": 473, "speed": 60, "block": 73}, "exp": 140, "friendship": 0}
+{
+  "abilities": [
+    "メロメロボディ", 
+    "マジックガード", 
+    "てんねん"
+  ], 
+  "egg_groups": [
+    "ようせい"
+  ], 
+  "exp": 2560, 
+  "friendship": 140, 
+  "height": 1.3, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/036-m.png", 
+  "name": "ピクシー", 
+  "number": 36, 
+  "parameters": {
+    "attack": 70, 
+    "block": 73, 
+    "critical": 85, 
+    "defense": 90, 
+    "hp": 95, 
+    "speed": 60, 
+    "total": 473
+  }, 
+  "species": "ようせいポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 40.0
+}

@@ -1,1 +1,29 @@
-{"abilities": ["\u30e1\u30ed\u30e1\u30ed\u30dc\u30c7\u30a3", "\u30d5\u30ec\u30f3\u30c9\u30ac\u30fc\u30c9"], "weight": 75.0, "number": 39, "height": 25.0, "species": "\u3075\u3046\u305b\u3093\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30d7\u30ea\u30f3", "parameters": {"defense": 25, "hp": 115, "attack": 45, "critical": 45, "total": 270, "speed": 20, "block": 20}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "メロメロボディ", 
+    "フレンドガード"
+  ], 
+  "egg_groups": [
+    "ようせい"
+  ], 
+  "exp": 2560, 
+  "friendship": 70, 
+  "height": 0.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/039-m.png", 
+  "name": "プリン", 
+  "number": 39, 
+  "parameters": {
+    "attack": 45, 
+    "block": 20, 
+    "critical": 45, 
+    "defense": 25, 
+    "hp": 115, 
+    "speed": 20, 
+    "total": 270
+  }, 
+  "species": "ふうせんポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 5.5
+}

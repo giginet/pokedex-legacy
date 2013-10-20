@@ -1,1 +1,30 @@
-{"abilities": ["\u3055\u3081\u306f\u3060", "\u304b\u305d\u304f"], "weight": 20.8, "number": 318, "height": 0.8, "species": "\u3069\u3046\u3082\u3046\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a", "\u3042\u304f"], "egg_groups": ["\u3059\u3044\u3061\u3085\u3046\uff12"], "name": "\u30ad\u30d0\u30cb\u30a2", "parameters": {"defense": 20, "hp": 45, "attack": 90, "critical": 65, "total": 305, "speed": 65, "block": 20}, "exp": 5120, "friendship": 35}
+{
+  "abilities": [
+    "さめはだ", 
+    "かそく"
+  ], 
+  "egg_groups": [
+    "すいちゅう２"
+  ], 
+  "exp": 5120, 
+  "friendship": 35, 
+  "height": 0.8, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/318-m.png", 
+  "name": "キバニア", 
+  "number": 318, 
+  "parameters": {
+    "attack": 90, 
+    "block": 20, 
+    "critical": 65, 
+    "defense": 20, 
+    "hp": 45, 
+    "speed": 65, 
+    "total": 305
+  }, 
+  "species": "どうもうポケモン", 
+  "types": [
+    "みず", 
+    "あく"
+  ], 
+  "weight": 20.8
+}

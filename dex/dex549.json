@@ -1,1 +1,30 @@
-{"abilities": ["\u3088\u3046\u308a\u3087\u304f\u305d", "\u30de\u30a4\u30da\u30fc\u30b9", "\u30ea\u30fc\u30d5\u30ac\u30fc\u30c9"], "weight": 0, "number": 549, "height": 0, "species": "\u306f\u306a\u304b\u3056\u308a\u30dd\u30b1\u30e2\u30f3", "types": ["\u304f\u3055"], "egg_groups": [], "name": "\u30c9\u30ec\u30c7\u30a3\u30a2", "parameters": {"defense": 75, "hp": 70, "attack": 60, "critical": 110, "total": 480, "speed": 90, "block": 75}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "ようりょくそ", 
+    "マイペース", 
+    "リーフガード"
+  ], 
+  "egg_groups": [
+    "しょくぶつ"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.1, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/549.png", 
+  "name": "ドレディア", 
+  "number": 549, 
+  "parameters": {
+    "attack": 60, 
+    "block": 75, 
+    "critical": 110, 
+    "defense": 75, 
+    "hp": 70, 
+    "speed": 90, 
+    "total": 480
+  }, 
+  "species": "はなかざりポケモン", 
+  "types": [
+    "くさ"
+  ], 
+  "weight": 16.3
+}

@@ -1,1 +1,30 @@
-{"abilities": ["\u3060\u3063\u3074", "\u3060\u3063\u3074"], "weight": 10.0, "number": 14, "height": 0.6, "species": "\u3055\u306a\u304e\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057", "\u3069\u304f"], "egg_groups": ["\u3080\u3057"], "name": "\u30b3\u30af\u30fc\u30f3", "parameters": {"defense": 25, "hp": 45, "attack": 25, "critical": 25, "total": 205, "speed": 35, "block": 50}, "exp": 3840, "friendship": 70}
+{
+  "abilities": [
+    "だっぴ", 
+    "だっぴ"
+  ], 
+  "egg_groups": [
+    "むし"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/014-m.png", 
+  "name": "コクーン", 
+  "number": 14, 
+  "parameters": {
+    "attack": 25, 
+    "block": 50, 
+    "critical": 25, 
+    "defense": 25, 
+    "hp": 45, 
+    "speed": 35, 
+    "total": 205
+  }, 
+  "species": "さなぎポケモン", 
+  "types": [
+    "むし", 
+    "どく"
+  ], 
+  "weight": 10.0
+}

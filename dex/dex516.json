@@ -1,1 +1,29 @@
-{"abilities": ["\u304f\u3044\u3057\u3093\u307c\u3046", "\u3052\u304d\u308a\u3085\u3046"], "weight": 12.5, "number": 516, "height": 87.5, "species": "\u307b\u3046\u3059\u3044\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30d2\u30e4\u30c3\u30ad\u30fc", "parameters": {"defense": 63, "hp": 75, "attack": 98, "critical": 98, "total": 498, "speed": 101, "block": 63}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "くいしんぼう", 
+    "げきりゅう"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/516.png", 
+  "name": "ヒヤッキー", 
+  "number": 516, 
+  "parameters": {
+    "attack": 98, 
+    "block": 63, 
+    "critical": 98, 
+    "defense": 63, 
+    "hp": 75, 
+    "speed": 101, 
+    "total": 498
+  }, 
+  "species": "ほうすいポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 29.0
+}

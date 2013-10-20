@@ -1,1 +1,29 @@
-{"abilities": ["\u304c\u3093\u3058\u3087\u3046", "\u3059\u306a\u306e\u3061\u304b\u3089"], "weight": 50.0, "number": 524, "height": 50.0, "species": "\u30de\u30f3\u30c8\u30eb\u30dd\u30b1\u30e2\u30f3", "types": ["\u3044\u308f"], "egg_groups": [], "name": "\u30c0\u30f3\u30b4\u30ed", "parameters": {"defense": 25, "hp": 55, "attack": 75, "critical": 25, "total": 280, "speed": 15, "block": 85}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "がんじょう", 
+    "すなのちから"
+  ], 
+  "egg_groups": [
+    "こうぶつ"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 0.4, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/524.png", 
+  "name": "ダンゴロ", 
+  "number": 524, 
+  "parameters": {
+    "attack": 75, 
+    "block": 85, 
+    "critical": 25, 
+    "defense": 25, 
+    "hp": 55, 
+    "speed": 15, 
+    "total": 280
+  }, 
+  "species": "マントルポケモン", 
+  "types": [
+    "いわ"
+  ], 
+  "weight": 18.0
+}

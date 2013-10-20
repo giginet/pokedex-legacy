@@ -1,1 +1,30 @@
-{"abilities": ["\u307c\u3046\u3058\u3093", "\u30de\u30b8\u30c3\u30af\u30ac\u30fc\u30c9", "\u3055\u3044\u305b\u3044\u308a\u3087\u304f"], "weight": 50.0, "number": 579, "height": 50.0, "species": "\u305e\u3046\u3075\u304f\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc"], "egg_groups": [], "name": "\u30e9\u30f3\u30af\u30eb\u30b9", "parameters": {"defense": 85, "hp": 110, "attack": 65, "critical": 125, "total": 490, "speed": 30, "block": 75}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "ぼうじん", 
+    "マジックガード", 
+    "さいせいりょく"
+  ], 
+  "egg_groups": [
+    "ふていけい"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/579.png", 
+  "name": "ランクルス", 
+  "number": 579, 
+  "parameters": {
+    "attack": 65, 
+    "block": 75, 
+    "critical": 125, 
+    "defense": 85, 
+    "hp": 110, 
+    "speed": 30, 
+    "total": 490
+  }, 
+  "species": "ぞうふくポケモン", 
+  "types": [
+    "エスパー"
+  ], 
+  "weight": 20.1
+}

@@ -1,1 +1,32 @@
-{"abilities": ["\u3060\u3063\u3074", "\u3058\u3057\u3093\u304b\u3058\u3087\u3046", "\u3044\u304b\u304f"], "weight": 30.0, "number": 560, "height": 1.1, "species": "\u3042\u304f\u3068\u3046\u30dd\u30b1\u30e2\u30f3", "types": ["\u3042\u304f", "\u304b\u304f\u3068\u3046"], "egg_groups": ["\u308a\u304f\u3058\u3087\u3046", "\u30c9\u30e9\u30b4\u30f3"], "name": "\u30ba\u30eb\u30ba\u30ad\u30f3", "parameters": {"defense": 115, "hp": 65, "attack": 90, "critical": 45, "total": 488, "speed": 58, "block": 115}, "exp": 3840, "friendship": 70}
+{
+  "abilities": [
+    "だっぴ", 
+    "じしんかじょう", 
+    "いかく"
+  ], 
+  "egg_groups": [
+    "りくじょう", 
+    "ドラゴン"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 1.1, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/560.png", 
+  "name": "ズルズキン", 
+  "number": 560, 
+  "parameters": {
+    "attack": 90, 
+    "block": 115, 
+    "critical": 45, 
+    "defense": 115, 
+    "hp": 65, 
+    "speed": 58, 
+    "total": 488
+  }, 
+  "species": "あくとうポケモン", 
+  "types": [
+    "あく", 
+    "かくとう"
+  ], 
+  "weight": 30.0
+}

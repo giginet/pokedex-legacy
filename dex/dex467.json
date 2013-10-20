@@ -1,1 +1,29 @@
-{"abilities": ["\u307b\u306e\u304a\u306e\u304b\u3089\u3060", "\u3084\u308b\u304d"], "weight": 25.0, "number": 467, "height": 75.0, "species": "\u3070\u304f\u3048\u3093\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a"], "egg_groups": [], "name": "\u30d6\u30fc\u30d0\u30fc\u30f3", "parameters": {"defense": 95, "hp": 75, "attack": 95, "critical": 125, "total": 540, "speed": 83, "block": 67}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "ほのおのからだ", 
+    "やるき"
+  ], 
+  "egg_groups": [
+    "ひとがた"
+  ], 
+  "exp": 6400, 
+  "friendship": 70, 
+  "height": 1.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/467-m.png", 
+  "name": "ブーバーン", 
+  "number": 467, 
+  "parameters": {
+    "attack": 95, 
+    "block": 67, 
+    "critical": 125, 
+    "defense": 95, 
+    "hp": 75, 
+    "speed": 83, 
+    "total": 540
+  }, 
+  "species": "ばくえんポケモン", 
+  "types": [
+    "ほのお"
+  ], 
+  "weight": 68.0
+}

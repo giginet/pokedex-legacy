@@ -1,1 +1,30 @@
-{"abilities": ["\u30c6\u30af\u30cb\u30b7\u30e3\u30f3", "\u3082\u306e\u3072\u308d\u3044", "\u30b9\u30ad\u30eb\u30ea\u30f3\u30af"], "weight": 50.0, "number": 424, "height": 50.0, "species": "\u304a\u306a\u304c\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30a8\u30c6\u30dc\u30fc\u30b9", "parameters": {"defense": 66, "hp": 75, "attack": 100, "critical": 60, "total": 482, "speed": 115, "block": 66}, "exp": 100, "friendship": 0}
+{
+  "abilities": [
+    "テクニシャン", 
+    "ものひろい", 
+    "スキルリンク"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 100, 
+  "height": 1.2, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/424-m.png", 
+  "name": "エテボース", 
+  "number": 424, 
+  "parameters": {
+    "attack": 100, 
+    "block": 66, 
+    "critical": 60, 
+    "defense": 66, 
+    "hp": 75, 
+    "speed": 115, 
+    "total": 482
+  }, 
+  "species": "おながポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 20.3
+}

@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 0, "number": 652, "height": 0, "species": "\u3068\u3052\u3088\u308d\u3044\u30dd\u30b1\u30e2\u30f3", "types": ["\u304f\u3055", "\u304b\u304f\u3068\u3046"], "egg_groups": [""], "name": "\u30d6\u30ea\u30ac\u30ed\u30f3", "parameters": {"defense": 0, "hp": 0, "attack": 0, "critical": 0, "total": 0, "speed": 0, "block": 0}, "exp": 0, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    ""
+  ], 
+  "exp": 0, 
+  "friendship": 0, 
+  "height": 0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/xy2001.png", 
+  "name": "ブリガロン", 
+  "number": 652, 
+  "parameters": {
+    "attack": 0, 
+    "block": 0, 
+    "critical": 0, 
+    "defense": 0, 
+    "hp": 0, 
+    "speed": 0, 
+    "total": 0
+  }, 
+  "species": "とげよろいポケモン", 
+  "types": [
+    "くさ", 
+    "かくとう"
+  ], 
+  "weight": 0
+}

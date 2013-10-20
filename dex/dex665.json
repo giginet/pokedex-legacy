@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 0, "number": 665, "height": 0, "species": "\u3053\u306a\u3075\u304d\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057"], "egg_groups": [], "name": "\u30b3\u30d5\u30fc\u30e9\u30a4", "parameters": {"defense": 0, "hp": 0, "attack": 0, "critical": 0, "total": 0, "speed": 0, "block": 0}, "exp": 0, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    ""
+  ], 
+  "exp": 0, 
+  "friendship": 0, 
+  "height": 0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/xy1023.png", 
+  "name": "コフーライ", 
+  "number": 665, 
+  "parameters": {
+    "attack": 0, 
+    "block": 0, 
+    "critical": 0, 
+    "defense": 0, 
+    "hp": 0, 
+    "speed": 0, 
+    "total": 0
+  }, 
+  "species": "こなふきポケモン", 
+  "types": [
+    "むし"
+  ], 
+  "weight": 0
+}

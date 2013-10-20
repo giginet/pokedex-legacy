@@ -1,1 +1,30 @@
-{"abilities": ["\u3088\u3061\u3080", "\u30b7\u30f3\u30af\u30ed", "\u30c6\u30ec\u30d1\u30b7\u30fc"], "weight": 50.0, "number": 518, "height": 50.0, "species": "\u3086\u3081\u3046\u3064\u3064\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc"], "egg_groups": [], "name": "\u30e0\u30b7\u30e3\u30fc\u30ca", "parameters": {"defense": 95, "hp": 116, "attack": 55, "critical": 107, "total": 487, "speed": 29, "block": 85}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "よちむ", 
+    "シンクロ", 
+    "テレパシー"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 2560, 
+  "friendship": 70, 
+  "height": 1.1, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/518.png", 
+  "name": "ムシャーナ", 
+  "number": 518, 
+  "parameters": {
+    "attack": 55, 
+    "block": 85, 
+    "critical": 107, 
+    "defense": 95, 
+    "hp": 116, 
+    "speed": 29, 
+    "total": 487
+  }, 
+  "species": "ゆめうつつポケモン", 
+  "types": [
+    "エスパー"
+  ], 
+  "weight": 60.5
+}

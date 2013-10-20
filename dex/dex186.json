@@ -1,1 +1,30 @@
-{"abilities": ["\u3061\u3087\u3059\u3044", "\u3057\u3081\u308a\u3051", "\u3042\u3081\u3075\u3089\u3057"], "weight": 50.0, "number": 186, "height": 50.0, "species": "\u304b\u3048\u308b\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30cb\u30e7\u30ed\u30c8\u30ce", "parameters": {"defense": 100, "hp": 90, "attack": 75, "critical": 90, "total": 500, "speed": 70, "block": 75}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "ちょすい", 
+    "しめりけ", 
+    "あめふらし"
+  ], 
+  "egg_groups": [
+    "すいちゅう１"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.1, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/186-m.png", 
+  "name": "ニョロトノ", 
+  "number": 186, 
+  "parameters": {
+    "attack": 75, 
+    "block": 75, 
+    "critical": 90, 
+    "defense": 100, 
+    "hp": 90, 
+    "speed": 70, 
+    "total": 500
+  }, 
+  "species": "かえるポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 33.9
+}

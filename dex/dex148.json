@@ -1,1 +1,30 @@
-{"abilities": ["\u3060\u3063\u3074", "\u3075\u3057\u304e\u306a\u3046\u308d\u3053"], "weight": 50.0, "number": 148, "height": 50.0, "species": "\u30c9\u30e9\u30b4\u30f3\u30dd\u30b1\u30e2\u30f3", "types": ["\u30c9\u30e9\u30b4\u30f3"], "egg_groups": [], "name": "\u30cf\u30af\u30ea\u30e5\u30fc", "parameters": {"defense": 70, "hp": 61, "attack": 84, "critical": 70, "total": 420, "speed": 70, "block": 65}, "exp": 35, "friendship": 0}
+{
+  "abilities": [
+    "だっぴ", 
+    "ふしぎなうろこ"
+  ], 
+  "egg_groups": [
+    "すいちゅう１", 
+    "ドラゴン"
+  ], 
+  "exp": 10240, 
+  "friendship": 35, 
+  "height": 4.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/148-m.png", 
+  "name": "ハクリュー", 
+  "number": 148, 
+  "parameters": {
+    "attack": 84, 
+    "block": 65, 
+    "critical": 70, 
+    "defense": 70, 
+    "hp": 61, 
+    "speed": 70, 
+    "total": 420
+  }, 
+  "species": "ドラゴンポケモン", 
+  "types": [
+    "ドラゴン"
+  ], 
+  "weight": 16.5
+}

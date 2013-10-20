@@ -1,1 +1,32 @@
-{"abilities": ["\u3072\u3089\u3044\u3057\u3093", "\u3044\u3057\u3042\u305f\u307e", "\u3059\u3066\u307f"], "weight": 120.0, "number": 112, "height": 1.9, "species": "\u30c9\u30ea\u30eb\u30dd\u30b1\u30e2\u30f3", "types": ["\u3058\u3081\u3093", "\u3044\u308f"], "egg_groups": ["\u304b\u3044\u3058\u3085\u3046", "\u308a\u304f\u3058\u3087\u3046"], "name": "\u30b5\u30a4\u30c9\u30f3", "parameters": {"defense": 45, "hp": 105, "attack": 130, "critical": 45, "total": 485, "speed": 40, "block": 120}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "ひらいしん", 
+    "いしあたま", 
+    "すてみ"
+  ], 
+  "egg_groups": [
+    "かいじゅう", 
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.9, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/112-m.png", 
+  "name": "サイドン", 
+  "number": 112, 
+  "parameters": {
+    "attack": 130, 
+    "block": 120, 
+    "critical": 45, 
+    "defense": 45, 
+    "hp": 105, 
+    "speed": 40, 
+    "total": 485
+  }, 
+  "species": "ドリルポケモン", 
+  "types": [
+    "じめん", 
+    "いわ"
+  ], 
+  "weight": 120.0
+}

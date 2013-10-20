@@ -1,1 +1,32 @@
-{"abilities": ["\u3088\u3046\u308a\u3087\u304f\u305d", "\u306f\u3084\u304a\u304d", "\u308f\u308b\u3044\u3066\u3050\u305b"], "weight": 28.0, "number": 274, "height": 1.0, "species": "\u3044\u3058\u308f\u308b\u30dd\u30b1\u30e2\u30f3", "types": ["\u304f\u3055", "\u3042\u304f"], "egg_groups": ["\u308a\u304f\u3058\u3087\u3046", "\u3057\u3087\u304f\u3076\u3064"], "name": "\u30b3\u30ce\u30cf\u30ca", "parameters": {"defense": 40, "hp": 70, "attack": 70, "critical": 60, "total": 340, "speed": 60, "block": 40}, "exp": 3840, "friendship": 70}
+{
+  "abilities": [
+    "ようりょくそ", 
+    "はやおき", 
+    "わるいてぐせ"
+  ], 
+  "egg_groups": [
+    "りくじょう", 
+    "しょくぶつ"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 1.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/274-m.png", 
+  "name": "コノハナ", 
+  "number": 274, 
+  "parameters": {
+    "attack": 70, 
+    "block": 40, 
+    "critical": 60, 
+    "defense": 40, 
+    "hp": 70, 
+    "speed": 60, 
+    "total": 340
+  }, 
+  "species": "いじわるポケモン", 
+  "types": [
+    "くさ", 
+    "あく"
+  ], 
+  "weight": 28.0
+}

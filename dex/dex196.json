@@ -1,1 +1,29 @@
-{"abilities": ["\u30b7\u30f3\u30af\u30ed", "\u30de\u30b8\u30c3\u30af\u30df\u30e9\u30fc"], "weight": 12.5, "number": 196, "height": 87.5, "species": "\u305f\u3044\u3088\u3046\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc"], "egg_groups": [], "name": "\u30a8\u30fc\u30d5\u30a3", "parameters": {"defense": 95, "hp": 65, "attack": 65, "critical": 130, "total": 525, "speed": 110, "block": 60}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "シンクロ", 
+    "マジックミラー"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 8960, 
+  "friendship": 70, 
+  "height": 0.9, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/196-m.png", 
+  "name": "エーフィ", 
+  "number": 196, 
+  "parameters": {
+    "attack": 65, 
+    "block": 60, 
+    "critical": 130, 
+    "defense": 95, 
+    "hp": 65, 
+    "speed": 110, 
+    "total": 525
+  }, 
+  "species": "たいようポケモン", 
+  "types": [
+    "エスパー"
+  ], 
+  "weight": 26.5
+}

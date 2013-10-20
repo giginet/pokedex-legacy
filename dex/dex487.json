@@ -1,1 +1,30 @@
-{"abilities": ["\u30d7\u30ec\u30c3\u30b7\u30e3\u30fc", "\u30c6\u30ec\u30d1\u30b7\u30fc"], "weight": 750.0, "number": 487, "height": 4.5, "species": "\u306f\u3093\u3053\u3064\u30dd\u30b1\u30e2\u30f3", "types": ["\u30b4\u30fc\u30b9\u30c8", "\u30c9\u30e9\u30b4\u30f3"], "egg_groups": ["\u307f\u306f\u3063\u3051\u3093"], "name": "\u30ae\u30e9\u30c6\u30a3\u30ca", "parameters": {"defense": 120, "hp": 150, "attack": 100, "critical": 100, "total": 680, "speed": 90, "block": 120}, "exp": 30720, "friendship": 0}
+{
+  "abilities": [
+    "プレッシャー", 
+    "テレパシー"
+  ], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 30720, 
+  "friendship": 0, 
+  "height": 4.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/487.png", 
+  "name": "ギラティナ", 
+  "number": 487, 
+  "parameters": {
+    "attack": 100, 
+    "block": 120, 
+    "critical": 100, 
+    "defense": 120, 
+    "hp": 150, 
+    "speed": 90, 
+    "total": 680
+  }, 
+  "species": "はんこつポケモン", 
+  "types": [
+    "ゴースト", 
+    "ドラゴン"
+  ], 
+  "weight": 750.0
+}

@@ -1,1 +1,30 @@
-{"abilities": ["\u3059\u3044\u3059\u3044", "\u307f\u305a\u306e\u30d9\u30fc\u30eb", "\u3072\u3089\u3044\u3057\u3093"], "weight": 50.0, "number": 118, "height": 50.0, "species": "\u304d\u3093\u304e\u3087\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30c8\u30b5\u30ad\u30f3\u30c8", "parameters": {"defense": 50, "hp": 45, "attack": 67, "critical": 35, "total": 320, "speed": 63, "block": 60}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "すいすい", 
+    "みずのベール", 
+    "ひらいしん"
+  ], 
+  "egg_groups": [
+    "すいちゅう２"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/118-m.png", 
+  "name": "トサキント", 
+  "number": 118, 
+  "parameters": {
+    "attack": 67, 
+    "block": 60, 
+    "critical": 35, 
+    "defense": 50, 
+    "hp": 45, 
+    "speed": 63, 
+    "total": 320
+  }, 
+  "species": "きんぎょポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 15.0
+}

@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 50.0, "number": 351, "height": 50.0, "species": "\u3066\u3093\u304d\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30dd\u30ef\u30eb\u30f3", "parameters": {"defense": 70, "hp": 70, "attack": 70, "critical": 70, "total": 420, "speed": 70, "block": 70}, "exp": 70, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "ようせい", 
+    "ふていけい"
+  ], 
+  "exp": 6400, 
+  "friendship": 70, 
+  "height": 0.3, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/351-m.png", 
+  "name": "ポワルン", 
+  "number": 351, 
+  "parameters": {
+    "attack": 70, 
+    "block": 70, 
+    "critical": 70, 
+    "defense": 70, 
+    "hp": 70, 
+    "speed": 70, 
+    "total": 420
+  }, 
+  "species": "てんきポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 0.8
+}

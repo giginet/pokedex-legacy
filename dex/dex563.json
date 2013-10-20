@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 50.0, "number": 563, "height": 50.0, "species": "\u304b\u3093\u304a\u3051\u30dd\u30b1\u30e2\u30f3", "types": ["\u30b4\u30fc\u30b9\u30c8"], "egg_groups": [], "name": "\u30c7\u30b9\u30ab\u30fc\u30f3", "parameters": {"defense": 105, "hp": 58, "attack": 50, "critical": 95, "total": 483, "speed": 30, "block": 145}, "exp": 70, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "こうぶつ", 
+    "ふていけい"
+  ], 
+  "exp": 6400, 
+  "friendship": 70, 
+  "height": 1.7, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/563.png", 
+  "name": "デスカーン", 
+  "number": 563, 
+  "parameters": {
+    "attack": 50, 
+    "block": 145, 
+    "critical": 95, 
+    "defense": 105, 
+    "hp": 58, 
+    "speed": 30, 
+    "total": 483
+  }, 
+  "species": "かんおけポケモン", 
+  "types": [
+    "ゴースト"
+  ], 
+  "weight": 76.5
+}

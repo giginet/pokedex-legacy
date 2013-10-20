@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 50.0, "number": 288, "height": 50.0, "species": "\u3042\u3070\u308c\u30b6\u30eb\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30e4\u30eb\u30ad\u30e2\u30ce", "parameters": {"defense": 55, "hp": 80, "attack": 80, "critical": 55, "total": 440, "speed": 90, "block": 80}, "exp": 70, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 1.4, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/288-m.png", 
+  "name": "ヤルキモノ", 
+  "number": 288, 
+  "parameters": {
+    "attack": 80, 
+    "block": 80, 
+    "critical": 55, 
+    "defense": 55, 
+    "hp": 80, 
+    "speed": 90, 
+    "total": 440
+  }, 
+  "species": "あばれザルポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 46.5
+}

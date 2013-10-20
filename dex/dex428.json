@@ -1,1 +1,31 @@
-{"abilities": ["\u30e1\u30ed\u30e1\u30ed\u30dc\u30c7\u30a3", "\u3076\u304d\u3088\u3046", "\u3058\u3085\u3046\u306a\u3093"], "weight": 50.0, "number": 428, "height": 50.0, "species": "\u3046\u3055\u304e\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30df\u30df\u30ed\u30c3\u30d7", "parameters": {"defense": 96, "hp": 65, "attack": 76, "critical": 54, "total": 480, "speed": 105, "block": 84}, "exp": 140, "friendship": 0}
+{
+  "abilities": [
+    "メロメロボディ", 
+    "ぶきよう", 
+    "じゅうなん"
+  ], 
+  "egg_groups": [
+    "りくじょう", 
+    "ひとがた"
+  ], 
+  "exp": 5120, 
+  "friendship": 140, 
+  "height": 1.2, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/428-m.png", 
+  "name": "ミミロップ", 
+  "number": 428, 
+  "parameters": {
+    "attack": 76, 
+    "block": 84, 
+    "critical": 54, 
+    "defense": 96, 
+    "hp": 65, 
+    "speed": 105, 
+    "total": 480
+  }, 
+  "species": "うさぎポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 33.3
+}

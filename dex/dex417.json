@@ -1,1 +1,31 @@
-{"abilities": ["\u306b\u3052\u3042\u3057", "\u3082\u306e\u3072\u308d\u3044", "\u3061\u304f\u3067\u3093"], "weight": 50.0, "number": 417, "height": 50.0, "species": "\u3067\u3093\u304d\u308a\u3059\u30dd\u30b1\u30e2\u30f3", "types": ["\u3067\u3093\u304d"], "egg_groups": [], "name": "\u30d1\u30c1\u30ea\u30b9", "parameters": {"defense": 90, "hp": 60, "attack": 45, "critical": 45, "total": 405, "speed": 95, "block": 70}, "exp": 100, "friendship": 0}
+{
+  "abilities": [
+    "にげあし", 
+    "ものひろい", 
+    "ちくでん"
+  ], 
+  "egg_groups": [
+    "りくじょう", 
+    "ようせい"
+  ], 
+  "exp": 2560, 
+  "friendship": 100, 
+  "height": 0.4, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/417-m.png", 
+  "name": "パチリス", 
+  "number": 417, 
+  "parameters": {
+    "attack": 45, 
+    "block": 70, 
+    "critical": 45, 
+    "defense": 90, 
+    "hp": 60, 
+    "speed": 95, 
+    "total": 405
+  }, 
+  "species": "でんきりすポケモン", 
+  "types": [
+    "でんき"
+  ], 
+  "weight": 3.9
+}

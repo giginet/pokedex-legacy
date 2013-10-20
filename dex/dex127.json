@@ -1,1 +1,30 @@
-{"abilities": ["\u304b\u3044\u308a\u304d\u30d0\u30b5\u30df", "\u304b\u305f\u3084\u3076\u308a", "\u3058\u3057\u3093\u304b\u3058\u3087\u3046"], "weight": 50.0, "number": 127, "height": 50.0, "species": "\u304f\u308f\u304c\u305f\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057"], "egg_groups": [], "name": "\u30ab\u30a4\u30ed\u30b9", "parameters": {"defense": 70, "hp": 65, "attack": 125, "critical": 55, "total": 500, "speed": 85, "block": 100}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "かいりきバサミ", 
+    "かたやぶり", 
+    "じしんかじょう"
+  ], 
+  "egg_groups": [
+    "むし"
+  ], 
+  "exp": 6400, 
+  "friendship": 70, 
+  "height": 1.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/127-m.png", 
+  "name": "カイロス", 
+  "number": 127, 
+  "parameters": {
+    "attack": 125, 
+    "block": 100, 
+    "critical": 55, 
+    "defense": 70, 
+    "hp": 65, 
+    "speed": 85, 
+    "total": 500
+  }, 
+  "species": "くわがたポケモン", 
+  "types": [
+    "むし"
+  ], 
+  "weight": 55.0
+}

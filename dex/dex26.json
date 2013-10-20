@@ -1,1 +1,30 @@
-{"abilities": ["\u305b\u3044\u3067\u3093\u304d", "\u3072\u3089\u3044\u3057\u3093"], "weight": 50.0, "number": 26, "height": 50.0, "species": "\u306d\u305a\u307f\u30dd\u30b1\u30e2\u30f3", "types": ["\u3067\u3093\u304d"], "egg_groups": [], "name": "\u30e9\u30a4\u30c1\u30e5\u30a6", "parameters": {"defense": 80, "hp": 60, "attack": 90, "critical": 90, "total": 475, "speed": 100, "block": 55}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "せいでんき", 
+    "ひらいしん"
+  ], 
+  "egg_groups": [
+    "りくじょう", 
+    "ようせい"
+  ], 
+  "exp": 2560, 
+  "friendship": 70, 
+  "height": 0.8, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/026-m.png", 
+  "name": "ライチュウ", 
+  "number": 26, 
+  "parameters": {
+    "attack": 90, 
+    "block": 55, 
+    "critical": 90, 
+    "defense": 80, 
+    "hp": 60, 
+    "speed": 100, 
+    "total": 475
+  }, 
+  "species": "ねずみポケモン", 
+  "types": [
+    "でんき"
+  ], 
+  "weight": 30.0
+}

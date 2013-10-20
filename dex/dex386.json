@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 0, "number": 386, "height": 0, "species": "DNA\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc"], "egg_groups": [], "name": "\u30c7\u30aa\u30ad\u30b7\u30b9", "parameters": {"defense": 50, "hp": 50, "attack": 150, "critical": 150, "total": 600, "speed": 150, "block": 50}, "exp": 0, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 30720, 
+  "friendship": 0, 
+  "height": 1.7, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/386.png", 
+  "name": "デオキシス", 
+  "number": 386, 
+  "parameters": {
+    "attack": 150, 
+    "block": 50, 
+    "critical": 150, 
+    "defense": 50, 
+    "hp": 50, 
+    "speed": 150, 
+    "total": 600
+  }, 
+  "species": "DNAポケモン", 
+  "types": [
+    "エスパー"
+  ], 
+  "weight": 60.8
+}

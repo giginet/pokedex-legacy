@@ -1,1 +1,31 @@
-{"abilities": ["\u3082\u3046\u304b", "\u3066\u3064\u306e\u3053\u3076\u3057"], "weight": 55.0, "number": 392, "height": 1.2, "species": "\u304b\u3048\u3093\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a", "\u304b\u304f\u3068\u3046"], "egg_groups": ["\u308a\u304f\u3058\u3087\u3046", "\u3072\u3068\u304c\u305f"], "name": "\u30b4\u30a6\u30ab\u30b6\u30eb", "parameters": {"defense": 71, "hp": 76, "attack": 104, "critical": 104, "total": 534, "speed": 108, "block": 71}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "もうか", 
+    "てつのこぶし"
+  ], 
+  "egg_groups": [
+    "りくじょう", 
+    "ひとがた"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.2, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/392-m.png", 
+  "name": "ゴウカザル", 
+  "number": 392, 
+  "parameters": {
+    "attack": 104, 
+    "block": 71, 
+    "critical": 104, 
+    "defense": 71, 
+    "hp": 76, 
+    "speed": 108, 
+    "total": 534
+  }, 
+  "species": "かえんポケモン", 
+  "types": [
+    "ほのお", 
+    "かくとう"
+  ], 
+  "weight": 55.0
+}

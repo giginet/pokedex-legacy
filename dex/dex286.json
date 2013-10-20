@@ -1,1 +1,32 @@
-{"abilities": ["\u307b\u3046\u3057", "\u30dd\u30a4\u30ba\u30f3\u30d2\u30fc\u30eb", "\u30c6\u30af\u30cb\u30b7\u30e3\u30f3"], "weight": 39.2, "number": 286, "height": 1.2, "species": "\u304d\u306e\u3053\u30dd\u30b1\u30e2\u30f3", "types": ["\u304f\u3055", "\u304b\u304f\u3068\u3046"], "egg_groups": ["\u3088\u3046\u305b\u3044", "\u3057\u3087\u304f\u3076\u3064"], "name": "\u30ad\u30ce\u30ac\u30c3\u30b5", "parameters": {"defense": 60, "hp": 60, "attack": 130, "critical": 60, "total": 460, "speed": 70, "block": 80}, "exp": 3840, "friendship": 70}
+{
+  "abilities": [
+    "ほうし", 
+    "ポイズンヒール", 
+    "テクニシャン"
+  ], 
+  "egg_groups": [
+    "ようせい", 
+    "しょくぶつ"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 1.2, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/286-m.png", 
+  "name": "キノガッサ", 
+  "number": 286, 
+  "parameters": {
+    "attack": 130, 
+    "block": 80, 
+    "critical": 60, 
+    "defense": 60, 
+    "hp": 60, 
+    "speed": 70, 
+    "total": 460
+  }, 
+  "species": "きのこポケモン", 
+  "types": [
+    "くさ", 
+    "かくとう"
+  ], 
+  "weight": 39.2
+}

@@ -1,1 +1,31 @@
-{"abilities": ["\u306d\u3093\u3061\u3083\u304f", "\u3088\u3073\u307f\u305a", "\u3059\u306a\u306e\u3061\u304b\u3089"], "weight": 50.0, "number": 422, "height": 50.0, "species": "\u30a6\u30df\u30a6\u30b7\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30ab\u30e9\u30ca\u30af\u30b7", "parameters": {"defense": 62, "hp": 76, "attack": 48, "critical": 57, "total": 325, "speed": 34, "block": 48}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "ねんちゃく", 
+    "よびみず", 
+    "すなのちから"
+  ], 
+  "egg_groups": [
+    "すいちゅう１", 
+    "ふていけい"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.3, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/422-m.png", 
+  "name": "カラナクシ", 
+  "number": 422, 
+  "parameters": {
+    "attack": 48, 
+    "block": 48, 
+    "critical": 57, 
+    "defense": 62, 
+    "hp": 76, 
+    "speed": 34, 
+    "total": 325
+  }, 
+  "species": "ウミウシポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 6.3
+}

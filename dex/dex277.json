@@ -1,1 +1,30 @@
-{"abilities": ["\u3053\u3093\u3058\u3087\u3046", "\u304d\u3082\u3063\u305f\u307e"], "weight": 19.8, "number": 277, "height": 0.7, "species": "\u30c4\u30d0\u30e1\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb", "\u3072\u3053\u3046"], "egg_groups": ["\u3072\u3053\u3046"], "name": "\u30aa\u30aa\u30b9\u30d0\u30e1", "parameters": {"defense": 50, "hp": 60, "attack": 85, "critical": 50, "total": 430, "speed": 125, "block": 60}, "exp": 3840, "friendship": 70}
+{
+  "abilities": [
+    "こんじょう", 
+    "きもったま"
+  ], 
+  "egg_groups": [
+    "ひこう"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 0.7, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/277-m.png", 
+  "name": "オオスバメ", 
+  "number": 277, 
+  "parameters": {
+    "attack": 85, 
+    "block": 60, 
+    "critical": 50, 
+    "defense": 50, 
+    "hp": 60, 
+    "speed": 125, 
+    "total": 430
+  }, 
+  "species": "ツバメポケモン", 
+  "types": [
+    "ノーマル", 
+    "ひこう"
+  ], 
+  "weight": 19.8
+}

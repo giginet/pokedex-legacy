@@ -1,1 +1,31 @@
-{"abilities": ["\u304b\u3044\u308a\u304d\u30d0\u30b5\u30df", "\u3044\u304b\u304f", "\u3061\u304b\u3089\u305a\u304f"], "weight": 50.0, "number": 303, "height": 50.0, "species": "\u3042\u3056\u3080\u304d\u30dd\u30b1\u30e2\u30f3", "types": ["\u306f\u304c\u306d"], "egg_groups": [], "name": "\u30af\u30c1\u30fc\u30c8", "parameters": {"defense": 55, "hp": 50, "attack": 85, "critical": 55, "total": 380, "speed": 50, "block": 85}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "かいりきバサミ", 
+    "いかく", 
+    "ちからずく"
+  ], 
+  "egg_groups": [
+    "りくじょう", 
+    "ようせい"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/303-m.png", 
+  "name": "クチート", 
+  "number": 303, 
+  "parameters": {
+    "attack": 85, 
+    "block": 85, 
+    "critical": 55, 
+    "defense": 55, 
+    "hp": 50, 
+    "speed": 50, 
+    "total": 380
+  }, 
+  "species": "あざむきポケモン", 
+  "types": [
+    "はがね"
+  ], 
+  "weight": 11.5
+}

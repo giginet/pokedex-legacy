@@ -1,1 +1,30 @@
-{"abilities": ["\u3059\u3066\u307f", "\u3066\u304d\u304a\u3046\u308a\u3087\u304f", "\u304b\u305f\u3084\u3076\u308a"], "weight": 50.0, "number": 550, "height": 50.0, "species": "\u3089\u3093\u307c\u3046\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30d0\u30b9\u30e9\u30aa", "parameters": {"defense": 55, "hp": 70, "attack": 92, "critical": 80, "total": 460, "speed": 98, "block": 65}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "すてみ", 
+    "てきおうりょく", 
+    "かたやぶり"
+  ], 
+  "egg_groups": [
+    "すいちゅう２"
+  ], 
+  "exp": 10240, 
+  "friendship": 70, 
+  "height": 1.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/550.png", 
+  "name": "バスラオ", 
+  "number": 550, 
+  "parameters": {
+    "attack": 92, 
+    "block": 65, 
+    "critical": 80, 
+    "defense": 55, 
+    "hp": 70, 
+    "speed": 98, 
+    "total": 460
+  }, 
+  "species": "らんぼうポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 18.0
+}

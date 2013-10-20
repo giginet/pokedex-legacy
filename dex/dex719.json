@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 0, "number": 719, "height": 0, "species": "\u3044\u3067\u3093\u3057\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc"], "egg_groups": [], "name": "\u30e1\u30ac\u30df\u30e5\u30a6\u30c4\u30fc", "parameters": {"defense": 0, "hp": 0, "attack": 0, "critical": 0, "total": 0, "speed": 0, "block": 0}, "exp": 0, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    ""
+  ], 
+  "exp": 0, 
+  "friendship": 0, 
+  "height": 0, 
+  "image_url": "", 
+  "name": "メガミュウツー", 
+  "number": 719, 
+  "parameters": {
+    "attack": 0, 
+    "block": 0, 
+    "critical": 0, 
+    "defense": 0, 
+    "hp": 0, 
+    "speed": 0, 
+    "total": 0
+  }, 
+  "species": "いでんしポケモン", 
+  "types": [
+    "エスパー"
+  ], 
+  "weight": 0
+}

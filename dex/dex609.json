@@ -1,1 +1,31 @@
-{"abilities": ["\u3082\u3089\u3044\u3073", "\u307b\u306e\u304a\u306e\u304b\u3089\u3060", "\u304b\u3052\u3075\u307f"], "weight": 34.3, "number": 609, "height": 1.0, "species": "\u3044\u3056\u306a\u3044\u30dd\u30b1\u30e2\u30f3", "types": ["\u30b4\u30fc\u30b9\u30c8", "\u307b\u306e\u304a"], "egg_groups": ["\u3075\u3066\u3044\u3051\u3044"], "name": "\u30b7\u30e3\u30f3\u30c7\u30e9", "parameters": {"defense": 90, "hp": 60, "attack": 55, "critical": 145, "total": 520, "speed": 80, "block": 90}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "もらいび", 
+    "ほのおのからだ", 
+    "かげふみ"
+  ], 
+  "egg_groups": [
+    "ふていけい"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/609.png", 
+  "name": "シャンデラ", 
+  "number": 609, 
+  "parameters": {
+    "attack": 55, 
+    "block": 90, 
+    "critical": 145, 
+    "defense": 90, 
+    "hp": 60, 
+    "speed": 80, 
+    "total": 520
+  }, 
+  "species": "いざないポケモン", 
+  "types": [
+    "ゴースト", 
+    "ほのお"
+  ], 
+  "weight": 34.3
+}

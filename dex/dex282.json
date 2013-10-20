@@ -1,1 +1,30 @@
-{"abilities": ["\u30b7\u30f3\u30af\u30ed", "\u30c8\u30ec\u30fc\u30b9", "\u30c6\u30ec\u30d1\u30b7\u30fc"], "weight": 50.0, "number": 282, "height": 50.0, "species": "\u307b\u3046\u3088\u3046\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc"], "egg_groups": [], "name": "\u30b5\u30fc\u30ca\u30a4\u30c8", "parameters": {"defense": 115, "hp": 68, "attack": 65, "critical": 125, "total": 518, "speed": 80, "block": 65}, "exp": 35, "friendship": 0}
+{
+  "abilities": [
+    "シンクロ", 
+    "トレース", 
+    "テレパシー"
+  ], 
+  "egg_groups": [
+    "ふていけい"
+  ], 
+  "exp": 5120, 
+  "friendship": 35, 
+  "height": 1.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/282-m.png", 
+  "name": "サーナイト", 
+  "number": 282, 
+  "parameters": {
+    "attack": 65, 
+    "block": 65, 
+    "critical": 125, 
+    "defense": 115, 
+    "hp": 68, 
+    "speed": 80, 
+    "total": 518
+  }, 
+  "species": "ほうようポケモン", 
+  "types": [
+    "エスパー"
+  ], 
+  "weight": 48.4
+}

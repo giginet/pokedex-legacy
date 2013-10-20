@@ -1,1 +1,30 @@
-{"abilities": ["\u305b\u3044\u3067\u3093\u304d", "\u3072\u3089\u3044\u3057\u3093", "\u30de\u30a4\u30ca\u30b9"], "weight": 50.0, "number": 310, "height": 50.0, "species": "\u307b\u3046\u3067\u3093\u30dd\u30b1\u30e2\u30f3", "types": ["\u3067\u3093\u304d"], "egg_groups": [], "name": "\u30e9\u30a4\u30dc\u30eb\u30c8", "parameters": {"defense": 60, "hp": 70, "attack": 75, "critical": 105, "total": 475, "speed": 105, "block": 60}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "せいでんき", 
+    "ひらいしん", 
+    "マイナス"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/310-m.png", 
+  "name": "ライボルト", 
+  "number": 310, 
+  "parameters": {
+    "attack": 75, 
+    "block": 60, 
+    "critical": 105, 
+    "defense": 60, 
+    "hp": 70, 
+    "speed": 105, 
+    "total": 475
+  }, 
+  "species": "ほうでんポケモン", 
+  "types": [
+    "でんき"
+  ], 
+  "weight": 40.2
+}

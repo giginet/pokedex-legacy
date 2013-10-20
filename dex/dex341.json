@@ -1,1 +1,31 @@
-{"abilities": ["\u304b\u3044\u308a\u304d\u30d0\u30b5\u30df", "\u30b7\u30a7\u30eb\u30a2\u30fc\u30de\u30fc", "\u3066\u304d\u304a\u3046\u308a\u3087\u304f"], "weight": 50.0, "number": 341, "height": 50.0, "species": "\u3054\u308d\u3064\u304d\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30d8\u30a4\u30ac\u30cb", "parameters": {"defense": 35, "hp": 43, "attack": 80, "critical": 50, "total": 308, "speed": 35, "block": 65}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "かいりきバサミ", 
+    "シェルアーマー", 
+    "てきおうりょく"
+  ], 
+  "egg_groups": [
+    "すいちゅう１", 
+    "すいちゅう３"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/341-m.png", 
+  "name": "ヘイガニ", 
+  "number": 341, 
+  "parameters": {
+    "attack": 80, 
+    "block": 65, 
+    "critical": 50, 
+    "defense": 35, 
+    "hp": 43, 
+    "speed": 35, 
+    "total": 308
+  }, 
+  "species": "ごろつきポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 11.5
+}

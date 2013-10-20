@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 12.5, "number": 570, "height": 87.5, "species": "\u308f\u308b\u304e\u3064\u306d\u30dd\u30b1\u30e2\u30f3", "types": ["\u3042\u304f"], "egg_groups": [], "name": "\u30be\u30ed\u30a2", "parameters": {"defense": 40, "hp": 40, "attack": 65, "critical": 80, "total": 330, "speed": 65, "block": 40}, "exp": 70, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 6400, 
+  "friendship": 70, 
+  "height": 0.7, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/570.png", 
+  "name": "ゾロア", 
+  "number": 570, 
+  "parameters": {
+    "attack": 65, 
+    "block": 40, 
+    "critical": 80, 
+    "defense": 40, 
+    "hp": 40, 
+    "speed": 65, 
+    "total": 330
+  }, 
+  "species": "わるぎつねポケモン", 
+  "types": [
+    "あく"
+  ], 
+  "weight": 12.5
+}

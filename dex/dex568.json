@@ -1,1 +1,30 @@
-{"abilities": ["\u3042\u304f\u3057\u3085\u3046", "\u306d\u3093\u3061\u3083\u304f", "\u3086\u3046\u3070\u304f"], "weight": 50.0, "number": 568, "height": 50.0, "species": "\u30b4\u30df\u3076\u304f\u308d\u30dd\u30b1\u30e2\u30f3", "types": ["\u3069\u304f"], "egg_groups": [], "name": "\u30e4\u30d6\u30af\u30ed\u30f3", "parameters": {"defense": 62, "hp": 50, "attack": 50, "critical": 40, "total": 329, "speed": 65, "block": 62}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "あくしゅう", 
+    "ねんちゃく", 
+    "ゆうばく"
+  ], 
+  "egg_groups": [
+    "こうぶつ"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/568.png", 
+  "name": "ヤブクロン", 
+  "number": 568, 
+  "parameters": {
+    "attack": 50, 
+    "block": 62, 
+    "critical": 40, 
+    "defense": 62, 
+    "hp": 50, 
+    "speed": 65, 
+    "total": 329
+  }, 
+  "species": "ゴミぶくろポケモン", 
+  "types": [
+    "どく"
+  ], 
+  "weight": 31.0
+}

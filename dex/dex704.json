@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 0, "number": 704, "height": 0, "species": "\u306a\u3093\u305f\u3044\u30dd\u30b1\u30e2\u30f3", "types": ["\u30c9\u30e9\u30b4\u30f3"], "egg_groups": [], "name": "\u30cc\u30e1\u30e9", "parameters": {"defense": 0, "hp": 0, "attack": 0, "critical": 0, "total": 0, "speed": 0, "block": 0}, "exp": 0, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    ""
+  ], 
+  "exp": 0, 
+  "friendship": 0, 
+  "height": 0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/xy3023.png", 
+  "name": "ヌメラ", 
+  "number": 704, 
+  "parameters": {
+    "attack": 0, 
+    "block": 0, 
+    "critical": 0, 
+    "defense": 0, 
+    "hp": 0, 
+    "speed": 0, 
+    "total": 0
+  }, 
+  "species": "なんたいポケモン", 
+  "types": [
+    "ドラゴン"
+  ], 
+  "weight": 0
+}

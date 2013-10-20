@@ -1,1 +1,31 @@
-{"abilities": ["\u306b\u3052\u3042\u3057", "\u3076\u304d\u3088\u3046", "\u3058\u3085\u3046\u306a\u3093"], "weight": 50.0, "number": 427, "height": 50.0, "species": "\u3046\u3055\u304e\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30df\u30df\u30ed\u30eb", "parameters": {"defense": 56, "hp": 55, "attack": 66, "critical": 44, "total": 350, "speed": 85, "block": 44}, "exp": 0, "friendship": 0}
+{
+  "abilities": [
+    "にげあし", 
+    "ぶきよう", 
+    "じゅうなん"
+  ], 
+  "egg_groups": [
+    "りくじょう", 
+    "ひとがた"
+  ], 
+  "exp": 5120, 
+  "friendship": 0, 
+  "height": 0.4, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/427-m.png", 
+  "name": "ミミロル", 
+  "number": 427, 
+  "parameters": {
+    "attack": 66, 
+    "block": 44, 
+    "critical": 44, 
+    "defense": 56, 
+    "hp": 55, 
+    "speed": 85, 
+    "total": 350
+  }, 
+  "species": "うさぎポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 5.5
+}

@@ -1,1 +1,29 @@
-{"abilities": ["\u304b\u3052\u3075\u307f", "\u30c6\u30ec\u30d1\u30b7\u30fc"], "weight": 50.0, "number": 360, "height": 50.0, "species": "\u307b\u304c\u3089\u304b\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc"], "egg_groups": [], "name": "\u30bd\u30fc\u30ca\u30ce", "parameters": {"defense": 48, "hp": 95, "attack": 23, "critical": 23, "total": 260, "speed": 23, "block": 48}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "かげふみ", 
+    "テレパシー"
+  ], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/360-m.png", 
+  "name": "ソーナノ", 
+  "number": 360, 
+  "parameters": {
+    "attack": 23, 
+    "block": 48, 
+    "critical": 23, 
+    "defense": 48, 
+    "hp": 95, 
+    "speed": 23, 
+    "total": 260
+  }, 
+  "species": "ほがらかポケモン", 
+  "types": [
+    "エスパー"
+  ], 
+  "weight": 14.0
+}

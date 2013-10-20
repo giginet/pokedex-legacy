@@ -1,1 +1,29 @@
-{"abilities": ["\u3052\u304d\u308a\u3085\u3046", "\u30b7\u30a7\u30eb\u30a2\u30fc\u30de\u30fc"], "weight": 12.5, "number": 502, "height": 87.5, "species": "\u3057\u3085\u304e\u3087\u3046\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30d5\u30bf\u30c1\u30de\u30eb", "parameters": {"defense": 60, "hp": 75, "attack": 75, "critical": 83, "total": 413, "speed": 60, "block": 60}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "げきりゅう", 
+    "シェルアーマー"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.8, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/502.png", 
+  "name": "フタチマル", 
+  "number": 502, 
+  "parameters": {
+    "attack": 75, 
+    "block": 60, 
+    "critical": 83, 
+    "defense": 60, 
+    "hp": 75, 
+    "speed": 60, 
+    "total": 413
+  }, 
+  "species": "しゅぎょうポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 24.5
+}

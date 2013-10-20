@@ -1,1 +1,31 @@
-{"abilities": ["\u30ea\u30fc\u30d5\u30ac\u30fc\u30c9", "\u3088\u3046\u308a\u3087\u304f\u305d", "\u307c\u3046\u3058\u3093"], "weight": 7.3, "number": 541, "height": 0.5, "species": "\u306f\u3054\u3082\u308a\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057", "\u304f\u3055"], "egg_groups": ["\u3080\u3057"], "name": "\u30af\u30eb\u30de\u30e6", "parameters": {"defense": 80, "hp": 55, "attack": 63, "critical": 50, "total": 380, "speed": 42, "block": 90}, "exp": 3840, "friendship": 70}
+{
+  "abilities": [
+    "リーフガード", 
+    "ようりょくそ", 
+    "ぼうじん"
+  ], 
+  "egg_groups": [
+    "むし"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 0.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/541.png", 
+  "name": "クルマユ", 
+  "number": 541, 
+  "parameters": {
+    "attack": 63, 
+    "block": 90, 
+    "critical": 50, 
+    "defense": 80, 
+    "hp": 55, 
+    "speed": 42, 
+    "total": 380
+  }, 
+  "species": "はごもりポケモン", 
+  "types": [
+    "むし", 
+    "くさ"
+  ], 
+  "weight": 7.3
+}

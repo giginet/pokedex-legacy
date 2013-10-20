@@ -1,1 +1,31 @@
-{"abilities": ["\u3044\u304b\u304f", "\u306b\u3052\u3042\u3057", "\u3073\u3073\u308a"], "weight": 75.0, "number": 209, "height": 25.0, "species": "\u3088\u3046\u305b\u3044\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30d6\u30eb\u30fc", "parameters": {"defense": 40, "hp": 60, "attack": 80, "critical": 40, "total": 300, "speed": 30, "block": 50}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "いかく", 
+    "にげあし", 
+    "びびり"
+  ], 
+  "egg_groups": [
+    "りくじょう", 
+    "ようせい"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/209-m.png", 
+  "name": "ブルー", 
+  "number": 209, 
+  "parameters": {
+    "attack": 80, 
+    "block": 50, 
+    "critical": 40, 
+    "defense": 40, 
+    "hp": 60, 
+    "speed": 30, 
+    "total": 300
+  }, 
+  "species": "ようせいポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 7.8
+}

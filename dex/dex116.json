@@ -1,1 +1,31 @@
-{"abilities": ["\u3059\u3044\u3059\u3044", "\u30b9\u30ca\u30a4\u30d1\u30fc", "\u3057\u3081\u308a\u3051"], "weight": 50.0, "number": 116, "height": 50.0, "species": "\u30c9\u30e9\u30b4\u30f3\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30bf\u30c3\u30c4\u30fc", "parameters": {"defense": 25, "hp": 30, "attack": 40, "critical": 70, "total": 295, "speed": 60, "block": 70}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "すいすい", 
+    "スナイパー", 
+    "しめりけ"
+  ], 
+  "egg_groups": [
+    "すいちゅう１", 
+    "ドラゴン"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.4, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/116-m.png", 
+  "name": "タッツー", 
+  "number": 116, 
+  "parameters": {
+    "attack": 40, 
+    "block": 70, 
+    "critical": 70, 
+    "defense": 25, 
+    "hp": 30, 
+    "speed": 60, 
+    "total": 295
+  }, 
+  "species": "ドラゴンポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 8.0
+}

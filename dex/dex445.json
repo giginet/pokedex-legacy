@@ -1,1 +1,31 @@
-{"abilities": ["\u3059\u306a\u304c\u304f\u308c", "\u3055\u3081\u306f\u3060"], "weight": 95.0, "number": 445, "height": 1.9, "species": "\u30de\u30c3\u30cf\u30dd\u30b1\u30e2\u30f3", "types": ["\u30c9\u30e9\u30b4\u30f3", "\u3058\u3081\u3093"], "egg_groups": ["\u304b\u3044\u3058\u3085\u3046", "\u30c9\u30e9\u30b4\u30f3"], "name": "\u30ac\u30d6\u30ea\u30a2\u30b9", "parameters": {"defense": 85, "hp": 108, "attack": 130, "critical": 80, "total": 600, "speed": 102, "block": 95}, "exp": 10240, "friendship": 70}
+{
+  "abilities": [
+    "すながくれ", 
+    "さめはだ"
+  ], 
+  "egg_groups": [
+    "かいじゅう", 
+    "ドラゴン"
+  ], 
+  "exp": 10240, 
+  "friendship": 70, 
+  "height": 1.9, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/445-m.png", 
+  "name": "ガブリアス", 
+  "number": 445, 
+  "parameters": {
+    "attack": 130, 
+    "block": 95, 
+    "critical": 80, 
+    "defense": 85, 
+    "hp": 108, 
+    "speed": 102, 
+    "total": 600
+  }, 
+  "species": "マッハポケモン", 
+  "types": [
+    "ドラゴン", 
+    "じめん"
+  ], 
+  "weight": 95.0
+}

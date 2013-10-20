@@ -1,1 +1,31 @@
-{"abilities": ["\u308a\u3093\u3077\u3093", "\u3044\u308d\u3081\u304c\u306d", "\u30df\u30e9\u30af\u30eb\u30b9\u30ad\u30f3"], "weight": 12.5, "number": 49, "height": 1.5, "species": "\u3069\u304f\u304c\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057", "\u3069\u304f"], "egg_groups": ["\u3080\u3057"], "name": "\u30e2\u30eb\u30d5\u30a9\u30f3", "parameters": {"defense": 75, "hp": 70, "attack": 65, "critical": 90, "total": 450, "speed": 90, "block": 60}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "りんぷん", 
+    "いろめがね", 
+    "ミラクルスキン"
+  ], 
+  "egg_groups": [
+    "むし"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/049-m.png", 
+  "name": "モルフォン", 
+  "number": 49, 
+  "parameters": {
+    "attack": 65, 
+    "block": 60, 
+    "critical": 90, 
+    "defense": 75, 
+    "hp": 70, 
+    "speed": 90, 
+    "total": 450
+  }, 
+  "species": "どくがポケモン", 
+  "types": [
+    "むし", 
+    "どく"
+  ], 
+  "weight": 12.5
+}

@@ -1,1 +1,30 @@
-{"abilities": ["\u305b\u3044\u3067\u3093\u304d", "\u30d7\u30e9\u30b9"], "weight": 50.0, "number": 181, "height": 50.0, "species": "\u30e9\u30a4\u30c8\u30dd\u30b1\u30e2\u30f3", "types": ["\u3067\u3093\u304d"], "egg_groups": [], "name": "\u30c7\u30f3\u30ea\u30e5\u30a6", "parameters": {"defense": 90, "hp": 90, "attack": 75, "critical": 115, "total": 500, "speed": 55, "block": 75}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "せいでんき", 
+    "プラス"
+  ], 
+  "egg_groups": [
+    "かいじゅう", 
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.4, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/181-m.png", 
+  "name": "デンリュウ", 
+  "number": 181, 
+  "parameters": {
+    "attack": 75, 
+    "block": 75, 
+    "critical": 115, 
+    "defense": 90, 
+    "hp": 90, 
+    "speed": 55, 
+    "total": 500
+  }, 
+  "species": "ライトポケモン", 
+  "types": [
+    "でんき"
+  ], 
+  "weight": 61.5
+}

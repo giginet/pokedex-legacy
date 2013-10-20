@@ -1,1 +1,31 @@
-{"abilities": ["\u3057\u3093\u308a\u3087\u304f", "\u3088\u3046\u308a\u3087\u304f\u305d"], "weight": 6.9, "number": 1, "height": 0.7, "species": "\u305f\u306d\u30dd\u30b1\u30e2\u30f3", "types": ["\u304f\u3055", "\u3069\u304f"], "egg_groups": ["\u304b\u3044\u3058\u3085\u3046", "\u3057\u3087\u304f\u3076\u3064"], "name": "\u30d5\u30b7\u30ae\u30c0\u30cd", "parameters": {"defense": 65, "hp": 45, "attack": 49, "critical": 65, "total": 318, "speed": 45, "block": 49}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "しんりょく", 
+    "ようりょくそ"
+  ], 
+  "egg_groups": [
+    "かいじゅう", 
+    "しょくぶつ"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.7, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/002-m.png", 
+  "name": "フシギダネ", 
+  "number": 1, 
+  "parameters": {
+    "attack": 49, 
+    "block": 49, 
+    "critical": 65, 
+    "defense": 65, 
+    "hp": 45, 
+    "speed": 45, 
+    "total": 318
+  }, 
+  "species": "たねポケモン", 
+  "types": [
+    "くさ", 
+    "どく"
+  ], 
+  "weight": 6.9
+}

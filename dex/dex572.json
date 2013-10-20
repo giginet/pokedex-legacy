@@ -1,1 +1,30 @@
-{"abilities": ["\u30e1\u30ed\u30e1\u30ed\u30dc\u30c7\u30a3", "\u30c6\u30af\u30cb\u30b7\u30e3\u30f3", "\u30b9\u30ad\u30eb\u30ea\u30f3\u30af"], "weight": 75.0, "number": 572, "height": 25.0, "species": "\u30c1\u30f3\u30c1\u30e9\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30c1\u30e9\u30fc\u30df\u30a3", "parameters": {"defense": 40, "hp": 55, "attack": 50, "critical": 40, "total": 300, "speed": 75, "block": 40}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "メロメロボディ", 
+    "テクニシャン", 
+    "スキルリンク"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 0.4, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/572.png", 
+  "name": "チラーミィ", 
+  "number": 572, 
+  "parameters": {
+    "attack": 50, 
+    "block": 40, 
+    "critical": 40, 
+    "defense": 40, 
+    "hp": 55, 
+    "speed": 75, 
+    "total": 300
+  }, 
+  "species": "チンチラポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 5.8
+}

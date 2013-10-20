@@ -1,1 +1,30 @@
-{"abilities": ["\u30d7\u30ec\u30c3\u30b7\u30e3\u30fc", "\u3059\u308a\u306c\u3051"], "weight": 108.0, "number": 442, "height": 1.0, "species": "\u3075\u3046\u3044\u3093\u30dd\u30b1\u30e2\u30f3", "types": ["\u30b4\u30fc\u30b9\u30c8", "\u3042\u304f"], "egg_groups": ["\u3075\u3066\u3044\u3051\u3044"], "name": "\u30df\u30ab\u30eb\u30b2", "parameters": {"defense": 108, "hp": 50, "attack": 92, "critical": 92, "total": 485, "speed": 35, "block": 108}, "exp": 7680, "friendship": 70}
+{
+  "abilities": [
+    "プレッシャー", 
+    "すりぬけ"
+  ], 
+  "egg_groups": [
+    "ふていけい"
+  ], 
+  "exp": 7680, 
+  "friendship": 70, 
+  "height": 1.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/442-m.png", 
+  "name": "ミカルゲ", 
+  "number": 442, 
+  "parameters": {
+    "attack": 92, 
+    "block": 108, 
+    "critical": 92, 
+    "defense": 108, 
+    "hp": 50, 
+    "speed": 35, 
+    "total": 485
+  }, 
+  "species": "ふういんポケモン", 
+  "types": [
+    "ゴースト", 
+    "あく"
+  ], 
+  "weight": 108.0
+}

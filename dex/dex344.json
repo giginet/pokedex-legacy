@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 108.0, "number": 344, "height": 1.5, "species": "\u3069\u3050\u3046\u30dd\u30b1\u30e2\u30f3", "types": ["\u3058\u3081\u3093", "\u30a8\u30b9\u30d1\u30fc"], "egg_groups": ["\u3053\u3046\u3076\u3064"], "name": "\u30cd\u30f3\u30c9\u30fc\u30eb", "parameters": {"defense": 120, "hp": 60, "attack": 70, "critical": 70, "total": 500, "speed": 75, "block": 105}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "こうぶつ"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/344.png", 
+  "name": "ネンドール", 
+  "number": 344, 
+  "parameters": {
+    "attack": 70, 
+    "block": 105, 
+    "critical": 70, 
+    "defense": 120, 
+    "hp": 60, 
+    "speed": 75, 
+    "total": 500
+  }, 
+  "species": "どぐうポケモン", 
+  "types": [
+    "じめん", 
+    "エスパー"
+  ], 
+  "weight": 108.0
+}

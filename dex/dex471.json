@@ -1,1 +1,29 @@
-{"abilities": ["\u3086\u304d\u304c\u304f\u308c", "\u30a2\u30a4\u30b9\u30dc\u30c7\u30a3"], "weight": 12.5, "number": 471, "height": 87.5, "species": "\u3057\u3093\u305b\u3064\u30dd\u30b1\u30e2\u30f3", "types": ["\u3053\u304a\u308a"], "egg_groups": [], "name": "\u30b0\u30ec\u30a4\u30b7\u30a2", "parameters": {"defense": 95, "hp": 65, "attack": 60, "critical": 130, "total": 525, "speed": 65, "block": 110}, "exp": 35, "friendship": 0}
+{
+  "abilities": [
+    "ゆきがくれ", 
+    "アイスボディ"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 8960, 
+  "friendship": 35, 
+  "height": 0.8, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/471-m.png", 
+  "name": "グレイシア", 
+  "number": 471, 
+  "parameters": {
+    "attack": 60, 
+    "block": 110, 
+    "critical": 130, 
+    "defense": 95, 
+    "hp": 65, 
+    "speed": 65, 
+    "total": 525
+  }, 
+  "species": "しんせつポケモン", 
+  "types": [
+    "こおり"
+  ], 
+  "weight": 25.9
+}

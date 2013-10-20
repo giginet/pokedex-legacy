@@ -1,1 +1,32 @@
-{"abilities": ["\u3061\u3087\u3059\u3044", "\u30b7\u30a7\u30eb\u30a2\u30fc\u30de\u30fc", "\u3046\u308b\u304a\u3044\u30dc\u30c7\u30a3"], "weight": 220.0, "number": 131, "height": 2.5, "species": "\u306e\u308a\u3082\u306e\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a", "\u3053\u304a\u308a"], "egg_groups": ["\u304b\u3044\u3058\u3085\u3046", "\u3059\u3044\u3061\u3085\u3046\uff11"], "name": "\u30e9\u30d7\u30e9\u30b9", "parameters": {"defense": 95, "hp": 130, "attack": 85, "critical": 85, "total": 535, "speed": 60, "block": 80}, "exp": 10240, "friendship": 70}
+{
+  "abilities": [
+    "ちょすい", 
+    "シェルアーマー", 
+    "うるおいボディ"
+  ], 
+  "egg_groups": [
+    "かいじゅう", 
+    "すいちゅう１"
+  ], 
+  "exp": 10240, 
+  "friendship": 70, 
+  "height": 2.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/131-m.png", 
+  "name": "ラプラス", 
+  "number": 131, 
+  "parameters": {
+    "attack": 85, 
+    "block": 80, 
+    "critical": 85, 
+    "defense": 95, 
+    "hp": 130, 
+    "speed": 60, 
+    "total": 535
+  }, 
+  "species": "のりものポケモン", 
+  "types": [
+    "みず", 
+    "こおり"
+  ], 
+  "weight": 220.0
+}

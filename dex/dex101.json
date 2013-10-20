@@ -1,1 +1,30 @@
-{"abilities": ["\u307c\u3046\u304a\u3093", "\u305b\u3044\u3067\u3093\u304d", "\u3086\u3046\u3070\u304f"], "weight": 0, "number": 101, "height": 0, "species": "\u30dc\u30fc\u30eb\u30dd\u30b1\u30e2\u30f3", "types": ["\u3067\u3093\u304d"], "egg_groups": [], "name": "\u30de\u30eb\u30de\u30a4\u30f3", "parameters": {"defense": 80, "hp": 60, "attack": 50, "critical": 80, "total": 480, "speed": 140, "block": 70}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "ぼうおん", 
+    "せいでんき", 
+    "ゆうばく"
+  ], 
+  "egg_groups": [
+    "こうぶつ"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.2, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/101.png", 
+  "name": "マルマイン", 
+  "number": 101, 
+  "parameters": {
+    "attack": 50, 
+    "block": 70, 
+    "critical": 80, 
+    "defense": 80, 
+    "hp": 60, 
+    "speed": 140, 
+    "total": 480
+  }, 
+  "species": "ボールポケモン", 
+  "types": [
+    "でんき"
+  ], 
+  "weight": 66.6
+}

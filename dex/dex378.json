@@ -1,1 +1,29 @@
-{"abilities": ["\u30af\u30ea\u30a2\u30dc\u30c7\u30a3", "\u30a2\u30a4\u30b9\u30dc\u30c7\u30a3"], "weight": 0, "number": 378, "height": 0, "species": "\u3072\u3087\u3046\u3056\u3093\u30dd\u30b1\u30e2\u30f3", "types": ["\u3053\u304a\u308a"], "egg_groups": [], "name": "\u30ec\u30b8\u30a2\u30a4\u30b9", "parameters": {"defense": 200, "hp": 80, "attack": 50, "critical": 100, "total": 580, "speed": 50, "block": 100}, "exp": 35, "friendship": 0}
+{
+  "abilities": [
+    "クリアボディ", 
+    "アイスボディ"
+  ], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 20480, 
+  "friendship": 35, 
+  "height": 1.8, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/378.png", 
+  "name": "レジアイス", 
+  "number": 378, 
+  "parameters": {
+    "attack": 50, 
+    "block": 100, 
+    "critical": 100, 
+    "defense": 200, 
+    "hp": 80, 
+    "speed": 50, 
+    "total": 580
+  }, 
+  "species": "ひょうざんポケモン", 
+  "types": [
+    "こおり"
+  ], 
+  "weight": 175.0
+}

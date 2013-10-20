@@ -1,1 +1,29 @@
-{"abilities": ["\u3059\u3044\u3059\u3044", "\u3046\u308b\u304a\u3044\u30dc\u30c7\u30a3"], "weight": 75.0, "number": 370, "height": 25.0, "species": "\u30e9\u30f3\u30c7\u30d6\u30fc\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30e9\u30d6\u30ab\u30b9", "parameters": {"defense": 65, "hp": 43, "attack": 30, "critical": 40, "total": 330, "speed": 97, "block": 55}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "すいすい", 
+    "うるおいボディ"
+  ], 
+  "egg_groups": [
+    "すいちゅう２"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/370-m.png", 
+  "name": "ラブカス", 
+  "number": 370, 
+  "parameters": {
+    "attack": 30, 
+    "block": 55, 
+    "critical": 40, 
+    "defense": 65, 
+    "hp": 43, 
+    "speed": 97, 
+    "total": 330
+  }, 
+  "species": "ランデブーポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 8.7
+}

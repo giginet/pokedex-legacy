@@ -1,1 +1,31 @@
-{"abilities": ["\u3044\u304b\u304f", "\u3060\u3063\u3074", "\u304d\u3093\u3061\u3087\u3046\u304b\u3093"], "weight": 50.0, "number": 24, "height": 50.0, "species": "\u30b3\u30d6\u30e9\u30dd\u30b1\u30e2\u30f3", "types": ["\u3069\u304f"], "egg_groups": [], "name": "\u30a2\u30fc\u30dc\u30c3\u30af", "parameters": {"defense": 79, "hp": 60, "attack": 85, "critical": 65, "total": 438, "speed": 80, "block": 69}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "いかく", 
+    "だっぴ", 
+    "きんちょうかん"
+  ], 
+  "egg_groups": [
+    "りくじょう", 
+    "ドラゴン"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 3.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/024-m.png", 
+  "name": "アーボック", 
+  "number": 24, 
+  "parameters": {
+    "attack": 85, 
+    "block": 69, 
+    "critical": 65, 
+    "defense": 79, 
+    "hp": 60, 
+    "speed": 80, 
+    "total": 438
+  }, 
+  "species": "コブラポケモン", 
+  "types": [
+    "どく"
+  ], 
+  "weight": 65.0
+}

@@ -1,1 +1,31 @@
-{"abilities": ["\u3044\u304b\u304f", "\u3060\u3063\u3074", "\u304d\u3093\u3061\u3087\u3046\u304b\u3093"], "weight": 50.0, "number": 23, "height": 50.0, "species": "\u3078\u3073\u30dd\u30b1\u30e2\u30f3", "types": ["\u3069\u304f"], "egg_groups": [], "name": "\u30a2\u30fc\u30dc", "parameters": {"defense": 54, "hp": 35, "attack": 60, "critical": 40, "total": 288, "speed": 55, "block": 44}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "いかく", 
+    "だっぴ", 
+    "きんちょうかん"
+  ], 
+  "egg_groups": [
+    "りくじょう", 
+    "ドラゴン"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 2.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/023-m.png", 
+  "name": "アーボ", 
+  "number": 23, 
+  "parameters": {
+    "attack": 60, 
+    "block": 44, 
+    "critical": 40, 
+    "defense": 54, 
+    "hp": 35, 
+    "speed": 55, 
+    "total": 288
+  }, 
+  "species": "へびポケモン", 
+  "types": [
+    "どく"
+  ], 
+  "weight": 6.9
+}

@@ -1,1 +1,31 @@
-{"abilities": ["\u3075\u304f\u304c\u3093", "\u304d\u3093\u3061\u3087\u3046\u304b\u3093", "\u3080\u3057\u306e\u3057\u3089\u305b"], "weight": 0.6, "number": 595, "height": 0.1, "species": "\u304f\u3063\u3064\u304d\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057", "\u3067\u3093\u304d"], "egg_groups": ["\u3080\u3057"], "name": "\u30d0\u30c1\u30e5\u30eb", "parameters": {"defense": 50, "hp": 50, "attack": 47, "critical": 57, "total": 319, "speed": 65, "block": 50}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "ふくがん", 
+    "きんちょうかん", 
+    "むしのしらせ"
+  ], 
+  "egg_groups": [
+    "むし"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.1, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/595.png", 
+  "name": "バチュル", 
+  "number": 595, 
+  "parameters": {
+    "attack": 47, 
+    "block": 50, 
+    "critical": 57, 
+    "defense": 50, 
+    "hp": 50, 
+    "speed": 65, 
+    "total": 319
+  }, 
+  "species": "くっつきポケモン", 
+  "types": [
+    "むし", 
+    "でんき"
+  ], 
+  "weight": 0.6
+}

@@ -1,1 +1,29 @@
-{"abilities": ["\u306f\u308a\u304d\u308a", "\u305b\u3044\u3057\u3093\u308a\u3087\u304f"], "weight": 50.0, "number": 554, "height": 50.0, "species": "\u3060\u308b\u307e\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a"], "egg_groups": [], "name": "\u30c0\u30eb\u30de\u30c3\u30ab", "parameters": {"defense": 45, "hp": 70, "attack": 90, "critical": 15, "total": 315, "speed": 50, "block": 45}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "はりきり", 
+    "せいしんりょく"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/554.png", 
+  "name": "ダルマッカ", 
+  "number": 554, 
+  "parameters": {
+    "attack": 90, 
+    "block": 45, 
+    "critical": 15, 
+    "defense": 45, 
+    "hp": 70, 
+    "speed": 50, 
+    "total": 315
+  }, 
+  "species": "だるまポケモン", 
+  "types": [
+    "ほのお"
+  ], 
+  "weight": 37.5
+}

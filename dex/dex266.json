@@ -1,1 +1,29 @@
-{"abilities": ["\u3060\u3063\u3074", "\u3060\u3063\u3074"], "weight": 50.0, "number": 266, "height": 50.0, "species": "\u3055\u306a\u304e\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057"], "egg_groups": [], "name": "\u30ab\u30e9\u30b5\u30ea\u30b9", "parameters": {"defense": 25, "hp": 50, "attack": 35, "critical": 25, "total": 205, "speed": 15, "block": 55}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "だっぴ", 
+    "だっぴ"
+  ], 
+  "egg_groups": [
+    "むし"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/266-m.png", 
+  "name": "カラサリス", 
+  "number": 266, 
+  "parameters": {
+    "attack": 35, 
+    "block": 55, 
+    "critical": 25, 
+    "defense": 25, 
+    "hp": 50, 
+    "speed": 15, 
+    "total": 205
+  }, 
+  "species": "さなぎポケモン", 
+  "types": [
+    "むし"
+  ], 
+  "weight": 10.0
+}

@@ -1,1 +1,30 @@
-{"abilities": ["\u3060\u3063\u3074", "\u3075\u3057\u304e\u306a\u3046\u308d\u3053"], "weight": 50.0, "number": 147, "height": 50.0, "species": "\u30c9\u30e9\u30b4\u30f3\u30dd\u30b1\u30e2\u30f3", "types": ["\u30c9\u30e9\u30b4\u30f3"], "egg_groups": [], "name": "\u30df\u30cb\u30ea\u30e5\u30a6", "parameters": {"defense": 50, "hp": 41, "attack": 64, "critical": 50, "total": 300, "speed": 50, "block": 45}, "exp": 35, "friendship": 0}
+{
+  "abilities": [
+    "だっぴ", 
+    "ふしぎなうろこ"
+  ], 
+  "egg_groups": [
+    "すいちゅう１", 
+    "ドラゴン"
+  ], 
+  "exp": 10240, 
+  "friendship": 35, 
+  "height": 1.8, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/147-m.png", 
+  "name": "ミニリュウ", 
+  "number": 147, 
+  "parameters": {
+    "attack": 64, 
+    "block": 45, 
+    "critical": 50, 
+    "defense": 50, 
+    "hp": 41, 
+    "speed": 50, 
+    "total": 300
+  }, 
+  "species": "ドラゴンポケモン", 
+  "types": [
+    "ドラゴン"
+  ], 
+  "weight": 3.3
+}

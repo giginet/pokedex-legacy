@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 325.0, "number": 646, "height": 3.0, "species": "\u304d\u3087\u3046\u304b\u3044\u30dd\u30b1\u30e2\u30f3", "types": ["\u30c9\u30e9\u30b4\u30f3", "\u3053\u304a\u308a"], "egg_groups": ["\u307f\u306f\u3063\u3051\u3093"], "name": "\u30ad\u30e5\u30ec\u30e0", "parameters": {"defense": 90, "hp": 125, "attack": 130, "critical": 130, "total": 660, "speed": 95, "block": 90}, "exp": 30720, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 30720, 
+  "friendship": 0, 
+  "height": 3.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/646.png", 
+  "name": "キュレム", 
+  "number": 646, 
+  "parameters": {
+    "attack": 130, 
+    "block": 90, 
+    "critical": 130, 
+    "defense": 90, 
+    "hp": 125, 
+    "speed": 95, 
+    "total": 660
+  }, 
+  "species": "きょうかいポケモン", 
+  "types": [
+    "ドラゴン", 
+    "こおり"
+  ], 
+  "weight": 325.0
+}

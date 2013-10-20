@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 0, "number": 653, "height": 0, "species": "\u30ad\u30c4\u30cd\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a"], "egg_groups": [], "name": "\u30d5\u30a9\u30c3\u30b3", "parameters": {"defense": 0, "hp": 0, "attack": 0, "critical": 0, "total": 0, "speed": 0, "block": 0}, "exp": 0, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    ""
+  ], 
+  "exp": 0, 
+  "friendship": 0, 
+  "height": 0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/xy1001.png", 
+  "name": "フォッコ", 
+  "number": 653, 
+  "parameters": {
+    "attack": 0, 
+    "block": 0, 
+    "critical": 0, 
+    "defense": 0, 
+    "hp": 0, 
+    "speed": 0, 
+    "total": 0
+  }, 
+  "species": "キツネポケモン", 
+  "types": [
+    "ほのお"
+  ], 
+  "weight": 0
+}

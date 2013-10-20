@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 17.3, "number": 633, "height": 0.8, "species": "\u305d\u307c\u3046\u30dd\u30b1\u30e2\u30f3", "types": ["\u3042\u304f", "\u30c9\u30e9\u30b4\u30f3"], "egg_groups": ["\u30c9\u30e9\u30b4\u30f3"], "name": "\u30e2\u30ce\u30ba", "parameters": {"defense": 50, "hp": 52, "attack": 65, "critical": 45, "total": 300, "speed": 38, "block": 50}, "exp": 10240, "friendship": 35}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "ドラゴン"
+  ], 
+  "exp": 10240, 
+  "friendship": 35, 
+  "height": 0.8, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/633.png", 
+  "name": "モノズ", 
+  "number": 633, 
+  "parameters": {
+    "attack": 65, 
+    "block": 50, 
+    "critical": 45, 
+    "defense": 50, 
+    "hp": 52, 
+    "speed": 38, 
+    "total": 300
+  }, 
+  "species": "そぼうポケモン", 
+  "types": [
+    "あく", 
+    "ドラゴン"
+  ], 
+  "weight": 17.3
+}

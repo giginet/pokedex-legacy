@@ -27,8 +27,8 @@ class Scraper(object):
             return None
         self.infos = filter(lambda p: p, [get_urls(tr) for tr in trs])
 
-    def fetch(self, output_dir, interval=1.0):
-        for info in self.infos:
+    def fetch(self, output_dir, interval=1.0, from_number=1):
+        for info in self.infos[from_number-1:]:
             pokemon = self._parse_pokemon(info)
             print "%d %s parsed" % (pokemon.number, pokemon.name)
             pokemon.save_json(output_dir)

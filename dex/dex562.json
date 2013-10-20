@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 50.0, "number": 562, "height": 50.0, "species": "\u305f\u307e\u3057\u3044\u30dd\u30b1\u30e2\u30f3", "types": ["\u30b4\u30fc\u30b9\u30c8"], "egg_groups": [], "name": "\u30c7\u30b9\u30de\u30b9", "parameters": {"defense": 65, "hp": 38, "attack": 30, "critical": 55, "total": 303, "speed": 30, "block": 85}, "exp": 70, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "こうぶつ", 
+    "ふていけい"
+  ], 
+  "exp": 6400, 
+  "friendship": 70, 
+  "height": 0.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/562.png", 
+  "name": "デスマス", 
+  "number": 562, 
+  "parameters": {
+    "attack": 30, 
+    "block": 85, 
+    "critical": 55, 
+    "defense": 65, 
+    "hp": 38, 
+    "speed": 30, 
+    "total": 303
+  }, 
+  "species": "たましいポケモン", 
+  "types": [
+    "ゴースト"
+  ], 
+  "weight": 1.5
+}

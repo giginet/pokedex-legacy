@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 0, "number": 481, "height": 0, "species": "\u304b\u3093\u3058\u3087\u3046\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc"], "egg_groups": [], "name": "\u30a8\u30e0\u30ea\u30c3\u30c8", "parameters": {"defense": 105, "hp": 80, "attack": 105, "critical": 105, "total": 580, "speed": 80, "block": 105}, "exp": 140, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 20480, 
+  "friendship": 140, 
+  "height": 0.3, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/481.png", 
+  "name": "エムリット", 
+  "number": 481, 
+  "parameters": {
+    "attack": 105, 
+    "block": 105, 
+    "critical": 105, 
+    "defense": 105, 
+    "hp": 80, 
+    "speed": 80, 
+    "total": 580
+  }, 
+  "species": "かんじょうポケモン", 
+  "types": [
+    "エスパー"
+  ], 
+  "weight": 0.3
+}

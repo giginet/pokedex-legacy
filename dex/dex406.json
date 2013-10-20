@@ -1,1 +1,31 @@
-{"abilities": ["\u3057\u305c\u3093\u304b\u3044\u3075\u304f", "\u3069\u304f\u306e\u30c8\u30b2", "\u30ea\u30fc\u30d5\u30ac\u30fc\u30c9"], "weight": 1.2, "number": 406, "height": 0.2, "species": "\u3064\u307c\u307f\u30dd\u30b1\u30e2\u30f3", "types": ["\u304f\u3055", "\u3069\u304f"], "egg_groups": ["\u307f\u306f\u3063\u3051\u3093"], "name": "\u30b9\u30dc\u30df\u30fc", "parameters": {"defense": 70, "hp": 40, "attack": 30, "critical": 50, "total": 280, "speed": 55, "block": 35}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "しぜんかいふく", 
+    "どくのトゲ", 
+    "リーフガード"
+  ], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.2, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/406-m.png", 
+  "name": "スボミー", 
+  "number": 406, 
+  "parameters": {
+    "attack": 30, 
+    "block": 35, 
+    "critical": 50, 
+    "defense": 70, 
+    "hp": 40, 
+    "speed": 55, 
+    "total": 280
+  }, 
+  "species": "つぼみポケモン", 
+  "types": [
+    "くさ", 
+    "どく"
+  ], 
+  "weight": 1.2
+}

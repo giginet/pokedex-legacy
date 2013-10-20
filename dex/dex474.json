@@ -1,1 +1,30 @@
-{"abilities": ["\u3066\u304d\u304a\u3046\u308a\u3087\u304f", "\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9", "\u30a2\u30ca\u30e9\u30a4\u30ba"], "weight": 0, "number": 474, "height": 0, "species": "\u30d0\u30fc\u30c1\u30e3\u30eb\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30dd\u30ea\u30b4\u30f3\uff3a", "parameters": {"defense": 75, "hp": 85, "attack": 80, "critical": 135, "total": 535, "speed": 90, "block": 70}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "てきおうりょく", 
+    "ダウンロード", 
+    "アナライズ"
+  ], 
+  "egg_groups": [
+    "こうぶつ"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.9, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/474.png", 
+  "name": "ポリゴンＺ", 
+  "number": 474, 
+  "parameters": {
+    "attack": 80, 
+    "block": 70, 
+    "critical": 135, 
+    "defense": 75, 
+    "hp": 85, 
+    "speed": 90, 
+    "total": 535
+  }, 
+  "species": "バーチャルポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 34.0
+}

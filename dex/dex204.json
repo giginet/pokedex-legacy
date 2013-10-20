@@ -1,1 +1,29 @@
-{"abilities": ["\u304c\u3093\u3058\u3087\u3046", "\u307c\u3046\u3058\u3093"], "weight": 50.0, "number": 204, "height": 50.0, "species": "\u307f\u306e\u3080\u3057\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057"], "egg_groups": [], "name": "\u30af\u30cc\u30ae\u30c0\u30de", "parameters": {"defense": 35, "hp": 50, "attack": 65, "critical": 35, "total": 290, "speed": 15, "block": 90}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "がんじょう", 
+    "ぼうじん"
+  ], 
+  "egg_groups": [
+    "むし"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/204-m.png", 
+  "name": "クヌギダマ", 
+  "number": 204, 
+  "parameters": {
+    "attack": 65, 
+    "block": 90, 
+    "critical": 35, 
+    "defense": 35, 
+    "hp": 50, 
+    "speed": 15, 
+    "total": 290
+  }, 
+  "species": "みのむしポケモン", 
+  "types": [
+    "むし"
+  ], 
+  "weight": 7.2
+}

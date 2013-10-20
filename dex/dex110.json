@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 50.0, "number": 110, "height": 50.0, "species": "\u3069\u304f\u30ac\u30b9\u30dd\u30b1\u30e2\u30f3", "types": ["\u3069\u304f"], "egg_groups": [], "name": "\u30de\u30bf\u30c9\u30ac\u30b9", "parameters": {"defense": 70, "hp": 65, "attack": 90, "critical": 85, "total": 490, "speed": 60, "block": 120}, "exp": 70, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "ふていけい"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.2, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/110-m.png", 
+  "name": "マタドガス", 
+  "number": 110, 
+  "parameters": {
+    "attack": 90, 
+    "block": 120, 
+    "critical": 85, 
+    "defense": 70, 
+    "hp": 65, 
+    "speed": 60, 
+    "total": 490
+  }, 
+  "species": "どくガスポケモン", 
+  "types": [
+    "どく"
+  ], 
+  "weight": 9.5
+}

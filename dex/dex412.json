@@ -1,1 +1,29 @@
-{"abilities": ["\u3060\u3063\u3074", "\u307c\u3046\u3058\u3093"], "weight": 50.0, "number": 412, "height": 50.0, "species": "\u307f\u306e\u3080\u3057\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057"], "egg_groups": [], "name": "\u30df\u30ce\u30e0\u30c3\u30c1", "parameters": {"defense": 45, "hp": 40, "attack": 29, "critical": 29, "total": 224, "speed": 36, "block": 45}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "だっぴ", 
+    "ぼうじん"
+  ], 
+  "egg_groups": [
+    "むし"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 0.2, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/412-m.png", 
+  "name": "ミノムッチ", 
+  "number": 412, 
+  "parameters": {
+    "attack": 29, 
+    "block": 45, 
+    "critical": 29, 
+    "defense": 45, 
+    "hp": 40, 
+    "speed": 36, 
+    "total": 224
+  }, 
+  "species": "みのむしポケモン", 
+  "types": [
+    "むし"
+  ], 
+  "weight": 3.4
+}

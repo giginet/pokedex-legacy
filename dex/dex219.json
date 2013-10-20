@@ -1,1 +1,31 @@
-{"abilities": ["\u30de\u30b0\u30de\u306e\u3088\u308d\u3044", "\u307b\u306e\u304a\u306e\u304b\u3089\u3060", "\u304f\u3060\u3051\u308b\u3088\u308d\u3044"], "weight": 55.0, "number": 219, "height": 0.8, "species": "\u3088\u3046\u304c\u3093\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a", "\u3044\u308f"], "egg_groups": ["\u3075\u3066\u3044\u3051\u3044"], "name": "\u30de\u30b0\u30ab\u30eb\u30b4", "parameters": {"defense": 80, "hp": 50, "attack": 50, "critical": 80, "total": 410, "speed": 30, "block": 120}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "マグマのよろい", 
+    "ほのおのからだ", 
+    "くだけるよろい"
+  ], 
+  "egg_groups": [
+    "ふていけい"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.8, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/219-m.png", 
+  "name": "マグカルゴ", 
+  "number": 219, 
+  "parameters": {
+    "attack": 50, 
+    "block": 120, 
+    "critical": 80, 
+    "defense": 80, 
+    "hp": 50, 
+    "speed": 30, 
+    "total": 410
+  }, 
+  "species": "ようがんポケモン", 
+  "types": [
+    "ほのお", 
+    "いわ"
+  ], 
+  "weight": 55.0
+}

@@ -1,1 +1,32 @@
-{"abilities": ["\u30ab\u30d6\u30c8\u30a2\u30fc\u30de\u30fc", "\u30b9\u30ca\u30a4\u30d1\u30fc", "\u3059\u308b\u3069\u3044\u3081"], "weight": 12.0, "number": 451, "height": 0.8, "species": "\u3055\u305d\u308a\u30dd\u30b1\u30e2\u30f3", "types": ["\u3069\u304f", "\u3080\u3057"], "egg_groups": ["\u3080\u3057", "\u3059\u3044\u3061\u3085\u3046\uff13"], "name": "\u30b9\u30b3\u30eb\u30d4", "parameters": {"defense": 55, "hp": 40, "attack": 50, "critical": 30, "total": 330, "speed": 65, "block": 90}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "カブトアーマー", 
+    "スナイパー", 
+    "するどいめ"
+  ], 
+  "egg_groups": [
+    "むし", 
+    "すいちゅう３"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.8, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/451-m.png", 
+  "name": "スコルピ", 
+  "number": 451, 
+  "parameters": {
+    "attack": 50, 
+    "block": 90, 
+    "critical": 30, 
+    "defense": 55, 
+    "hp": 40, 
+    "speed": 65, 
+    "total": 330
+  }, 
+  "species": "さそりポケモン", 
+  "types": [
+    "どく", 
+    "むし"
+  ], 
+  "weight": 12.0
+}

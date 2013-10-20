@@ -1,1 +1,30 @@
-{"abilities": ["\u3082\u306e\u3072\u308d\u3044", "\u306f\u3084\u3042\u3057", "\u307f\u3064\u3042\u3064\u3081"], "weight": 50.0, "number": 216, "height": 50.0, "species": "\u3053\u3050\u307e\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30d2\u30e1\u30b0\u30de", "parameters": {"defense": 50, "hp": 60, "attack": 80, "critical": 50, "total": 330, "speed": 40, "block": 50}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "ものひろい", 
+    "はやあし", 
+    "みつあつめ"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/216-m.png", 
+  "name": "ヒメグマ", 
+  "number": 216, 
+  "parameters": {
+    "attack": 80, 
+    "block": 50, 
+    "critical": 50, 
+    "defense": 50, 
+    "hp": 60, 
+    "speed": 40, 
+    "total": 330
+  }, 
+  "species": "こぐまポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 8.8
+}

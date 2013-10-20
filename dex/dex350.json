@@ -1,1 +1,30 @@
-{"abilities": ["\u3075\u3057\u304e\u306a\u3046\u308d\u3053", "\u30e1\u30ed\u30e1\u30ed\u30dc\u30c7\u30a3"], "weight": 50.0, "number": 350, "height": 50.0, "species": "\u3044\u3064\u304f\u3057\u307f\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30df\u30ed\u30ab\u30ed\u30b9", "parameters": {"defense": 125, "hp": 95, "attack": 60, "critical": 100, "total": 540, "speed": 81, "block": 79}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "ふしぎなうろこ", 
+    "メロメロボディ"
+  ], 
+  "egg_groups": [
+    "すいちゅう１", 
+    "ドラゴン"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 6.2, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/350-m.png", 
+  "name": "ミロカロス", 
+  "number": 350, 
+  "parameters": {
+    "attack": 60, 
+    "block": 79, 
+    "critical": 100, 
+    "defense": 125, 
+    "hp": 95, 
+    "speed": 81, 
+    "total": 540
+  }, 
+  "species": "いつくしみポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 162.0
+}

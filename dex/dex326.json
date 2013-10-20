@@ -1,1 +1,30 @@
-{"abilities": ["\u3042\u3064\u3044\u3057\u307c\u3046", "\u30de\u30a4\u30da\u30fc\u30b9", "\u304f\u3044\u3057\u3093\u307c\u3046"], "weight": 50.0, "number": 326, "height": 50.0, "species": "\u3042\u3084\u3064\u308a\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc"], "egg_groups": [], "name": "\u30d6\u30fc\u30d4\u30c3\u30b0", "parameters": {"defense": 110, "hp": 80, "attack": 45, "critical": 90, "total": 470, "speed": 80, "block": 65}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "あついしぼう", 
+    "マイペース", 
+    "くいしんぼう"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.9, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/326-m.png", 
+  "name": "ブーピッグ", 
+  "number": 326, 
+  "parameters": {
+    "attack": 45, 
+    "block": 65, 
+    "critical": 90, 
+    "defense": 110, 
+    "hp": 80, 
+    "speed": 80, 
+    "total": 470
+  }, 
+  "species": "あやつりポケモン", 
+  "types": [
+    "エスパー"
+  ], 
+  "weight": 71.5
+}

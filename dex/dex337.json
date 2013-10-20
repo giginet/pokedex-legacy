@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 168.0, "number": 337, "height": 1.0, "species": "\u3044\u3093\u305b\u304d\u30dd\u30b1\u30e2\u30f3", "types": ["\u3044\u308f", "\u30a8\u30b9\u30d1\u30fc"], "egg_groups": ["\u3053\u3046\u3076\u3064"], "name": "\u30eb\u30ca\u30c8\u30fc\u30f3", "parameters": {"defense": 85, "hp": 70, "attack": 55, "critical": 95, "total": 440, "speed": 70, "block": 65}, "exp": 6400, "friendship": 70}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "こうぶつ"
+  ], 
+  "exp": 6400, 
+  "friendship": 70, 
+  "height": 1.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/337-m.png", 
+  "name": "ルナトーン", 
+  "number": 337, 
+  "parameters": {
+    "attack": 55, 
+    "block": 65, 
+    "critical": 95, 
+    "defense": 85, 
+    "hp": 70, 
+    "speed": 70, 
+    "total": 440
+  }, 
+  "species": "いんせきポケモン", 
+  "types": [
+    "いわ", 
+    "エスパー"
+  ], 
+  "weight": 168.0
+}

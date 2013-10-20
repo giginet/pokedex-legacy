@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 50.0, "number": 421, "height": 50.0, "species": "\u30b5\u30af\u30e9\u30dd\u30b1\u30e2\u30f3", "types": ["\u304f\u3055"], "egg_groups": [], "name": "\u30c1\u30a7\u30ea\u30e0", "parameters": {"defense": 78, "hp": 70, "attack": 60, "critical": 87, "total": 450, "speed": 85, "block": 70}, "exp": 70, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "ようせい", 
+    "しょくぶつ"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/421-m.png", 
+  "name": "チェリム", 
+  "number": 421, 
+  "parameters": {
+    "attack": 60, 
+    "block": 70, 
+    "critical": 87, 
+    "defense": 78, 
+    "hp": 70, 
+    "speed": 85, 
+    "total": 450
+  }, 
+  "species": "サクラポケモン", 
+  "types": [
+    "くさ"
+  ], 
+  "weight": 9.3
+}

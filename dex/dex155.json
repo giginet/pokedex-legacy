@@ -1,1 +1,29 @@
-{"abilities": ["\u3082\u3046\u304b", "\u3082\u3089\u3044\u3073"], "weight": 12.5, "number": 155, "height": 87.5, "species": "\u3072\u306d\u305a\u307f\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a"], "egg_groups": [], "name": "\u30d2\u30ce\u30a2\u30e9\u30b7", "parameters": {"defense": 50, "hp": 39, "attack": 52, "critical": 60, "total": 309, "speed": 65, "block": 43}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "もうか", 
+    "もらいび"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/155-m.png", 
+  "name": "ヒノアラシ", 
+  "number": 155, 
+  "parameters": {
+    "attack": 52, 
+    "block": 43, 
+    "critical": 60, 
+    "defense": 50, 
+    "hp": 39, 
+    "speed": 65, 
+    "total": 309
+  }, 
+  "species": "ひねずみポケモン", 
+  "types": [
+    "ほのお"
+  ], 
+  "weight": 7.9
+}

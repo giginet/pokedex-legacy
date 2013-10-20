@@ -1,1 +1,30 @@
-{"abilities": ["\u3052\u304d\u308a\u3085\u3046", "\u3042\u3081\u3046\u3051\u3056\u3089"], "weight": 12.5, "number": 8, "height": 87.5, "species": "\u304b\u3081\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30ab\u30e1\u30fc\u30eb", "parameters": {"defense": 80, "hp": 59, "attack": 63, "critical": 65, "total": 405, "speed": 58, "block": 80}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "げきりゅう", 
+    "あめうけざら"
+  ], 
+  "egg_groups": [
+    "かいじゅう", 
+    "すいちゅう１"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/008-m.png", 
+  "name": "カメール", 
+  "number": 8, 
+  "parameters": {
+    "attack": 63, 
+    "block": 80, 
+    "critical": 65, 
+    "defense": 80, 
+    "hp": 59, 
+    "speed": 58, 
+    "total": 405
+  }, 
+  "species": "かめポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 22.5
+}

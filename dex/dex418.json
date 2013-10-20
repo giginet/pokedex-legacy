@@ -1,1 +1,30 @@
-{"abilities": ["\u3059\u3044\u3059\u3044", "\u307f\u305a\u306e\u30d9\u30fc\u30eb"], "weight": 50.0, "number": 418, "height": 50.0, "species": "\u3046\u307f\u30a4\u30bf\u30c1\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30d6\u30a4\u30bc\u30eb", "parameters": {"defense": 30, "hp": 55, "attack": 65, "critical": 60, "total": 330, "speed": 85, "block": 35}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "すいすい", 
+    "みずのベール"
+  ], 
+  "egg_groups": [
+    "すいちゅう１", 
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.7, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/418-m.png", 
+  "name": "ブイゼル", 
+  "number": 418, 
+  "parameters": {
+    "attack": 65, 
+    "block": 35, 
+    "critical": 60, 
+    "defense": 30, 
+    "hp": 55, 
+    "speed": 85, 
+    "total": 330
+  }, 
+  "species": "うみイタチポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 29.5
+}

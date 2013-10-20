@@ -1,1 +1,29 @@
-{"abilities": ["\u3086\u304d\u304c\u304f\u308c", "\u3073\u3073\u308a"], "weight": 50.0, "number": 613, "height": 50.0, "species": "\u3072\u3087\u3046\u3051\u3064\u30dd\u30b1\u30e2\u30f3", "types": ["\u3053\u304a\u308a"], "egg_groups": [], "name": "\u30af\u30de\u30b7\u30e5\u30f3", "parameters": {"defense": 40, "hp": 55, "attack": 70, "critical": 60, "total": 305, "speed": 40, "block": 40}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "ゆきがくれ", 
+    "びびり"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/613.png", 
+  "name": "クマシュン", 
+  "number": 613, 
+  "parameters": {
+    "attack": 70, 
+    "block": 40, 
+    "critical": 60, 
+    "defense": 40, 
+    "hp": 55, 
+    "speed": 40, 
+    "total": 305
+  }, 
+  "species": "ひょうけつポケモン", 
+  "types": [
+    "こおり"
+  ], 
+  "weight": 8.5
+}

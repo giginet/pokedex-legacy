@@ -1,1 +1,29 @@
-{"abilities": ["\u304a\u307f\u3068\u304a\u3057", "\u304b\u3052\u3075\u307f"], "weight": 75.0, "number": 575, "height": 25.0, "species": "\u3042\u3084\u3064\u308a\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc"], "egg_groups": [], "name": "\u30b4\u30c1\u30df\u30eb", "parameters": {"defense": 85, "hp": 60, "attack": 45, "critical": 75, "total": 390, "speed": 55, "block": 70}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "おみとおし", 
+    "かげふみ"
+  ], 
+  "egg_groups": [
+    "ひとがた"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.7, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/575.png", 
+  "name": "ゴチミル", 
+  "number": 575, 
+  "parameters": {
+    "attack": 45, 
+    "block": 70, 
+    "critical": 75, 
+    "defense": 85, 
+    "hp": 60, 
+    "speed": 55, 
+    "total": 390
+  }, 
+  "species": "あやつりポケモン", 
+  "types": [
+    "エスパー"
+  ], 
+  "weight": 18.0
+}

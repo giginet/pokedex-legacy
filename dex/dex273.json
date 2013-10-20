@@ -1,1 +1,31 @@
-{"abilities": ["\u3088\u3046\u308a\u3087\u304f\u305d", "\u306f\u3084\u304a\u304d", "\u308f\u308b\u3044\u3066\u3050\u305b"], "weight": 50.0, "number": 273, "height": 50.0, "species": "\u3069\u3093\u3050\u308a\u30dd\u30b1\u30e2\u30f3", "types": ["\u304f\u3055"], "egg_groups": [], "name": "\u30bf\u30cd\u30dc\u30fc", "parameters": {"defense": 30, "hp": 40, "attack": 40, "critical": 30, "total": 220, "speed": 30, "block": 50}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "ようりょくそ", 
+    "はやおき", 
+    "わるいてぐせ"
+  ], 
+  "egg_groups": [
+    "りくじょう", 
+    "しょくぶつ"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 0.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/273-m.png", 
+  "name": "タネボー", 
+  "number": 273, 
+  "parameters": {
+    "attack": 40, 
+    "block": 50, 
+    "critical": 30, 
+    "defense": 30, 
+    "hp": 40, 
+    "speed": 30, 
+    "total": 220
+  }, 
+  "species": "どんぐりポケモン", 
+  "types": [
+    "くさ"
+  ], 
+  "weight": 4.0
+}

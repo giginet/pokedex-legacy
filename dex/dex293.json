@@ -1,1 +1,30 @@
-{"abilities": ["\u307c\u3046\u304a\u3093", "\u3073\u3073\u308a"], "weight": 50.0, "number": 293, "height": 50.0, "species": "\u3055\u3055\u3084\u304d\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30b4\u30cb\u30e7\u30cb\u30e7", "parameters": {"defense": 23, "hp": 64, "attack": 51, "critical": 51, "total": 240, "speed": 28, "block": 23}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "ぼうおん", 
+    "びびり"
+  ], 
+  "egg_groups": [
+    "かいじゅう", 
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/293-m.png", 
+  "name": "ゴニョニョ", 
+  "number": 293, 
+  "parameters": {
+    "attack": 51, 
+    "block": 23, 
+    "critical": 51, 
+    "defense": 23, 
+    "hp": 64, 
+    "speed": 28, 
+    "total": 240
+  }, 
+  "species": "ささやきポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 16.3
+}

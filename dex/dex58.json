@@ -1,1 +1,30 @@
-{"abilities": ["\u3044\u304b\u304f", "\u3082\u3089\u3044\u3073", "\u305b\u3044\u304e\u306e\u3053\u3053\u308d"], "weight": 25.0, "number": 58, "height": 75.0, "species": "\u3053\u3044\u306c\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a"], "egg_groups": [], "name": "\u30ac\u30fc\u30c7\u30a3", "parameters": {"defense": 50, "hp": 55, "attack": 70, "critical": 70, "total": 350, "speed": 60, "block": 45}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "いかく", 
+    "もらいび", 
+    "せいぎのこころ"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.7, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/058-m.png", 
+  "name": "ガーディ", 
+  "number": 58, 
+  "parameters": {
+    "attack": 70, 
+    "block": 45, 
+    "critical": 70, 
+    "defense": 50, 
+    "hp": 55, 
+    "speed": 60, 
+    "total": 350
+  }, 
+  "species": "こいぬポケモン", 
+  "types": [
+    "ほのお"
+  ], 
+  "weight": 19.0
+}

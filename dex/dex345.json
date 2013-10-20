@@ -1,1 +1,30 @@
-{"abilities": ["\u304d\u3085\u3046\u3070\u3093", "\u3088\u3073\u307f\u305a"], "weight": 23.8, "number": 345, "height": 1.0, "species": "\u30a6\u30df\u30e6\u30ea\u30dd\u30b1\u30e2\u30f3", "types": ["\u3044\u308f", "\u304f\u3055"], "egg_groups": ["\u3059\u3044\u3061\u3085\u3046\uff13"], "name": "\u30ea\u30ea\u30fc\u30e9", "parameters": {"defense": 87, "hp": 66, "attack": 41, "critical": 61, "total": 355, "speed": 23, "block": 77}, "exp": 7680, "friendship": 70}
+{
+  "abilities": [
+    "きゅうばん", 
+    "よびみず"
+  ], 
+  "egg_groups": [
+    "すいちゅう３"
+  ], 
+  "exp": 7680, 
+  "friendship": 70, 
+  "height": 1.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/345-m.png", 
+  "name": "リリーラ", 
+  "number": 345, 
+  "parameters": {
+    "attack": 41, 
+    "block": 77, 
+    "critical": 61, 
+    "defense": 87, 
+    "hp": 66, 
+    "speed": 23, 
+    "total": 355
+  }, 
+  "species": "ウミユリポケモン", 
+  "types": [
+    "いわ", 
+    "くさ"
+  ], 
+  "weight": 23.8
+}

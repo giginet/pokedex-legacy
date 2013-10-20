@@ -1,1 +1,31 @@
-{"abilities": ["\u304d\u3085\u3046\u3070\u3093", "\u30b9\u30ca\u30a4\u30d1\u30fc", "\u30e0\u30e9\u3063\u3051"], "weight": 50.0, "number": 224, "height": 50.0, "species": "\u3075\u3093\u3057\u3083\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30aa\u30af\u30bf\u30f3", "parameters": {"defense": 75, "hp": 75, "attack": 105, "critical": 105, "total": 480, "speed": 45, "block": 75}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "きゅうばん", 
+    "スナイパー", 
+    "ムラっけ"
+  ], 
+  "egg_groups": [
+    "すいちゅう１", 
+    "すいちゅう２"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.9, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/224-m.png", 
+  "name": "オクタン", 
+  "number": 224, 
+  "parameters": {
+    "attack": 105, 
+    "block": 75, 
+    "critical": 105, 
+    "defense": 75, 
+    "hp": 75, 
+    "speed": 45, 
+    "total": 480
+  }, 
+  "species": "ふんしゃポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 28.5
+}

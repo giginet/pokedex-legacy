@@ -1,1 +1,30 @@
-{"abilities": ["\u305b\u3044\u3067\u3093\u304d", "\u30d7\u30e9\u30b9"], "weight": 50.0, "number": 180, "height": 50.0, "species": "\u308f\u305f\u3052\u30dd\u30b1\u30e2\u30f3", "types": ["\u3067\u3093\u304d"], "egg_groups": [], "name": "\u30e2\u30b3\u30b3", "parameters": {"defense": 60, "hp": 70, "attack": 55, "critical": 80, "total": 365, "speed": 45, "block": 55}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "せいでんき", 
+    "プラス"
+  ], 
+  "egg_groups": [
+    "かいじゅう", 
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.8, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/180-m.png", 
+  "name": "モココ", 
+  "number": 180, 
+  "parameters": {
+    "attack": 55, 
+    "block": 55, 
+    "critical": 80, 
+    "defense": 60, 
+    "hp": 70, 
+    "speed": 45, 
+    "total": 365
+  }, 
+  "species": "わたげポケモン", 
+  "types": [
+    "でんき"
+  ], 
+  "weight": 13.3
+}

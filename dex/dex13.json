@@ -1,1 +1,30 @@
-{"abilities": ["\u308a\u3093\u3077\u3093", "\u306b\u3052\u3042\u3057"], "weight": 3.2, "number": 13, "height": 0.3, "species": "\u3051\u3080\u3057\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057", "\u3069\u304f"], "egg_groups": ["\u3080\u3057"], "name": "\u30d3\u30fc\u30c9\u30eb", "parameters": {"defense": 20, "hp": 40, "attack": 35, "critical": 20, "total": 195, "speed": 50, "block": 30}, "exp": 3840, "friendship": 70}
+{
+  "abilities": [
+    "りんぷん", 
+    "にげあし"
+  ], 
+  "egg_groups": [
+    "むし"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 0.3, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/013-m.png", 
+  "name": "ビードル", 
+  "number": 13, 
+  "parameters": {
+    "attack": 35, 
+    "block": 30, 
+    "critical": 20, 
+    "defense": 20, 
+    "hp": 40, 
+    "speed": 50, 
+    "total": 195
+  }, 
+  "species": "けむしポケモン", 
+  "types": [
+    "むし", 
+    "どく"
+  ], 
+  "weight": 3.2
+}

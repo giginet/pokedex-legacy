@@ -1,1 +1,31 @@
-{"abilities": ["\u3069\u3093\u304b\u3093", "\u304d\u3051\u3093\u3088\u3061", "\u3046\u308b\u304a\u3044\u30dc\u30c7\u30a3"], "weight": 23.6, "number": 340, "height": 0.9, "species": "\u3072\u3052\u3046\u304a\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a", "\u3058\u3081\u3093"], "egg_groups": ["\u3059\u3044\u3061\u3085\u3046\uff12"], "name": "\u30ca\u30de\u30ba\u30f3", "parameters": {"defense": 71, "hp": 110, "attack": 78, "critical": 76, "total": 468, "speed": 60, "block": 73}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "どんかん", 
+    "きけんよち", 
+    "うるおいボディ"
+  ], 
+  "egg_groups": [
+    "すいちゅう２"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.9, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/340-m.png", 
+  "name": "ナマズン", 
+  "number": 340, 
+  "parameters": {
+    "attack": 78, 
+    "block": 73, 
+    "critical": 76, 
+    "defense": 71, 
+    "hp": 110, 
+    "speed": 60, 
+    "total": 468
+  }, 
+  "species": "ひげうおポケモン", 
+  "types": [
+    "みず", 
+    "じめん"
+  ], 
+  "weight": 23.6
+}

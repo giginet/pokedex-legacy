@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 0, "number": 711, "height": 0, "species": "", "types": ["\u30b4\u30fc\u30b9\u30c8", "\u304f\u3055"], "egg_groups": [""], "name": "\u30d1\u30f3\u30d7\u30b8\u30f3", "parameters": {"defense": 0, "hp": 0, "attack": 0, "critical": 0, "total": 0, "speed": 0, "block": 0}, "exp": 0, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    ""
+  ], 
+  "exp": 0, 
+  "friendship": 0, 
+  "height": 0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/xy3006.png", 
+  "name": "パンプジン", 
+  "number": 711, 
+  "parameters": {
+    "attack": 0, 
+    "block": 0, 
+    "critical": 0, 
+    "defense": 0, 
+    "hp": 0, 
+    "speed": 0, 
+    "total": 0
+  }, 
+  "species": "", 
+  "types": [
+    "ゴースト", 
+    "くさ"
+  ], 
+  "weight": 0
+}

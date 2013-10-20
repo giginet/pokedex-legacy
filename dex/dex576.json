@@ -1,1 +1,29 @@
-{"abilities": ["\u304a\u307f\u3068\u304a\u3057", "\u304b\u3052\u3075\u307f"], "weight": 75.0, "number": 576, "height": 25.0, "species": "\u3066\u3093\u305f\u3044\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc"], "egg_groups": [], "name": "\u30b4\u30c1\u30eb\u30bc\u30eb", "parameters": {"defense": 110, "hp": 70, "attack": 55, "critical": 95, "total": 490, "speed": 65, "block": 95}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "おみとおし", 
+    "かげふみ"
+  ], 
+  "egg_groups": [
+    "ひとがた"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/576.png", 
+  "name": "ゴチルゼル", 
+  "number": 576, 
+  "parameters": {
+    "attack": 55, 
+    "block": 95, 
+    "critical": 95, 
+    "defense": 110, 
+    "hp": 70, 
+    "speed": 65, 
+    "total": 490
+  }, 
+  "species": "てんたいポケモン", 
+  "types": [
+    "エスパー"
+  ], 
+  "weight": 44.0
+}

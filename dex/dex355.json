@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 50.0, "number": 355, "height": 50.0, "species": "\u304a\u3080\u304b\u3048\u30dd\u30b1\u30e2\u30f3", "types": ["\u30b4\u30fc\u30b9\u30c8"], "egg_groups": [], "name": "\u30e8\u30de\u30ef\u30eb", "parameters": {"defense": 90, "hp": 20, "attack": 40, "critical": 30, "total": 295, "speed": 25, "block": 90}, "exp": 35, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "ふていけい"
+  ], 
+  "exp": 6400, 
+  "friendship": 35, 
+  "height": 0.8, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/355-m.png", 
+  "name": "ヨマワル", 
+  "number": 355, 
+  "parameters": {
+    "attack": 40, 
+    "block": 90, 
+    "critical": 30, 
+    "defense": 90, 
+    "hp": 20, 
+    "speed": 25, 
+    "total": 295
+  }, 
+  "species": "おむかえポケモン", 
+  "types": [
+    "ゴースト"
+  ], 
+  "weight": 15.0
+}

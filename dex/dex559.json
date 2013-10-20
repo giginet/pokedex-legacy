@@ -1,1 +1,32 @@
-{"abilities": ["\u3060\u3063\u3074", "\u3058\u3057\u3093\u304b\u3058\u3087\u3046", "\u3044\u304b\u304f"], "weight": 11.8, "number": 559, "height": 0.6, "species": "\u3060\u3063\u3074\u30dd\u30b1\u30e2\u30f3", "types": ["\u3042\u304f", "\u304b\u304f\u3068\u3046"], "egg_groups": ["\u308a\u304f\u3058\u3087\u3046", "\u30c9\u30e9\u30b4\u30f3"], "name": "\u30ba\u30eb\u30c3\u30b0", "parameters": {"defense": 70, "hp": 50, "attack": 75, "critical": 35, "total": 348, "speed": 48, "block": 70}, "exp": 3840, "friendship": 35}
+{
+  "abilities": [
+    "だっぴ", 
+    "じしんかじょう", 
+    "いかく"
+  ], 
+  "egg_groups": [
+    "りくじょう", 
+    "ドラゴン"
+  ], 
+  "exp": 3840, 
+  "friendship": 35, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/559.png", 
+  "name": "ズルッグ", 
+  "number": 559, 
+  "parameters": {
+    "attack": 75, 
+    "block": 70, 
+    "critical": 35, 
+    "defense": 70, 
+    "hp": 50, 
+    "speed": 48, 
+    "total": 348
+  }, 
+  "species": "だっぴポケモン", 
+  "types": [
+    "あく", 
+    "かくとう"
+  ], 
+  "weight": 11.8
+}

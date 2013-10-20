@@ -1,1 +1,30 @@
-{"abilities": ["\u30d7\u30e9\u30b9", "\u30de\u30a4\u30ca\u30b9", "\u30af\u30ea\u30a2\u30dc\u30c7\u30a3"], "weight": 0, "number": 599, "height": 0, "species": "\u306f\u3050\u308b\u307e\u30dd\u30b1\u30e2\u30f3", "types": ["\u306f\u304c\u306d"], "egg_groups": [], "name": "\u30ae\u30a2\u30eb", "parameters": {"defense": 60, "hp": 40, "attack": 55, "critical": 45, "total": 300, "speed": 30, "block": 70}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "プラス", 
+    "マイナス", 
+    "クリアボディ"
+  ], 
+  "egg_groups": [
+    "こうぶつ"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.3, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/599.png", 
+  "name": "ギアル", 
+  "number": 599, 
+  "parameters": {
+    "attack": 55, 
+    "block": 70, 
+    "critical": 45, 
+    "defense": 60, 
+    "hp": 40, 
+    "speed": 30, 
+    "total": 300
+  }, 
+  "species": "はぐるまポケモン", 
+  "types": [
+    "はがね"
+  ], 
+  "weight": 21.0
+}

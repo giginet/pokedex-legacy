@@ -1,1 +1,30 @@
-{"abilities": ["\u3082\u3046\u304b", "\u3042\u3064\u3044\u3057\u307c\u3046"], "weight": 55.5, "number": 499, "height": 1.0, "species": "\u3072\u3076\u305f\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a", "\u304b\u304f\u3068\u3046"], "egg_groups": ["\u308a\u304f\u3058\u3087\u3046"], "name": "\u30c1\u30e3\u30aa\u30d6\u30fc", "parameters": {"defense": 55, "hp": 90, "attack": 93, "critical": 70, "total": 418, "speed": 55, "block": 55}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "もうか", 
+    "あついしぼう"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/499.png", 
+  "name": "チャオブー", 
+  "number": 499, 
+  "parameters": {
+    "attack": 93, 
+    "block": 55, 
+    "critical": 70, 
+    "defense": 55, 
+    "hp": 90, 
+    "speed": 55, 
+    "total": 418
+  }, 
+  "species": "ひぶたポケモン", 
+  "types": [
+    "ほのお", 
+    "かくとう"
+  ], 
+  "weight": 55.5
+}

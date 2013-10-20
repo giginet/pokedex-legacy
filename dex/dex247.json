@@ -1,1 +1,30 @@
-{"abilities": ["\u3060\u3063\u3074", "\u3060\u3063\u3074"], "weight": 152.0, "number": 247, "height": 1.2, "species": "\u3060\u3093\u304c\u3093\u30dd\u30b1\u30e2\u30f3", "types": ["\u3044\u308f", "\u3058\u3081\u3093"], "egg_groups": ["\u304b\u3044\u3058\u3085\u3046"], "name": "\u30b5\u30ca\u30ae\u30e9\u30b9", "parameters": {"defense": 70, "hp": 70, "attack": 84, "critical": 65, "total": 410, "speed": 51, "block": 70}, "exp": 10240, "friendship": 35}
+{
+  "abilities": [
+    "だっぴ", 
+    "だっぴ"
+  ], 
+  "egg_groups": [
+    "かいじゅう"
+  ], 
+  "exp": 10240, 
+  "friendship": 35, 
+  "height": 1.2, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/247-m.png", 
+  "name": "サナギラス", 
+  "number": 247, 
+  "parameters": {
+    "attack": 84, 
+    "block": 70, 
+    "critical": 65, 
+    "defense": 70, 
+    "hp": 70, 
+    "speed": 51, 
+    "total": 410
+  }, 
+  "species": "だんがんポケモン", 
+  "types": [
+    "いわ", 
+    "じめん"
+  ], 
+  "weight": 152.0
+}

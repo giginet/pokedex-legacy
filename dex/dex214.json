@@ -1,1 +1,31 @@
-{"abilities": ["\u3080\u3057\u306e\u3057\u3089\u305b", "\u3053\u3093\u3058\u3087\u3046", "\u3058\u3057\u3093\u304b\u3058\u3087\u3046"], "weight": 54.0, "number": 214, "height": 1.5, "species": "\u307d\u3093\u30c5\u30ce\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057", "\u304b\u304f\u3068\u3046"], "egg_groups": ["\u3080\u3057"], "name": "\u30d8\u30e9\u30af\u30ed\u30b9", "parameters": {"defense": 95, "hp": 80, "attack": 125, "critical": 40, "total": 500, "speed": 85, "block": 75}, "exp": 6400, "friendship": 70}
+{
+  "abilities": [
+    "むしのしらせ", 
+    "こんじょう", 
+    "じしんかじょう"
+  ], 
+  "egg_groups": [
+    "むし"
+  ], 
+  "exp": 6400, 
+  "friendship": 70, 
+  "height": 1.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/214-m.png", 
+  "name": "ヘラクロス", 
+  "number": 214, 
+  "parameters": {
+    "attack": 125, 
+    "block": 75, 
+    "critical": 40, 
+    "defense": 95, 
+    "hp": 80, 
+    "speed": 85, 
+    "total": 500
+  }, 
+  "species": "ぽんヅノポケモン", 
+  "types": [
+    "むし", 
+    "かくとう"
+  ], 
+  "weight": 54.0
+}

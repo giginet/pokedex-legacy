@@ -1,1 +1,30 @@
-{"abilities": ["\u3082\u3046\u304b", "\u304b\u305d\u304f"], "weight": 19.5, "number": 256, "height": 0.9, "species": "\u308f\u304b\u3069\u308a\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a", "\u304b\u304f\u3068\u3046"], "egg_groups": ["\u308a\u304f\u3058\u3087\u3046"], "name": "\u30ef\u30ab\u30b7\u30e3\u30e2", "parameters": {"defense": 60, "hp": 60, "attack": 85, "critical": 85, "total": 405, "speed": 55, "block": 60}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "もうか", 
+    "かそく"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.9, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/256-m.png", 
+  "name": "ワカシャモ", 
+  "number": 256, 
+  "parameters": {
+    "attack": 85, 
+    "block": 60, 
+    "critical": 85, 
+    "defense": 60, 
+    "hp": 60, 
+    "speed": 55, 
+    "total": 405
+  }, 
+  "species": "わかどりポケモン", 
+  "types": [
+    "ほのお", 
+    "かくとう"
+  ], 
+  "weight": 19.5
+}

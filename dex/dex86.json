@@ -1,1 +1,31 @@
-{"abilities": ["\u3042\u3064\u3044\u3057\u307c\u3046", "\u3046\u308b\u304a\u3044\u30dc\u30c7\u30a3", "\u30a2\u30a4\u30b9\u30dc\u30c7\u30a3"], "weight": 50.0, "number": 86, "height": 50.0, "species": "\u3042\u3057\u304b\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30d1\u30a6\u30ef\u30a6", "parameters": {"defense": 70, "hp": 65, "attack": 45, "critical": 45, "total": 325, "speed": 45, "block": 55}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "あついしぼう", 
+    "うるおいボディ", 
+    "アイスボディ"
+  ], 
+  "egg_groups": [
+    "すいちゅう１", 
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.1, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/086-m.png", 
+  "name": "パウワウ", 
+  "number": 86, 
+  "parameters": {
+    "attack": 45, 
+    "block": 55, 
+    "critical": 45, 
+    "defense": 70, 
+    "hp": 65, 
+    "speed": 45, 
+    "total": 325
+  }, 
+  "species": "あしかポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 90.0
+}

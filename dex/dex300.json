@@ -1,1 +1,31 @@
-{"abilities": ["\u30e1\u30ed\u30e1\u30ed\u30dc\u30c7\u30a3", "\u30ce\u30fc\u30de\u30eb\u30b9\u30ad\u30f3", "\u30df\u30e9\u30af\u30eb\u30b9\u30ad\u30f3"], "weight": 75.0, "number": 300, "height": 25.0, "species": "\u3053\u306d\u3053\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30a8\u30cd\u30b3", "parameters": {"defense": 35, "hp": 50, "attack": 45, "critical": 35, "total": 260, "speed": 50, "block": 45}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "メロメロボディ", 
+    "ノーマルスキン", 
+    "ミラクルスキン"
+  ], 
+  "egg_groups": [
+    "りくじょう", 
+    "ようせい"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/300-m.png", 
+  "name": "エネコ", 
+  "number": 300, 
+  "parameters": {
+    "attack": 45, 
+    "block": 45, 
+    "critical": 35, 
+    "defense": 35, 
+    "hp": 50, 
+    "speed": 50, 
+    "total": 260
+  }, 
+  "species": "こねこポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 11.0
+}

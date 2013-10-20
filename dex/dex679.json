@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 0, "number": 679, "height": 0, "species": "\u3068\u3046\u3051\u3093\u30dd\u30b1\u30e2\u30f3", "types": ["\u306f\u304c\u306d", "\u30b4\u30fc\u30b9\u30c8"], "egg_groups": [""], "name": "\u30d2\u30c8\u30c4\u30ad", "parameters": {"defense": 0, "hp": 0, "attack": 0, "critical": 0, "total": 0, "speed": 0, "block": 0}, "exp": 0, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    ""
+  ], 
+  "exp": 0, 
+  "friendship": 0, 
+  "height": 0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/xy1009.png", 
+  "name": "ヒトツキ", 
+  "number": 679, 
+  "parameters": {
+    "attack": 0, 
+    "block": 0, 
+    "critical": 0, 
+    "defense": 0, 
+    "hp": 0, 
+    "speed": 0, 
+    "total": 0
+  }, 
+  "species": "とうけんポケモン", 
+  "types": [
+    "はがね", 
+    "ゴースト"
+  ], 
+  "weight": 0
+}

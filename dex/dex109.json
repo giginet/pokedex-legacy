@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 50.0, "number": 109, "height": 50.0, "species": "\u3069\u304f\u30ac\u30b9\u30dd\u30b1\u30e2\u30f3", "types": ["\u3069\u304f"], "egg_groups": [], "name": "\u30c9\u30ac\u30fc\u30b9", "parameters": {"defense": 45, "hp": 40, "attack": 65, "critical": 60, "total": 340, "speed": 35, "block": 95}, "exp": 70, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "ふていけい"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/109-m.png", 
+  "name": "ドガース", 
+  "number": 109, 
+  "parameters": {
+    "attack": 65, 
+    "block": 95, 
+    "critical": 60, 
+    "defense": 45, 
+    "hp": 40, 
+    "speed": 35, 
+    "total": 340
+  }, 
+  "species": "どくガスポケモン", 
+  "types": [
+    "どく"
+  ], 
+  "weight": 1.0
+}

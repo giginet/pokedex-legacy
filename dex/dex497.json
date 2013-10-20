@@ -1,1 +1,30 @@
-{"abilities": ["\u3057\u3093\u308a\u3087\u304f", "\u3042\u307e\u306e\u3058\u3083\u304f"], "weight": 12.5, "number": 497, "height": 87.5, "species": "\u30ed\u30a4\u30e4\u30eb\u30dd\u30b1\u30e2\u30f3", "types": ["\u304f\u3055"], "egg_groups": [], "name": "\u30b8\u30e3\u30ed\u30fc\u30c0", "parameters": {"defense": 95, "hp": 75, "attack": 75, "critical": 75, "total": 528, "speed": 113, "block": 95}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "しんりょく", 
+    "あまのじゃく"
+  ], 
+  "egg_groups": [
+    "りくじょう", 
+    "しょくぶつ"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 3.3, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/497.png", 
+  "name": "ジャローダ", 
+  "number": 497, 
+  "parameters": {
+    "attack": 75, 
+    "block": 95, 
+    "critical": 75, 
+    "defense": 95, 
+    "hp": 75, 
+    "speed": 113, 
+    "total": 528
+  }, 
+  "species": "ロイヤルポケモン", 
+  "types": [
+    "くさ"
+  ], 
+  "weight": 63.0
+}

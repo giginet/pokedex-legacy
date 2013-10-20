@@ -1,1 +1,30 @@
-{"abilities": ["\u3082\u3046\u304b", "\u304b\u305d\u304f"], "weight": 52.0, "number": 257, "height": 1.9, "species": "\u3082\u3046\u304b\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a", "\u304b\u304f\u3068\u3046"], "egg_groups": ["\u308a\u304f\u3058\u3087\u3046"], "name": "\u30d0\u30b7\u30e3\u30fc\u30e2", "parameters": {"defense": 70, "hp": 80, "attack": 120, "critical": 110, "total": 530, "speed": 80, "block": 70}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "もうか", 
+    "かそく"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.9, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/257-m.png", 
+  "name": "バシャーモ", 
+  "number": 257, 
+  "parameters": {
+    "attack": 120, 
+    "block": 70, 
+    "critical": 110, 
+    "defense": 70, 
+    "hp": 80, 
+    "speed": 80, 
+    "total": 530
+  }, 
+  "species": "もうかポケモン", 
+  "types": [
+    "ほのお", 
+    "かくとう"
+  ], 
+  "weight": 52.0
+}

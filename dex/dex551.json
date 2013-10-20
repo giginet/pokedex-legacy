@@ -1,1 +1,31 @@
-{"abilities": ["\u3044\u304b\u304f", "\u3058\u3057\u3093\u304b\u3058\u3087\u3046", "\u3044\u304b\u308a\u306e\u3064\u307c"], "weight": 15.2, "number": 551, "height": 0.7, "species": "\u3055\u3070\u304f\u30ef\u30cb\u30dd\u30b1\u30e2\u30f3", "types": ["\u3058\u3081\u3093", "\u3042\u304f"], "egg_groups": ["\u308a\u304f\u3058\u3087\u3046"], "name": "\u30e1\u30b0\u30ed\u30b3", "parameters": {"defense": 35, "hp": 50, "attack": 72, "critical": 35, "total": 292, "speed": 65, "block": 35}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "いかく", 
+    "じしんかじょう", 
+    "いかりのつぼ"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.7, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/551.png", 
+  "name": "メグロコ", 
+  "number": 551, 
+  "parameters": {
+    "attack": 72, 
+    "block": 35, 
+    "critical": 35, 
+    "defense": 35, 
+    "hp": 50, 
+    "speed": 65, 
+    "total": 292
+  }, 
+  "species": "さばくワニポケモン", 
+  "types": [
+    "じめん", 
+    "あく"
+  ], 
+  "weight": 15.2
+}

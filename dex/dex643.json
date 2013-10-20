@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 330.0, "number": 643, "height": 3.2, "species": "\u306f\u304f\u3088\u3046\u30dd\u30b1\u30e2\u30f3", "types": ["\u30c9\u30e9\u30b4\u30f3", "\u307b\u306e\u304a"], "egg_groups": ["\u307f\u306f\u3063\u3051\u3093"], "name": "\u30ec\u30b7\u30e9\u30e0", "parameters": {"defense": 120, "hp": 100, "attack": 120, "critical": 150, "total": 680, "speed": 90, "block": 100}, "exp": 30720, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 30720, 
+  "friendship": 0, 
+  "height": 3.2, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/643.png", 
+  "name": "レシラム", 
+  "number": 643, 
+  "parameters": {
+    "attack": 120, 
+    "block": 100, 
+    "critical": 150, 
+    "defense": 120, 
+    "hp": 100, 
+    "speed": 90, 
+    "total": 680
+  }, 
+  "species": "はくようポケモン", 
+  "types": [
+    "ドラゴン", 
+    "ほのお"
+  ], 
+  "weight": 330.0
+}

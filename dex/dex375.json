@@ -1,1 +1,30 @@
-{"abilities": ["\u30af\u30ea\u30a2\u30dc\u30c7\u30a3", "\u30e9\u30a4\u30c8\u30e1\u30bf\u30eb"], "weight": 202.5, "number": 375, "height": 1.2, "species": "\u3066\u3064\u30c4\u30e1\u30dd\u30b1\u30e2\u30f3", "types": ["\u306f\u304c\u306d", "\u30a8\u30b9\u30d1\u30fc"], "egg_groups": ["\u3053\u3046\u3076\u3064"], "name": "\u30e1\u30bf\u30f3\u30b0", "parameters": {"defense": 80, "hp": 60, "attack": 75, "critical": 55, "total": 420, "speed": 50, "block": 100}, "exp": 10240, "friendship": 35}
+{
+  "abilities": [
+    "クリアボディ", 
+    "ライトメタル"
+  ], 
+  "egg_groups": [
+    "こうぶつ"
+  ], 
+  "exp": 10240, 
+  "friendship": 35, 
+  "height": 1.2, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/375.png", 
+  "name": "メタング", 
+  "number": 375, 
+  "parameters": {
+    "attack": 75, 
+    "block": 100, 
+    "critical": 55, 
+    "defense": 80, 
+    "hp": 60, 
+    "speed": 50, 
+    "total": 420
+  }, 
+  "species": "てつツメポケモン", 
+  "types": [
+    "はがね", 
+    "エスパー"
+  ], 
+  "weight": 202.5
+}

@@ -1,1 +1,31 @@
-{"abilities": ["\u307b\u3046\u3057", "\u30dd\u30a4\u30ba\u30f3\u30d2\u30fc\u30eb", "\u306f\u3084\u3042\u3057"], "weight": 50.0, "number": 285, "height": 50.0, "species": "\u304d\u306e\u3053\u30dd\u30b1\u30e2\u30f3", "types": ["\u304f\u3055"], "egg_groups": [], "name": "\u30ad\u30ce\u30b3\u30b3", "parameters": {"defense": 60, "hp": 60, "attack": 40, "critical": 40, "total": 295, "speed": 35, "block": 60}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "ほうし", 
+    "ポイズンヒール", 
+    "はやあし"
+  ], 
+  "egg_groups": [
+    "ようせい", 
+    "しょくぶつ"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 0.4, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/285-m.png", 
+  "name": "キノココ", 
+  "number": 285, 
+  "parameters": {
+    "attack": 40, 
+    "block": 60, 
+    "critical": 40, 
+    "defense": 60, 
+    "hp": 60, 
+    "speed": 35, 
+    "total": 295
+  }, 
+  "species": "きのこポケモン", 
+  "types": [
+    "くさ"
+  ], 
+  "weight": 4.5
+}

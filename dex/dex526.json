@@ -1,1 +1,29 @@
-{"abilities": ["\u304c\u3093\u3058\u3087\u3046", "\u3059\u306a\u306e\u3061\u304b\u3089"], "weight": 50.0, "number": 526, "height": 50.0, "species": "\u3053\u3046\u3042\u3064\u30dd\u30b1\u30e2\u30f3", "types": ["\u3044\u308f"], "egg_groups": [], "name": "\u30ae\u30ac\u30a4\u30a2\u30b9", "parameters": {"defense": 70, "hp": 85, "attack": 135, "critical": 60, "total": 505, "speed": 25, "block": 130}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "がんじょう", 
+    "すなのちから"
+  ], 
+  "egg_groups": [
+    "こうぶつ"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 1.7, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/526.png", 
+  "name": "ギガイアス", 
+  "number": 526, 
+  "parameters": {
+    "attack": 135, 
+    "block": 130, 
+    "critical": 60, 
+    "defense": 70, 
+    "hp": 85, 
+    "speed": 25, 
+    "total": 505
+  }, 
+  "species": "こうあつポケモン", 
+  "types": [
+    "いわ"
+  ], 
+  "weight": 260.0
+}

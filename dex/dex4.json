@@ -1,1 +1,30 @@
-{"abilities": ["\u3082\u3046\u304b", "\u30b5\u30f3\u30d1\u30ef\u30fc"], "weight": 12.5, "number": 4, "height": 87.5, "species": "\u3068\u304b\u3052\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a"], "egg_groups": [], "name": "\u30d2\u30c8\u30ab\u30b2", "parameters": {"defense": 50, "hp": 39, "attack": 52, "critical": 60, "total": 309, "speed": 65, "block": 43}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "もうか", 
+    "サンパワー"
+  ], 
+  "egg_groups": [
+    "かいじゅう", 
+    "ドラゴン"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/004-m.png", 
+  "name": "ヒトカゲ", 
+  "number": 4, 
+  "parameters": {
+    "attack": 52, 
+    "block": 43, 
+    "critical": 60, 
+    "defense": 50, 
+    "hp": 39, 
+    "speed": 65, 
+    "total": 309
+  }, 
+  "species": "とかげポケモン", 
+  "types": [
+    "ほのお"
+  ], 
+  "weight": 8.5
+}

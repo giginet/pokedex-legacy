@@ -1,1 +1,30 @@
-{"abilities": ["\u3058\u3085\u3046\u306a\u3093", "\u30c6\u30af\u30cb\u30b7\u30e3\u30f3", "\u304d\u3093\u3061\u3087\u3046\u304b\u3093"], "weight": 50.0, "number": 53, "height": 50.0, "species": "\u30b7\u30e3\u30e0\u30cd\u30b3\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30da\u30eb\u30b7\u30a2\u30f3", "parameters": {"defense": 65, "hp": 65, "attack": 70, "critical": 65, "total": 440, "speed": 115, "block": 60}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "じゅうなん", 
+    "テクニシャン", 
+    "きんちょうかん"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/053-m.png", 
+  "name": "ペルシアン", 
+  "number": 53, 
+  "parameters": {
+    "attack": 70, 
+    "block": 60, 
+    "critical": 65, 
+    "defense": 65, 
+    "hp": 65, 
+    "speed": 115, 
+    "total": 440
+  }, 
+  "species": "シャムネコポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 32.0
+}

@@ -1,1 +1,29 @@
-{"abilities": ["\u3059\u3044\u3059\u3044", "\u3046\u308b\u304a\u3044\u30dc\u30c7\u30a3"], "weight": 50.0, "number": 368, "height": 50.0, "species": "\u306a\u3093\u304b\u3044\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30b5\u30af\u30e9\u30d3\u30b9", "parameters": {"defense": 75, "hp": 55, "attack": 84, "critical": 114, "total": 485, "speed": 52, "block": 105}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "すいすい", 
+    "うるおいボディ"
+  ], 
+  "egg_groups": [
+    "すいちゅう１"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.8, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/368-m.png", 
+  "name": "サクラビス", 
+  "number": 368, 
+  "parameters": {
+    "attack": 84, 
+    "block": 105, 
+    "critical": 114, 
+    "defense": 75, 
+    "hp": 55, 
+    "speed": 52, 
+    "total": 485
+  }, 
+  "species": "なんかいポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 22.6
+}

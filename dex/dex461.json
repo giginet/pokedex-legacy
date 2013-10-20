@@ -1,1 +1,30 @@
-{"abilities": ["\u30d7\u30ec\u30c3\u30b7\u30e3\u30fc", "\u308f\u308b\u3044\u3066\u3050\u305b"], "weight": 34.0, "number": 461, "height": 1.1, "species": "\u304b\u304e\u3065\u3081\u30dd\u30b1\u30e2\u30f3", "types": ["\u3042\u304f", "\u3053\u304a\u308a"], "egg_groups": ["\u308a\u304f\u3058\u3087\u3046"], "name": "\u30de\u30cb\u30e5\u30fc\u30e9", "parameters": {"defense": 85, "hp": 70, "attack": 120, "critical": 45, "total": 510, "speed": 125, "block": 65}, "exp": 5120, "friendship": 35}
+{
+  "abilities": [
+    "プレッシャー", 
+    "わるいてぐせ"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 35, 
+  "height": 1.1, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/461-m.png", 
+  "name": "マニューラ", 
+  "number": 461, 
+  "parameters": {
+    "attack": 120, 
+    "block": 65, 
+    "critical": 45, 
+    "defense": 85, 
+    "hp": 70, 
+    "speed": 125, 
+    "total": 510
+  }, 
+  "species": "かぎづめポケモン", 
+  "types": [
+    "あく", 
+    "こおり"
+  ], 
+  "weight": 34.0
+}

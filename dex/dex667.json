@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 0, "number": 667, "height": 0, "species": "\u308f\u304b\u3058\u3057\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a", "\u30ce\u30fc\u30de\u30eb"], "egg_groups": [""], "name": "\u30b7\u30b7\u30b3", "parameters": {"defense": 0, "hp": 0, "attack": 0, "critical": 0, "total": 0, "speed": 0, "block": 0}, "exp": 0, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    ""
+  ], 
+  "exp": 0, 
+  "friendship": 0, 
+  "height": 0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/xy1011.png", 
+  "name": "シシコ", 
+  "number": 667, 
+  "parameters": {
+    "attack": 0, 
+    "block": 0, 
+    "critical": 0, 
+    "defense": 0, 
+    "hp": 0, 
+    "speed": 0, 
+    "total": 0
+  }, 
+  "species": "わかじしポケモン", 
+  "types": [
+    "ほのお", 
+    "ノーマル"
+  ], 
+  "weight": 0
+}

@@ -1,1 +1,31 @@
-{"abilities": ["\u3080\u3057\u306e\u3057\u3089\u305b", "\u306f\u308a\u304d\u308a", "\u306a\u307e\u3051"], "weight": 33.0, "number": 632, "height": 0.3, "species": "\u3066\u3064\u30a2\u30ea\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057", "\u306f\u304c\u306d"], "egg_groups": ["\u3080\u3057"], "name": "\u30a2\u30a4\u30a2\u30f3\u30c8", "parameters": {"defense": 48, "hp": 58, "attack": 109, "critical": 48, "total": 484, "speed": 109, "block": 112}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "むしのしらせ", 
+    "はりきり", 
+    "なまけ"
+  ], 
+  "egg_groups": [
+    "むし"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.3, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/632.png", 
+  "name": "アイアント", 
+  "number": 632, 
+  "parameters": {
+    "attack": 109, 
+    "block": 112, 
+    "critical": 48, 
+    "defense": 48, 
+    "hp": 58, 
+    "speed": 109, 
+    "total": 484
+  }, 
+  "species": "てつアリポケモン", 
+  "types": [
+    "むし", 
+    "はがね"
+  ], 
+  "weight": 33.0
+}

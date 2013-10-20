@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 0, "number": 491, "height": 0, "species": "\u3042\u3093\u3053\u304f\u30dd\u30b1\u30e2\u30f3", "types": ["\u3042\u304f"], "egg_groups": [], "name": "\u30c0\u30fc\u30af\u30e9\u30a4", "parameters": {"defense": 90, "hp": 70, "attack": 90, "critical": 135, "total": 600, "speed": 125, "block": 90}, "exp": 0, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 30720, 
+  "friendship": 0, 
+  "height": 1.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/491.png", 
+  "name": "ダークライ", 
+  "number": 491, 
+  "parameters": {
+    "attack": 90, 
+    "block": 90, 
+    "critical": 135, 
+    "defense": 90, 
+    "hp": 70, 
+    "speed": 125, 
+    "total": 600
+  }, 
+  "species": "あんこくポケモン", 
+  "types": [
+    "あく"
+  ], 
+  "weight": 50.5
+}

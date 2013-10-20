@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 0, "number": 672, "height": 0, "species": "\u30e9\u30a4\u30c9\u30dd\u30b1\u30e2\u30f3", "types": ["\u304f\u3055"], "egg_groups": [], "name": "\u30e1\u30a7\u30fc\u30af\u30eb", "parameters": {"defense": 0, "hp": 0, "attack": 0, "critical": 0, "total": 0, "speed": 0, "block": 0}, "exp": 0, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    ""
+  ], 
+  "exp": 0, 
+  "friendship": 0, 
+  "height": 0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/xy1020.png", 
+  "name": "メェークル", 
+  "number": 672, 
+  "parameters": {
+    "attack": 0, 
+    "block": 0, 
+    "critical": 0, 
+    "defense": 0, 
+    "hp": 0, 
+    "speed": 0, 
+    "total": 0
+  }, 
+  "species": "ライドポケモン", 
+  "types": [
+    "くさ"
+  ], 
+  "weight": 0
+}

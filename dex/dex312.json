@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 50.0, "number": 312, "height": 50.0, "species": "\u304a\u3046\u3048\u3093\u30dd\u30b1\u30e2\u30f3", "types": ["\u3067\u3093\u304d"], "egg_groups": [], "name": "\u30de\u30a4\u30ca\u30f3", "parameters": {"defense": 85, "hp": 60, "attack": 40, "critical": 75, "total": 405, "speed": 95, "block": 50}, "exp": 70, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "ようせい"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.4, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/312-m.png", 
+  "name": "マイナン", 
+  "number": 312, 
+  "parameters": {
+    "attack": 40, 
+    "block": 50, 
+    "critical": 75, 
+    "defense": 85, 
+    "hp": 60, 
+    "speed": 95, 
+    "total": 405
+  }, 
+  "species": "おうえんポケモン", 
+  "types": [
+    "でんき"
+  ], 
+  "weight": 4.2
+}

@@ -1,1 +1,30 @@
-{"abilities": ["\u30af\u30ea\u30a2\u30dc\u30c7\u30a3", "\u30e9\u30a4\u30c8\u30e1\u30bf\u30eb"], "weight": 550.0, "number": 376, "height": 1.6, "species": "\u3066\u3064\u3042\u3057\u30dd\u30b1\u30e2\u30f3", "types": ["\u306f\u304c\u306d", "\u30a8\u30b9\u30d1\u30fc"], "egg_groups": ["\u3053\u3046\u3076\u3064"], "name": "\u30e1\u30bf\u30b0\u30ed\u30b9", "parameters": {"defense": 90, "hp": 80, "attack": 135, "critical": 95, "total": 600, "speed": 70, "block": 130}, "exp": 10240, "friendship": 35}
+{
+  "abilities": [
+    "クリアボディ", 
+    "ライトメタル"
+  ], 
+  "egg_groups": [
+    "こうぶつ"
+  ], 
+  "exp": 10240, 
+  "friendship": 35, 
+  "height": 1.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/376.png", 
+  "name": "メタグロス", 
+  "number": 376, 
+  "parameters": {
+    "attack": 135, 
+    "block": 130, 
+    "critical": 95, 
+    "defense": 90, 
+    "hp": 80, 
+    "speed": 70, 
+    "total": 600
+  }, 
+  "species": "てつあしポケモン", 
+  "types": [
+    "はがね", 
+    "エスパー"
+  ], 
+  "weight": 550.0
+}

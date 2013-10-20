@@ -1,1 +1,31 @@
-{"abilities": ["\u3075\u304f\u304c\u3093", "\u304d\u3093\u3061\u3087\u3046\u304b\u3093", "\u3080\u3057\u306e\u3057\u3089\u305b"], "weight": 14.3, "number": 596, "height": 0.8, "species": "\u3067\u3093\u304d\u30b0\u30e2\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057", "\u3067\u3093\u304d"], "egg_groups": ["\u3080\u3057"], "name": "\u30c7\u30f3\u30c1\u30e5\u30e9", "parameters": {"defense": 60, "hp": 70, "attack": 77, "critical": 97, "total": 472, "speed": 108, "block": 60}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "ふくがん", 
+    "きんちょうかん", 
+    "むしのしらせ"
+  ], 
+  "egg_groups": [
+    "むし"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.8, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/596.png", 
+  "name": "デンチュラ", 
+  "number": 596, 
+  "parameters": {
+    "attack": 77, 
+    "block": 60, 
+    "critical": 97, 
+    "defense": 60, 
+    "hp": 70, 
+    "speed": 108, 
+    "total": 472
+  }, 
+  "species": "でんきグモポケモン", 
+  "types": [
+    "むし", 
+    "でんき"
+  ], 
+  "weight": 14.3
+}

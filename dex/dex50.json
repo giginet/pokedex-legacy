@@ -1,1 +1,30 @@
-{"abilities": ["\u3059\u306a\u304c\u304f\u308c", "\u3042\u308a\u3058\u3054\u304f", "\u3059\u306a\u306e\u3061\u304b\u3089"], "weight": 50.0, "number": 50, "height": 50.0, "species": "\u3082\u3050\u3089\u30dd\u30b1\u30e2\u30f3", "types": ["\u3058\u3081\u3093"], "egg_groups": [], "name": "\u30c7\u30a3\u30b0\u30c0", "parameters": {"defense": 45, "hp": 10, "attack": 55, "critical": 35, "total": 265, "speed": 95, "block": 25}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "すながくれ", 
+    "ありじごく", 
+    "すなのちから"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.2, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/050-m.png", 
+  "name": "ディグダ", 
+  "number": 50, 
+  "parameters": {
+    "attack": 55, 
+    "block": 25, 
+    "critical": 35, 
+    "defense": 45, 
+    "hp": 10, 
+    "speed": 95, 
+    "total": 265
+  }, 
+  "species": "もぐらポケモン", 
+  "types": [
+    "じめん"
+  ], 
+  "weight": 0.8
+}

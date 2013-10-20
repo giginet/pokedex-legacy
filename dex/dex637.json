@@ -1,1 +1,30 @@
-{"abilities": ["\u307b\u306e\u304a\u306e\u304b\u3089\u3060", "\u3080\u3057\u306e\u3057\u3089\u305b"], "weight": 46.0, "number": 637, "height": 1.6, "species": "\u305f\u3044\u3088\u3046\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057", "\u307b\u306e\u304a"], "egg_groups": ["\u3080\u3057"], "name": "\u30a6\u30eb\u30ac\u30e2\u30b9", "parameters": {"defense": 105, "hp": 85, "attack": 60, "critical": 135, "total": 550, "speed": 100, "block": 65}, "exp": 10240, "friendship": 70}
+{
+  "abilities": [
+    "ほのおのからだ", 
+    "むしのしらせ"
+  ], 
+  "egg_groups": [
+    "むし"
+  ], 
+  "exp": 10240, 
+  "friendship": 70, 
+  "height": 1.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/637.png", 
+  "name": "ウルガモス", 
+  "number": 637, 
+  "parameters": {
+    "attack": 60, 
+    "block": 65, 
+    "critical": 135, 
+    "defense": 105, 
+    "hp": 85, 
+    "speed": 100, 
+    "total": 550
+  }, 
+  "species": "たいようポケモン", 
+  "types": [
+    "むし", 
+    "ほのお"
+  ], 
+  "weight": 46.0
+}

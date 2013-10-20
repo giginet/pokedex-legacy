@@ -1,1 +1,30 @@
-{"abilities": ["\u304c\u3093\u3058\u3087\u3046", "\u307c\u3046\u3058\u3093"], "weight": 125.8, "number": 205, "height": 1.2, "species": "\u307f\u306e\u3080\u3057\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057", "\u306f\u304c\u306d"], "egg_groups": ["\u3080\u3057"], "name": "\u30d5\u30a9\u30ec\u30c8\u30b9", "parameters": {"defense": 60, "hp": 75, "attack": 90, "critical": 60, "total": 465, "speed": 40, "block": 140}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "がんじょう", 
+    "ぼうじん"
+  ], 
+  "egg_groups": [
+    "むし"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.2, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/205-m.png", 
+  "name": "フォレトス", 
+  "number": 205, 
+  "parameters": {
+    "attack": 90, 
+    "block": 140, 
+    "critical": 60, 
+    "defense": 60, 
+    "hp": 75, 
+    "speed": 40, 
+    "total": 465
+  }, 
+  "species": "みのむしポケモン", 
+  "types": [
+    "むし", 
+    "はがね"
+  ], 
+  "weight": 125.8
+}

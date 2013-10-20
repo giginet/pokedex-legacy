@@ -1,1 +1,26 @@
-{"abilities": [], "weight": 50.0, "number": 604, "height": 50.0, "species": "\u3067\u3093\u304d\u3046\u304a\u30dd\u30b1\u30e2\u30f3", "types": ["\u3067\u3093\u304d"], "egg_groups": [], "name": "\u30b7\u30d3\u30eb\u30c9\u30f3", "parameters": {"defense": 80, "hp": 85, "attack": 115, "critical": 105, "total": 515, "speed": 50, "block": 80}, "exp": 70, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "ふていけい"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 2.1, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/604.png", 
+  "name": "シビルドン", 
+  "number": 604, 
+  "parameters": {
+    "attack": 115, 
+    "block": 80, 
+    "critical": 105, 
+    "defense": 80, 
+    "hp": 85, 
+    "speed": 50, 
+    "total": 515
+  }, 
+  "species": "でんきうおポケモン", 
+  "types": [
+    "でんき"
+  ], 
+  "weight": 80.5
+}

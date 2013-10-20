@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 60.0, "number": 381, "height": 2.0, "species": "\u3080\u3052\u3093\u30dd\u30b1\u30e2\u30f3", "types": ["\u30c9\u30e9\u30b4\u30f3", "\u30a8\u30b9\u30d1\u30fc"], "egg_groups": ["\u307f\u306f\u3063\u3051\u3093"], "name": "\u30e9\u30c6\u30a3\u30aa\u30b9", "parameters": {"defense": 110, "hp": 80, "attack": 90, "critical": 130, "total": 600, "speed": 110, "block": 80}, "exp": 30720, "friendship": 90}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 30720, 
+  "friendship": 90, 
+  "height": 2.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/381.png", 
+  "name": "ラティオス", 
+  "number": 381, 
+  "parameters": {
+    "attack": 90, 
+    "block": 80, 
+    "critical": 130, 
+    "defense": 110, 
+    "hp": 80, 
+    "speed": 110, 
+    "total": 600
+  }, 
+  "species": "むげんポケモン", 
+  "types": [
+    "ドラゴン", 
+    "エスパー"
+  ], 
+  "weight": 60.0
+}

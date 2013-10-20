@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 250.0, "number": 638, "height": 2.1, "species": "\u3066\u3063\u3057\u3093\u30dd\u30b1\u30e2\u30f3", "types": ["\u306f\u304c\u306d", "\u304b\u304f\u3068\u3046"], "egg_groups": ["\u307f\u306f\u3063\u3051\u3093"], "name": "\u30b3\u30d0\u30eb\u30aa\u30f3", "parameters": {"defense": 72, "hp": 91, "attack": 90, "critical": 90, "total": 580, "speed": 108, "block": 129}, "exp": 20480, "friendship": 35}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 20480, 
+  "friendship": 35, 
+  "height": 2.1, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/638.png", 
+  "name": "コバルオン", 
+  "number": 638, 
+  "parameters": {
+    "attack": 90, 
+    "block": 129, 
+    "critical": 90, 
+    "defense": 72, 
+    "hp": 91, 
+    "speed": 108, 
+    "total": 580
+  }, 
+  "species": "てっしんポケモン", 
+  "types": [
+    "はがね", 
+    "かくとう"
+  ], 
+  "weight": 250.0
+}

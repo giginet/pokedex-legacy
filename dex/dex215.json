@@ -1,1 +1,31 @@
-{"abilities": ["\u305b\u3044\u3057\u3093\u308a\u3087\u304f", "\u3059\u308b\u3069\u3044\u3081", "\u308f\u308b\u3044\u3066\u3050\u305b"], "weight": 28.0, "number": 215, "height": 0.9, "species": "\u304b\u304e\u3065\u3081\u30dd\u30b1\u30e2\u30f3", "types": ["\u3042\u304f", "\u3053\u304a\u308a"], "egg_groups": ["\u308a\u304f\u3058\u3087\u3046"], "name": "\u30cb\u30e5\u30fc\u30e9", "parameters": {"defense": 75, "hp": 55, "attack": 95, "critical": 35, "total": 430, "speed": 115, "block": 55}, "exp": 5120, "friendship": 35}
+{
+  "abilities": [
+    "せいしんりょく", 
+    "するどいめ", 
+    "わるいてぐせ"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 35, 
+  "height": 0.9, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/215-m.png", 
+  "name": "ニューラ", 
+  "number": 215, 
+  "parameters": {
+    "attack": 95, 
+    "block": 55, 
+    "critical": 35, 
+    "defense": 75, 
+    "hp": 55, 
+    "speed": 115, 
+    "total": 430
+  }, 
+  "species": "かぎづめポケモン", 
+  "types": [
+    "あく", 
+    "こおり"
+  ], 
+  "weight": 28.0
+}

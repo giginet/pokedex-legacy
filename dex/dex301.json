@@ -1,1 +1,31 @@
-{"abilities": ["\u30e1\u30ed\u30e1\u30ed\u30dc\u30c7\u30a3", "\u30ce\u30fc\u30de\u30eb\u30b9\u30ad\u30f3", "\u30df\u30e9\u30af\u30eb\u30b9\u30ad\u30f3"], "weight": 75.0, "number": 301, "height": 25.0, "species": "\u304a\u3059\u307e\u3057\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30a8\u30cd\u30b3\u30ed\u30ed", "parameters": {"defense": 55, "hp": 70, "attack": 65, "critical": 55, "total": 380, "speed": 70, "block": 65}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "メロメロボディ", 
+    "ノーマルスキン", 
+    "ミラクルスキン"
+  ], 
+  "egg_groups": [
+    "りくじょう", 
+    "ようせい"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 1.1, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/301-m.png", 
+  "name": "エネコロロ", 
+  "number": 301, 
+  "parameters": {
+    "attack": 65, 
+    "block": 65, 
+    "critical": 55, 
+    "defense": 55, 
+    "hp": 70, 
+    "speed": 70, 
+    "total": 380
+  }, 
+  "species": "おすましポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 32.6
+}

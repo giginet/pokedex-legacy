@@ -1,1 +1,29 @@
-{"abilities": ["\u3060\u3063\u3074", "\u3060\u3063\u3074"], "weight": 50.0, "number": 11, "height": 50.0, "species": "\u3055\u306a\u304e\u30dd\u30b1\u30e2\u30f3", "types": ["\u3080\u3057"], "egg_groups": [], "name": "\u30c8\u30e9\u30f3\u30bb\u30eb", "parameters": {"defense": 25, "hp": 50, "attack": 20, "critical": 25, "total": 205, "speed": 30, "block": 55}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "だっぴ", 
+    "だっぴ"
+  ], 
+  "egg_groups": [
+    "むし"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 0.7, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/011-m.png", 
+  "name": "トランセル", 
+  "number": 11, 
+  "parameters": {
+    "attack": 20, 
+    "block": 55, 
+    "critical": 25, 
+    "defense": 25, 
+    "hp": 50, 
+    "speed": 30, 
+    "total": 205
+  }, 
+  "species": "さなぎポケモン", 
+  "types": [
+    "むし"
+  ], 
+  "weight": 9.9
+}

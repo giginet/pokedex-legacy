@@ -1,1 +1,29 @@
-{"abilities": ["\u304b\u3052\u3075\u307f", "\u30c6\u30ec\u30d1\u30b7\u30fc"], "weight": 50.0, "number": 202, "height": 50.0, "species": "\u304c\u307e\u3093\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc"], "egg_groups": [], "name": "\u30bd\u30fc\u30ca\u30f3\u30b9", "parameters": {"defense": 58, "hp": 190, "attack": 33, "critical": 33, "total": 405, "speed": 33, "block": 58}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "かげふみ", 
+    "テレパシー"
+  ], 
+  "egg_groups": [
+    "ふていけい"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.3, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/202-m.png", 
+  "name": "ソーナンス", 
+  "number": 202, 
+  "parameters": {
+    "attack": 33, 
+    "block": 58, 
+    "critical": 33, 
+    "defense": 58, 
+    "hp": 190, 
+    "speed": 33, 
+    "total": 405
+  }, 
+  "species": "がまんポケモン", 
+  "types": [
+    "エスパー"
+  ], 
+  "weight": 28.5
+}

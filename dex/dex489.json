@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 0, "number": 489, "height": 0, "species": "\u304b\u3044\u3088\u3046\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30d5\u30a3\u30aa\u30cd", "parameters": {"defense": 80, "hp": 80, "attack": 80, "critical": 80, "total": 480, "speed": 80, "block": 80}, "exp": 70, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "すいちゅう１", 
+    "ようせい"
+  ], 
+  "exp": 10240, 
+  "friendship": 70, 
+  "height": 0.4, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/489.png", 
+  "name": "フィオネ", 
+  "number": 489, 
+  "parameters": {
+    "attack": 80, 
+    "block": 80, 
+    "critical": 80, 
+    "defense": 80, 
+    "hp": 80, 
+    "speed": 80, 
+    "total": 480
+  }, 
+  "species": "かいようポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 3.1
+}

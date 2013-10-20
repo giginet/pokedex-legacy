@@ -1,1 +1,30 @@
-{"abilities": ["\u306b\u3052\u3042\u3057", "\u3059\u308b\u3069\u3044\u3081", "\u30a2\u30ca\u30e9\u30a4\u30ba"], "weight": 50.0, "number": 504, "height": 50.0, "species": "\u307f\u306f\u308a\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb"], "egg_groups": [], "name": "\u30df\u30cd\u30ba\u30df", "parameters": {"defense": 39, "hp": 45, "attack": 55, "critical": 35, "total": 255, "speed": 42, "block": 39}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "にげあし", 
+    "するどいめ", 
+    "アナライズ"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 3840, 
+  "friendship": 70, 
+  "height": 0.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/504.png", 
+  "name": "ミネズミ", 
+  "number": 504, 
+  "parameters": {
+    "attack": 55, 
+    "block": 39, 
+    "critical": 35, 
+    "defense": 39, 
+    "hp": 45, 
+    "speed": 42, 
+    "total": 255
+  }, 
+  "species": "みはりポケモン", 
+  "types": [
+    "ノーマル"
+  ], 
+  "weight": 11.6
+}

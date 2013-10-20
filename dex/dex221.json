@@ -1,1 +1,31 @@
-{"abilities": ["\u3069\u3093\u304b\u3093", "\u3086\u304d\u304c\u304f\u308c", "\u3042\u3064\u3044\u3057\u307c\u3046"], "weight": 55.8, "number": 221, "height": 1.1, "species": "\u3044\u306e\u3057\u3057\u30dd\u30b1\u30e2\u30f3", "types": ["\u3053\u304a\u308a", "\u3058\u3081\u3093"], "egg_groups": ["\u308a\u304f\u3058\u3087\u3046"], "name": "\u30a4\u30ce\u30e0\u30fc", "parameters": {"defense": 60, "hp": 100, "attack": 100, "critical": 60, "total": 450, "speed": 50, "block": 80}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "どんかん", 
+    "ゆきがくれ", 
+    "あついしぼう"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.1, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/221-m.png", 
+  "name": "イノムー", 
+  "number": 221, 
+  "parameters": {
+    "attack": 100, 
+    "block": 80, 
+    "critical": 60, 
+    "defense": 60, 
+    "hp": 100, 
+    "speed": 50, 
+    "total": 450
+  }, 
+  "species": "いのししポケモン", 
+  "types": [
+    "こおり", 
+    "じめん"
+  ], 
+  "weight": 55.8
+}

@@ -1,1 +1,30 @@
-{"abilities": ["\u3069\u304f\u306e\u30c8\u30b2", "\u3068\u3046\u305d\u3046\u3057\u3093", "\u306f\u308a\u304d\u308a"], "weight": 0, "number": 30, "height": 0, "species": "\u3069\u304f\u3070\u308a\u30dd\u30b1\u30e2\u30f3", "types": ["\u3069\u304f"], "egg_groups": [], "name": "\u30cb\u30c9\u30ea\u30fc\u30ca", "parameters": {"defense": 55, "hp": 70, "attack": 62, "critical": 55, "total": 365, "speed": 56, "block": 67}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "どくのトゲ", 
+    "とうそうしん", 
+    "はりきり"
+  ], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.8, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/030.png", 
+  "name": "ニドリーナ", 
+  "number": 30, 
+  "parameters": {
+    "attack": 62, 
+    "block": 67, 
+    "critical": 55, 
+    "defense": 55, 
+    "hp": 70, 
+    "speed": 56, 
+    "total": 365
+  }, 
+  "species": "どくばりポケモン", 
+  "types": [
+    "どく"
+  ], 
+  "weight": 20.0
+}

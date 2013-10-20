@@ -1,1 +1,31 @@
-{"abilities": ["\u305b\u3044\u3057\u3093\u308a\u3087\u304f", "\u306f\u3084\u304a\u304d", "\u305d\u3046\u3057\u3087\u304f"], "weight": 41.5, "number": 203, "height": 1.5, "species": "\u304f\u3073\u306a\u304c\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb", "\u30a8\u30b9\u30d1\u30fc"], "egg_groups": ["\u308a\u304f\u3058\u3087\u3046"], "name": "\u30ad\u30ea\u30f3\u30ea\u30ad", "parameters": {"defense": 65, "hp": 70, "attack": 80, "critical": 90, "total": 455, "speed": 85, "block": 65}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "せいしんりょく", 
+    "はやおき", 
+    "そうしょく"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.5, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/203-m.png", 
+  "name": "キリンリキ", 
+  "number": 203, 
+  "parameters": {
+    "attack": 80, 
+    "block": 65, 
+    "critical": 90, 
+    "defense": 65, 
+    "hp": 70, 
+    "speed": 85, 
+    "total": 455
+  }, 
+  "species": "くびながポケモン", 
+  "types": [
+    "ノーマル", 
+    "エスパー"
+  ], 
+  "weight": 41.5
+}

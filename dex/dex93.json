@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 0.1, "number": 93, "height": 1.6, "species": "\u30ac\u30b9\u3058\u3087\u3046\u30dd\u30b1\u30e2\u30f3", "types": ["\u30b4\u30fc\u30b9\u30c8", "\u3069\u304f"], "egg_groups": ["\u3075\u3066\u3044\u3051\u3044"], "name": "\u30b4\u30fc\u30b9\u30c8", "parameters": {"defense": 55, "hp": 45, "attack": 50, "critical": 115, "total": 405, "speed": 95, "block": 45}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "ふていけい"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/093-m.png", 
+  "name": "ゴースト", 
+  "number": 93, 
+  "parameters": {
+    "attack": 50, 
+    "block": 45, 
+    "critical": 115, 
+    "defense": 55, 
+    "hp": 45, 
+    "speed": 95, 
+    "total": 405
+  }, 
+  "species": "ガスじょうポケモン", 
+  "types": [
+    "ゴースト", 
+    "どく"
+  ], 
+  "weight": 0.1
+}

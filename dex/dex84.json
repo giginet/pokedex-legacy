@@ -1,1 +1,31 @@
-{"abilities": ["\u306b\u3052\u3042\u3057", "\u306f\u3084\u304a\u304d", "\u3061\u3069\u308a\u3042\u3057"], "weight": 39.2, "number": 84, "height": 1.4, "species": "\u3075\u305f\u3054\u3069\u308a\u30dd\u30b1\u30e2\u30f3", "types": ["\u30ce\u30fc\u30de\u30eb", "\u3072\u3053\u3046"], "egg_groups": ["\u3072\u3053\u3046"], "name": "\u30c9\u30fc\u30c9\u30fc", "parameters": {"defense": 35, "hp": 35, "attack": 85, "critical": 35, "total": 310, "speed": 75, "block": 45}, "exp": 5120, "friendship": 70}
+{
+  "abilities": [
+    "にげあし", 
+    "はやおき", 
+    "ちどりあし"
+  ], 
+  "egg_groups": [
+    "ひこう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.4, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/084-m.png", 
+  "name": "ドードー", 
+  "number": 84, 
+  "parameters": {
+    "attack": 85, 
+    "block": 45, 
+    "critical": 35, 
+    "defense": 35, 
+    "hp": 35, 
+    "speed": 75, 
+    "total": 310
+  }, 
+  "species": "ふたごどりポケモン", 
+  "types": [
+    "ノーマル", 
+    "ひこう"
+  ], 
+  "weight": 39.2
+}

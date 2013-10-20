@@ -1,1 +1,30 @@
-{"abilities": ["\u30de\u30b0\u30de\u306e\u3088\u308d\u3044", "\u307b\u306e\u304a\u306e\u304b\u3089\u3060", "\u304f\u3060\u3051\u308b\u3088\u308d\u3044"], "weight": 50.0, "number": 218, "height": 50.0, "species": "\u3088\u3046\u304c\u3093\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a"], "egg_groups": [], "name": "\u30de\u30b0\u30de\u30c3\u30b0", "parameters": {"defense": 40, "hp": 40, "attack": 40, "critical": 70, "total": 250, "speed": 20, "block": 40}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "マグマのよろい", 
+    "ほのおのからだ", 
+    "くだけるよろい"
+  ], 
+  "egg_groups": [
+    "ふていけい"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.7, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/218-m.png", 
+  "name": "マグマッグ", 
+  "number": 218, 
+  "parameters": {
+    "attack": 40, 
+    "block": 40, 
+    "critical": 70, 
+    "defense": 40, 
+    "hp": 40, 
+    "speed": 20, 
+    "total": 250
+  }, 
+  "species": "ようがんポケモン", 
+  "types": [
+    "ほのお"
+  ], 
+  "weight": 35.0
+}

@@ -1,1 +1,30 @@
-{"abilities": ["\u3044\u304b\u304f", "\u3082\u3089\u3044\u3073", "\u305b\u3044\u304e\u306e\u3053\u3053\u308d"], "weight": 25.0, "number": 59, "height": 75.0, "species": "\u3067\u3093\u305b\u3064\u30dd\u30b1\u30e2\u30f3", "types": ["\u307b\u306e\u304a"], "egg_groups": [], "name": "\u30a6\u30a4\u30f3\u30c7\u30a3", "parameters": {"defense": 80, "hp": 90, "attack": 110, "critical": 100, "total": 555, "speed": 95, "block": 80}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "いかく", 
+    "もらいび", 
+    "せいぎのこころ"
+  ], 
+  "egg_groups": [
+    "りくじょう"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 1.9, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/059-m.png", 
+  "name": "ウインディ", 
+  "number": 59, 
+  "parameters": {
+    "attack": 110, 
+    "block": 80, 
+    "critical": 100, 
+    "defense": 80, 
+    "hp": 90, 
+    "speed": 95, 
+    "total": 555
+  }, 
+  "species": "でんせつポケモン", 
+  "types": [
+    "ほのお"
+  ], 
+  "weight": 155.0
+}

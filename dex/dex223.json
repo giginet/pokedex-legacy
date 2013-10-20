@@ -1,1 +1,31 @@
-{"abilities": ["\u306f\u308a\u304d\u308a", "\u30b9\u30ca\u30a4\u30d1\u30fc", "\u30e0\u30e9\u3063\u3051"], "weight": 50.0, "number": 223, "height": 50.0, "species": "\u3075\u3093\u3057\u3083\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30c6\u30c3\u30dd\u30a6\u30aa", "parameters": {"defense": 35, "hp": 35, "attack": 65, "critical": 65, "total": 300, "speed": 65, "block": 35}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "はりきり", 
+    "スナイパー", 
+    "ムラっけ"
+  ], 
+  "egg_groups": [
+    "すいちゅう１", 
+    "すいちゅう２"
+  ], 
+  "exp": 5120, 
+  "friendship": 70, 
+  "height": 0.6, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/223-m.png", 
+  "name": "テッポウオ", 
+  "number": 223, 
+  "parameters": {
+    "attack": 65, 
+    "block": 35, 
+    "critical": 65, 
+    "defense": 35, 
+    "hp": 35, 
+    "speed": 65, 
+    "total": 300
+  }, 
+  "species": "ふんしゃポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 12.0
+}

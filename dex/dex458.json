@@ -1,1 +1,31 @@
-{"abilities": ["\u3059\u3044\u3059\u3044", "\u3061\u3087\u3059\u3044", "\u307f\u305a\u306e\u30d9\u30fc\u30eb"], "weight": 65.0, "number": 458, "height": 1.0, "species": "\u30ab\u30a4\u30c8\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a", "\u3072\u3053\u3046"], "egg_groups": ["\u307f\u306f\u3063\u3051\u3093"], "name": "\u30bf\u30de\u30f3\u30bf", "parameters": {"defense": 120, "hp": 45, "attack": 20, "critical": 60, "total": 345, "speed": 50, "block": 50}, "exp": 6400, "friendship": 70}
+{
+  "abilities": [
+    "すいすい", 
+    "ちょすい", 
+    "みずのベール"
+  ], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 6400, 
+  "friendship": 70, 
+  "height": 1.0, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/458-m.png", 
+  "name": "タマンタ", 
+  "number": 458, 
+  "parameters": {
+    "attack": 20, 
+    "block": 50, 
+    "critical": 60, 
+    "defense": 120, 
+    "hp": 45, 
+    "speed": 50, 
+    "total": 345
+  }, 
+  "species": "カイトポケモン", 
+  "types": [
+    "みず", 
+    "ひこう"
+  ], 
+  "weight": 65.0
+}

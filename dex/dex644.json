@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 345.0, "number": 644, "height": 2.9, "species": "\u3053\u304f\u3044\u3093\u30dd\u30b1\u30e2\u30f3", "types": ["\u30c9\u30e9\u30b4\u30f3", "\u3067\u3093\u304d"], "egg_groups": ["\u307f\u306f\u3063\u3051\u3093"], "name": "\u30bc\u30af\u30ed\u30e0", "parameters": {"defense": 100, "hp": 100, "attack": 150, "critical": 120, "total": 680, "speed": 90, "block": 120}, "exp": 30720, "friendship": 0}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 30720, 
+  "friendship": 0, 
+  "height": 2.9, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/644.png", 
+  "name": "ゼクロム", 
+  "number": 644, 
+  "parameters": {
+    "attack": 150, 
+    "block": 120, 
+    "critical": 120, 
+    "defense": 100, 
+    "hp": 100, 
+    "speed": 90, 
+    "total": 680
+  }, 
+  "species": "こくいんポケモン", 
+  "types": [
+    "ドラゴン", 
+    "でんき"
+  ], 
+  "weight": 345.0
+}

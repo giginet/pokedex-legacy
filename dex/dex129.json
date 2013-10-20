@@ -1,1 +1,30 @@
-{"abilities": ["\u3059\u3044\u3059\u3044", "\u3073\u3073\u308a"], "weight": 50.0, "number": 129, "height": 50.0, "species": "\u3055\u304b\u306a\u30dd\u30b1\u30e2\u30f3", "types": ["\u307f\u305a"], "egg_groups": [], "name": "\u30b3\u30a4\u30ad\u30f3\u30b0", "parameters": {"defense": 20, "hp": 20, "attack": 10, "critical": 15, "total": 200, "speed": 80, "block": 55}, "exp": 70, "friendship": 0}
+{
+  "abilities": [
+    "すいすい", 
+    "びびり"
+  ], 
+  "egg_groups": [
+    "すいちゅう２", 
+    "ドラゴン"
+  ], 
+  "exp": 1280, 
+  "friendship": 70, 
+  "height": 0.9, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/129-m.png", 
+  "name": "コイキング", 
+  "number": 129, 
+  "parameters": {
+    "attack": 10, 
+    "block": 55, 
+    "critical": 15, 
+    "defense": 20, 
+    "hp": 20, 
+    "speed": 80, 
+    "total": 200
+  }, 
+  "species": "さかなポケモン", 
+  "types": [
+    "みず"
+  ], 
+  "weight": 10.0
+}

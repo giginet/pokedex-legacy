@@ -1,1 +1,30 @@
-{"abilities": ["\u30b7\u30f3\u30af\u30ed", "\u30c8\u30ec\u30fc\u30b9", "\u30c6\u30ec\u30d1\u30b7\u30fc"], "weight": 50.0, "number": 280, "height": 50.0, "species": "\u304d\u3082\u3061\u30dd\u30b1\u30e2\u30f3", "types": ["\u30a8\u30b9\u30d1\u30fc"], "egg_groups": [], "name": "\u30e9\u30eb\u30c8\u30b9", "parameters": {"defense": 35, "hp": 28, "attack": 25, "critical": 45, "total": 198, "speed": 40, "block": 25}, "exp": 35, "friendship": 0}
+{
+  "abilities": [
+    "シンクロ", 
+    "トレース", 
+    "テレパシー"
+  ], 
+  "egg_groups": [
+    "ふていけい"
+  ], 
+  "exp": 5120, 
+  "friendship": 35, 
+  "height": 0.4, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/280-m.png", 
+  "name": "ラルトス", 
+  "number": 280, 
+  "parameters": {
+    "attack": 25, 
+    "block": 25, 
+    "critical": 45, 
+    "defense": 35, 
+    "hp": 28, 
+    "speed": 40, 
+    "total": 198
+  }, 
+  "species": "きもちポケモン", 
+  "types": [
+    "エスパー"
+  ], 
+  "weight": 6.6
+}

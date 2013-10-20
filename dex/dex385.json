@@ -1,1 +1,27 @@
-{"abilities": [], "weight": 1.1, "number": 385, "height": 0.3, "species": "\u306d\u304c\u3044\u3054\u3068\u30dd\u30b1\u30e2\u30f3", "types": ["\u306f\u304c\u306d", "\u30a8\u30b9\u30d1\u30fc"], "egg_groups": ["\u307f\u306f\u3063\u3051\u3093"], "name": "\u30b8\u30e9\u30fc\u30c1", "parameters": {"defense": 100, "hp": 100, "attack": 100, "critical": 100, "total": 600, "speed": 100, "block": 100}, "exp": 30720, "friendship": 100}
+{
+  "abilities": [], 
+  "egg_groups": [
+    "みはっけん"
+  ], 
+  "exp": 30720, 
+  "friendship": 100, 
+  "height": 0.3, 
+  "image_url": "http://wiki.gamerp.jp/img/pokemon/385.png", 
+  "name": "ジラーチ", 
+  "number": 385, 
+  "parameters": {
+    "attack": 100, 
+    "block": 100, 
+    "critical": 100, 
+    "defense": 100, 
+    "hp": 100, 
+    "speed": 100, 
+    "total": 600
+  }, 
+  "species": "ねがいごとポケモン", 
+  "types": [
+    "はがね", 
+    "エスパー"
+  ], 
+  "weight": 1.1
+}
